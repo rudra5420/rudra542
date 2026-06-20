@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there%2C%20I'm%20Rudra%20Pratap%20%F0%9F%91%8B&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=38&desc=B.Tech%20CSE%20%40%20GGSIPU%20%7C%20C%2B%2B%20%26%20DSA%20%7C%20Web%20Automation%20%26%20F%26O%20Enthusiast&descAlignY=58" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there%2C%20I%27m%20Rudra%20Pratap%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=B.Tech%20CSE%20%40%20GGSIPU%20%7C%20C%2B%2B%20%26%20DSA%20%7C%20Web%20Automation%20%26%20F%26O%20Enthusiast&descAlignY=58" width="100%" alt="Rudra Pratap GitHub banner" />
 </p>
 
 ---
