@@ -1,3 +1,4 @@
+<!-- CHRONICLE:START -->
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there%2C%20I'm%20Rudra%20Pratap&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20C%2B%2B%20%26%20DSA%20%7C%20Web%20Automation%20%7C%20Stock%20Market%20Enthusiast&descAlignY=58" />
 </div>
@@ -48,3 +49,4 @@
 <!-- CHRONICLE:END -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
+<!-- CHRONICLE:END -->
