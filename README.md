@@ -49,3 +49,63 @@
 <!-- CHRONICLE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
+<!-- CHRONICLE:START -->
+
+<div align="center">
+
+### ⚡ THE CHRONICLE
+
+**Saturday, Jun 20 2026 · Day 171 of 365**
+
+---
+
+📅 **Year in Progress**
+
+`████████████░░░░░░░░░░░░░░` **46.8%** — *194 days remaining*
+
+---
+
+📌 **Consistency Status**
+
+`Days 1-170:` Not done  
+`Day 171 onward:` Tracking started
+
+---
+
+🌌 **Constellation #171**
+
+```txt
+                       ✺   ★           ★
+            ∗                 ∗     ✦
+                     ✸               ✧
+            ·         ⋆     ⋆           ·
+```
+
+---
+
+🎨 **Color of the Day · `#D615E8` · Amethyst**
+
+[![color swatch](https://img.shields.io/badge/Amethyst-D615E8?style=for-the-badge&color=D615E8&labelColor=D615E8)](https://www.color-hex.com/color/D615E8)
+
+---
+
+💬 **Daily Wisdom**
+
+*"Refactoring is paying off technical debt."*
+
+— **Martin Fowler**
+
+---
+
+💡 **Tip of the Week · Week 25**
+
+Start late if needed, but stay consistent once you begin.
+
+</div>
+
+*🤖 Auto-refreshed daily at midnight UTC · Powered by [GitHub Actions](../../actions)*
+
+</div>
+<!-- CHRONICLE:END -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
