@@ -1,0 +1,64 @@
+name: ⚡ Daily Chronicle
+
+# ─── TRIGGERS ────────────────────────────────────────────────────
+on:
+  schedule:
+    # Runs every day at 00:00 UTC (midnight)
+    # Adjust the hour to your preferred timezone:
+    #   For IST (UTC+5:30) use: '30 18 * * *' (18:30 UTC = midnight IST)
+    #   For EST (UTC-5)    use: '0 5 * * *'
+    #   For PST (UTC-8)    use: '0 8 * * *'
+    - cron: '0 0 * * *'
+
+  # Allow manual trigger from the Actions tab at any time
+  workflow_dispatch:
+
+# ─── PERMISSIONS ─────────────────────────────────────────────────
+# Required to commit and push the updated README back to the repo
+permissions:
+  contents: write
+
+# ─── JOB ─────────────────────────────────────────────────────────
+jobs:
+  update-chronicle:
+    name: Refresh Daily Chronicle
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Check out the repository
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Use default GITHUB_TOKEN — no extra secrets needed
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2. Set up Python (no third-party packages needed)
+      - name: 🐍 Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # 3. Run the Chronicle script — updates README.md in-place
+      - name: ✨ Generate today's Chronicle
+        run: python scripts/daily_update.py
+
+      # 4. Check whether README.md actually changed
+      #    (prevents empty "no-op" commits on holidays or gaps)
+      - name: 🔍 Detect changes
+        id: diff
+        run: |
+          if git diff --quiet README.md; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      # 5. Commit and push only when there are real changes
+      - name: 📤 Commit and push update
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name  "Chronicle Bot 🤖"
+          git config user.email "chronicle-bot@users.noreply.github.com"
+          git add README.md
+          git commit -m "📅 Chronicle: $(date -u +'%a %b %d, %Y')"
+          git push
