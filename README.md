@@ -46,62 +46,106 @@
 
 
 <!-- CHRONICLE:START -->
-<!-- CHRONICLE:END -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
-<!-- CHRONICLE:START -->
-
 <div align="center">
+
+---
 
 ### ⚡ THE CHRONICLE
 
-**Saturday, Jun 20 2026 · Day 171 of 365**
+**Sunday, Jun 21 2026 · Day 172 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████░░░░░░░░░░░░░░` **46.8%** — *194 days remaining*
+`████████████░░░░░░░░░░░░░░` **47.1%** — *193 days remaining*
 
 ---
 
-📌 **Consistency Status**
+🌌 **Constellation #172**
 
-`Days 1-170:` Not done  
-`Day 171 onward:` Tracking started
-
----
-
-🌌 **Constellation #171**
-
-```txt
-                       ✺   ★           ★
-            ∗                 ∗     ✦
-                     ✸               ✧
-            ·         ⋆     ⋆           ·
+```
+           ★       ✺ ★         ✺              
+    ✦                       ∗       ✦     ∗   
+   ✧       ✸       ✧                          
+                        · · ⋆                 
 ```
 
 ---
 
-🎨 **Color of the Day · `#D615E8` · Amethyst**
+🎨 **Color of the Day · `#1F7EC2` · Sky Blue**
 
-[![color swatch](https://img.shields.io/badge/Amethyst-D615E8?style=for-the-badge&color=D615E8&labelColor=D615E8)](https://www.color-hex.com/color/D615E8)
+[![color swatch](https://img.shields.io/badge/Sky_Blue-1F7EC2?style=for-the-badge&color=1F7EC2&labelColor=1F7EC2)](https://www.color-hex.com/color/1F7EC2)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Refactoring is paying off technical debt."*
+*"Controlling complexity is the essence of computer programming."*
 
-— **Martin Fowler**
+— **Brian W. Kernighan**
 
 ---
 
 💡 **Tip of the Week · Week 25**
 
-Start late if needed, but stay consistent once you begin.
+**Database Indexes** — Add indexes to columns you frequently filter or sort by. An unindexed query on millions of rows can be 1,000× slower than an indexed one.
+
+---
+
+*🤖 Auto-refreshed daily at midnight UTC · Powered by [GitHub Actions](../../actions)*
 
 </div>
+<!-- CHRONICLE:END -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
+<!-- CHRONICLE:START -->
+<div align="center">
+
+---
+
+### ⚡ THE CHRONICLE
+
+**Sunday, Jun 21 2026 · Day 172 of 365**
+
+---
+
+📅 **Year in Progress**
+
+`████████████░░░░░░░░░░░░░░` **47.1%** — *193 days remaining*
+
+---
+
+🌌 **Constellation #172**
+
+```
+           ★       ✺ ★         ✺              
+    ✦                       ∗       ✦     ∗   
+   ✧       ✸       ✧                          
+                        · · ⋆                 
+```
+
+---
+
+🎨 **Color of the Day · `#1F7EC2` · Sky Blue**
+
+[![color swatch](https://img.shields.io/badge/Sky_Blue-1F7EC2?style=for-the-badge&color=1F7EC2&labelColor=1F7EC2)](https://www.color-hex.com/color/1F7EC2)
+
+---
+
+💬 **Daily Wisdom**
+
+*"Controlling complexity is the essence of computer programming."*
+
+— **Brian W. Kernighan**
+
+---
+
+💡 **Tip of the Week · Week 25**
+
+**Database Indexes** — Add indexes to columns you frequently filter or sort by. An unindexed query on millions of rows can be 1,000× slower than an indexed one.
+
+---
 
 *🤖 Auto-refreshed daily at midnight UTC · Powered by [GitHub Actions](../../actions)*
 
