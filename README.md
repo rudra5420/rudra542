@@ -52,44 +52,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Jun 21 2026 · Day 172 of 365**
+**Monday, Jun 22 2026 · Day 173 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████░░░░░░░░░░░░░░` **47.1%** — *193 days remaining*
+`████████████░░░░░░░░░░░░░░` **47.4%** — *192 days remaining*
 
 ---
 
-🌌 **Constellation #172**
+🌌 **Constellation #173**
 
 ```
-           ★       ✺ ★         ✺              
-    ✦                       ∗       ✦     ∗   
-   ✧       ✸       ✧                          
-                        · · ⋆                 
+                       ★                   ✺  
+            ✦         ✦       ∗               
+ ✸                       ✧                    
+                        ⋆ ·                 · 
 ```
 
 ---
 
-🎨 **Color of the Day · `#1F7EC2` · Sky Blue**
+🎨 **Color of the Day · `#B8271A` · Crimson**
 
-[![color swatch](https://img.shields.io/badge/Sky_Blue-1F7EC2?style=for-the-badge&color=1F7EC2&labelColor=1F7EC2)](https://www.color-hex.com/color/1F7EC2)
+[![color swatch](https://img.shields.io/badge/Crimson-B8271A?style=for-the-badge&color=B8271A&labelColor=B8271A)](https://www.color-hex.com/color/B8271A)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Controlling complexity is the essence of computer programming."*
+*"Code is like humor. When you have to explain it, it's bad."*
 
-— **Brian W. Kernighan**
+— **Cory House**
 
 ---
 
-💡 **Tip of the Week · Week 25**
+💡 **Tip of the Week · Week 26**
 
-**Database Indexes** — Add indexes to columns you frequently filter or sort by. An unindexed query on millions of rows can be 1,000× slower than an indexed one.
+**DRY vs Abstraction** — DRY is a principle, not a religion. Some duplication is acceptable. The wrong abstraction is far more painful than a little repetition.
 
 ---
 
@@ -106,44 +106,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Jun 21 2026 · Day 172 of 365**
+**Monday, Jun 22 2026 · Day 173 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████░░░░░░░░░░░░░░` **47.1%** — *193 days remaining*
+`████████████░░░░░░░░░░░░░░` **47.4%** — *192 days remaining*
 
 ---
 
-🌌 **Constellation #172**
+🌌 **Constellation #173**
 
 ```
-           ★       ✺ ★         ✺              
-    ✦                       ∗       ✦     ∗   
-   ✧       ✸       ✧                          
-                        · · ⋆                 
+                       ★                   ✺  
+            ✦         ✦       ∗               
+ ✸                       ✧                    
+                        ⋆ ·                 · 
 ```
 
 ---
 
-🎨 **Color of the Day · `#1F7EC2` · Sky Blue**
+🎨 **Color of the Day · `#B8271A` · Crimson**
 
-[![color swatch](https://img.shields.io/badge/Sky_Blue-1F7EC2?style=for-the-badge&color=1F7EC2&labelColor=1F7EC2)](https://www.color-hex.com/color/1F7EC2)
+[![color swatch](https://img.shields.io/badge/Crimson-B8271A?style=for-the-badge&color=B8271A&labelColor=B8271A)](https://www.color-hex.com/color/B8271A)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Controlling complexity is the essence of computer programming."*
+*"Code is like humor. When you have to explain it, it's bad."*
 
-— **Brian W. Kernighan**
+— **Cory House**
 
 ---
 
-💡 **Tip of the Week · Week 25**
+💡 **Tip of the Week · Week 26**
 
-**Database Indexes** — Add indexes to columns you frequently filter or sort by. An unindexed query on millions of rows can be 1,000× slower than an indexed one.
+**DRY vs Abstraction** — DRY is a principle, not a religion. Some duplication is acceptable. The wrong abstraction is far more painful than a little repetition.
 
 ---
 
