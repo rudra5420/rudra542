@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Monday, Jun 22 2026 · Day 173 of 365**
+**Tuesday, Jun 23 2026 · Day 174 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████░░░░░░░░░░░░░░` **47.4%** — *192 days remaining*
+`████████████░░░░░░░░░░░░░░` **47.7%** — *191 days remaining*
 
 ---
 
-🌌 **Constellation #173**
+🌌 **Constellation #174**
 
 ```
-                       ★                   ✺  
-            ✦         ✦       ∗               
- ✸                       ✧                    
-                        ⋆ ·                 · 
+                     ✺         ★   ★     ✺    
+    ∗   ✦                   ∗               ✦ 
+         ✧         ✸     ✧                 ✸  
+                ·         · ⋆               ⋆ 
 ```
 
 ---
 
-🎨 **Color of the Day · `#B8271A` · Crimson**
+🎨 **Color of the Day · `#E843E8` · Magenta**
 
-[![color swatch](https://img.shields.io/badge/Crimson-B8271A?style=for-the-badge&color=B8271A&labelColor=B8271A)](https://www.color-hex.com/color/B8271A)
+[![color swatch](https://img.shields.io/badge/Magenta-E843E8?style=for-the-badge&color=E843E8&labelColor=E843E8)](https://www.color-hex.com/color/E843E8)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Code is like humor. When you have to explain it, it's bad."*
+*"Make it work, make it right, make it fast."*
 
-— **Cory House**
+— **Kent Beck**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Monday, Jun 22 2026 · Day 173 of 365**
+**Tuesday, Jun 23 2026 · Day 174 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████░░░░░░░░░░░░░░` **47.4%** — *192 days remaining*
+`████████████░░░░░░░░░░░░░░` **47.7%** — *191 days remaining*
 
 ---
 
-🌌 **Constellation #173**
+🌌 **Constellation #174**
 
 ```
-                       ★                   ✺  
-            ✦         ✦       ∗               
- ✸                       ✧                    
-                        ⋆ ·                 · 
+                     ✺         ★   ★     ✺    
+    ∗   ✦                   ∗               ✦ 
+         ✧         ✸     ✧                 ✸  
+                ·         · ⋆               ⋆ 
 ```
 
 ---
 
-🎨 **Color of the Day · `#B8271A` · Crimson**
+🎨 **Color of the Day · `#E843E8` · Magenta**
 
-[![color swatch](https://img.shields.io/badge/Crimson-B8271A?style=for-the-badge&color=B8271A&labelColor=B8271A)](https://www.color-hex.com/color/B8271A)
+[![color swatch](https://img.shields.io/badge/Magenta-E843E8?style=for-the-badge&color=E843E8&labelColor=E843E8)](https://www.color-hex.com/color/E843E8)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Code is like humor. When you have to explain it, it's bad."*
+*"Make it work, make it right, make it fast."*
 
-— **Cory House**
+— **Kent Beck**
 
 ---
 
