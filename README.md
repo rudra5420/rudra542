@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Tuesday, Jun 23 2026 · Day 174 of 365**
+**Wednesday, Jun 24 2026 · Day 175 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████░░░░░░░░░░░░░░` **47.7%** — *191 days remaining*
+`████████████░░░░░░░░░░░░░░` **47.9%** — *190 days remaining*
 
 ---
 
-🌌 **Constellation #174**
+🌌 **Constellation #175**
 
 ```
-                     ✺         ★   ★     ✺    
-    ∗   ✦                   ∗               ✦ 
-         ✧         ✸     ✧                 ✸  
-                ·         · ⋆               ⋆ 
+     ★               ✺                       ✺
+      ∗ ✦           ✦                         
+       ✧       ✧                       ✸      
+          ·         ⋆               ·     ⋆   
 ```
 
 ---
 
-🎨 **Color of the Day · `#E843E8` · Magenta**
+🎨 **Color of the Day · `#361ED4` · Indigo**
 
-[![color swatch](https://img.shields.io/badge/Magenta-E843E8?style=for-the-badge&color=E843E8&labelColor=E843E8)](https://www.color-hex.com/color/E843E8)
+[![color swatch](https://img.shields.io/badge/Indigo-361ED4?style=for-the-badge&color=361ED4&labelColor=361ED4)](https://www.color-hex.com/color/361ED4)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Make it work, make it right, make it fast."*
+*"Programs must be written for people to read, and only incidentally for machines to execute."*
 
-— **Kent Beck**
+— **Harold Abelson**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Tuesday, Jun 23 2026 · Day 174 of 365**
+**Wednesday, Jun 24 2026 · Day 175 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████░░░░░░░░░░░░░░` **47.7%** — *191 days remaining*
+`████████████░░░░░░░░░░░░░░` **47.9%** — *190 days remaining*
 
 ---
 
-🌌 **Constellation #174**
+🌌 **Constellation #175**
 
 ```
-                     ✺         ★   ★     ✺    
-    ∗   ✦                   ∗               ✦ 
-         ✧         ✸     ✧                 ✸  
-                ·         · ⋆               ⋆ 
+     ★               ✺                       ✺
+      ∗ ✦           ✦                         
+       ✧       ✧                       ✸      
+          ·         ⋆               ·     ⋆   
 ```
 
 ---
 
-🎨 **Color of the Day · `#E843E8` · Magenta**
+🎨 **Color of the Day · `#361ED4` · Indigo**
 
-[![color swatch](https://img.shields.io/badge/Magenta-E843E8?style=for-the-badge&color=E843E8&labelColor=E843E8)](https://www.color-hex.com/color/E843E8)
+[![color swatch](https://img.shields.io/badge/Indigo-361ED4?style=for-the-badge&color=361ED4&labelColor=361ED4)](https://www.color-hex.com/color/361ED4)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Make it work, make it right, make it fast."*
+*"Programs must be written for people to read, and only incidentally for machines to execute."*
 
-— **Kent Beck**
+— **Harold Abelson**
 
 ---
 
