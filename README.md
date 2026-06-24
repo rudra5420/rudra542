@@ -9,7 +9,7 @@
 - 🔭 Currently building: **Automation scripts & trading tools**
 - 🌱 Currently learning: **Data Structures & Algorithms, Futures & Options**
 - 💬 Ask me about: **C++, web automation, stock market basics**
-- 📫 Reach me at: **your-email-here**
+- 📫 Reach me at: **rudrapratapofficial2.0@gmail.com**
 - ⚡ Fun fact: **I love combining code with markets to test trading ideas**
 
 ---
