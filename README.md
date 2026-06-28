@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Saturday, Jun 27 2026 · Day 178 of 365**
+**Sunday, Jun 28 2026 · Day 179 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████░░░░░░░░░░░░░` **48.8%** — *187 days remaining*
+`█████████████░░░░░░░░░░░░░` **49.0%** — *186 days remaining*
 
 ---
 
-🌌 **Constellation #178**
+🌌 **Constellation #179**
 
 ```
-     ✺     ✺   ★       ★                      
-                  ∗       ✦       ∗         ✦ 
-         ✸                       ✧ ✸          
-        ·                 ⋆ ·         ⋆       
+                 ✺   ✺         ★              
+✦               ✦               ∗   ∗         
+ ✸         ✸                     ✧            
+                              ⋆ ⋆         ·   
 ```
 
 ---
 
-🎨 **Color of the Day · `#16E024` · Emerald**
+🎨 **Color of the Day · `#7D3FC4` · Violet**
 
-[![color swatch](https://img.shields.io/badge/Emerald-16E024?style=for-the-badge&color=16E024&labelColor=16E024)](https://www.color-hex.com/color/16E024)
+[![color swatch](https://img.shields.io/badge/Violet-7D3FC4?style=for-the-badge&color=7D3FC4&labelColor=7D3FC4)](https://www.color-hex.com/color/7D3FC4)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Code is like humor. When you have to explain it, it's bad."*
+*"First, solve the problem. Then, write the code."*
 
-— **Cory House**
+— **John Johnson**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Saturday, Jun 27 2026 · Day 178 of 365**
+**Sunday, Jun 28 2026 · Day 179 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████░░░░░░░░░░░░░` **48.8%** — *187 days remaining*
+`█████████████░░░░░░░░░░░░░` **49.0%** — *186 days remaining*
 
 ---
 
-🌌 **Constellation #178**
+🌌 **Constellation #179**
 
 ```
-     ✺     ✺   ★       ★                      
-                  ∗       ✦       ∗         ✦ 
-         ✸                       ✧ ✸          
-        ·                 ⋆ ·         ⋆       
+                 ✺   ✺         ★              
+✦               ✦               ∗   ∗         
+ ✸         ✸                     ✧            
+                              ⋆ ⋆         ·   
 ```
 
 ---
 
-🎨 **Color of the Day · `#16E024` · Emerald**
+🎨 **Color of the Day · `#7D3FC4` · Violet**
 
-[![color swatch](https://img.shields.io/badge/Emerald-16E024?style=for-the-badge&color=16E024&labelColor=16E024)](https://www.color-hex.com/color/16E024)
+[![color swatch](https://img.shields.io/badge/Violet-7D3FC4?style=for-the-badge&color=7D3FC4&labelColor=7D3FC4)](https://www.color-hex.com/color/7D3FC4)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Code is like humor. When you have to explain it, it's bad."*
+*"First, solve the problem. Then, write the code."*
 
-— **Cory House**
+— **John Johnson**
 
 ---
 
