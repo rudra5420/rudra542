@@ -52,44 +52,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Jun 28 2026 · Day 179 of 365**
+**Monday, Jun 29 2026 · Day 180 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████░░░░░░░░░░░░░` **49.0%** — *186 days remaining*
+`█████████████░░░░░░░░░░░░░` **49.3%** — *185 days remaining*
 
 ---
 
-🌌 **Constellation #179**
+🌌 **Constellation #180**
 
 ```
-                 ✺   ✺         ★              
-✦               ✦               ∗   ∗         
- ✸         ✸                     ✧            
-                              ⋆ ⋆         ·   
+       ★                   ★                  
+                      ∗       ∗     ✦         
+                       ✧   ✸ ✸                
+·             ⋆             ⋆                 
 ```
 
 ---
 
-🎨 **Color of the Day · `#7D3FC4` · Violet**
+🎨 **Color of the Day · `#373DE6` · Ocean**
 
-[![color swatch](https://img.shields.io/badge/Violet-7D3FC4?style=for-the-badge&color=7D3FC4&labelColor=7D3FC4)](https://www.color-hex.com/color/7D3FC4)
+[![color swatch](https://img.shields.io/badge/Ocean-373DE6?style=for-the-badge&color=373DE6&labelColor=373DE6)](https://www.color-hex.com/color/373DE6)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"First, solve the problem. Then, write the code."*
+*"Controlling complexity is the essence of computer programming."*
 
-— **John Johnson**
+— **Brian W. Kernighan**
 
 ---
 
-💡 **Tip of the Week · Week 26**
+💡 **Tip of the Week · Week 27**
 
-**DRY vs Abstraction** — DRY is a principle, not a religion. Some duplication is acceptable. The wrong abstraction is far more painful than a little repetition.
+**Learn tmux** — Terminal multiplexer: split panes, multiple windows, detachable sessions that survive SSH disconnects. It changes how you work in terminals.
 
 ---
 
@@ -106,44 +106,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Jun 28 2026 · Day 179 of 365**
+**Monday, Jun 29 2026 · Day 180 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████░░░░░░░░░░░░░` **49.0%** — *186 days remaining*
+`█████████████░░░░░░░░░░░░░` **49.3%** — *185 days remaining*
 
 ---
 
-🌌 **Constellation #179**
+🌌 **Constellation #180**
 
 ```
-                 ✺   ✺         ★              
-✦               ✦               ∗   ∗         
- ✸         ✸                     ✧            
-                              ⋆ ⋆         ·   
+       ★                   ★                  
+                      ∗       ∗     ✦         
+                       ✧   ✸ ✸                
+·             ⋆             ⋆                 
 ```
 
 ---
 
-🎨 **Color of the Day · `#7D3FC4` · Violet**
+🎨 **Color of the Day · `#373DE6` · Ocean**
 
-[![color swatch](https://img.shields.io/badge/Violet-7D3FC4?style=for-the-badge&color=7D3FC4&labelColor=7D3FC4)](https://www.color-hex.com/color/7D3FC4)
+[![color swatch](https://img.shields.io/badge/Ocean-373DE6?style=for-the-badge&color=373DE6&labelColor=373DE6)](https://www.color-hex.com/color/373DE6)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"First, solve the problem. Then, write the code."*
+*"Controlling complexity is the essence of computer programming."*
 
-— **John Johnson**
+— **Brian W. Kernighan**
 
 ---
 
-💡 **Tip of the Week · Week 26**
+💡 **Tip of the Week · Week 27**
 
-**DRY vs Abstraction** — DRY is a principle, not a religion. Some duplication is acceptable. The wrong abstraction is far more painful than a little repetition.
+**Learn tmux** — Terminal multiplexer: split panes, multiple windows, detachable sessions that survive SSH disconnects. It changes how you work in terminals.
 
 ---
 
