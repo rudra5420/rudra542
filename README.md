@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Monday, Jun 29 2026 · Day 180 of 365**
+**Tuesday, Jun 30 2026 · Day 181 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████░░░░░░░░░░░░░` **49.3%** — *185 days remaining*
+`█████████████░░░░░░░░░░░░░` **49.6%** — *184 days remaining*
 
 ---
 
-🌌 **Constellation #180**
+🌌 **Constellation #181**
 
 ```
-       ★                   ★                  
-                      ∗       ∗     ✦         
-                       ✧   ✸ ✸                
-·             ⋆             ⋆                 
+             ★           ✺             ★   ✺  
+  ∗     ✦                   ∗                 
+               ✸ ✧               ✸            
+      ⋆   ⋆               ·               ·   
 ```
 
 ---
 
-🎨 **Color of the Day · `#373DE6` · Ocean**
+🎨 **Color of the Day · `#ACE336` · Chartreuse**
 
-[![color swatch](https://img.shields.io/badge/Ocean-373DE6?style=for-the-badge&color=373DE6&labelColor=373DE6)](https://www.color-hex.com/color/373DE6)
+[![color swatch](https://img.shields.io/badge/Chartreuse-ACE336?style=for-the-badge&color=ACE336&labelColor=ACE336)](https://www.color-hex.com/color/ACE336)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Controlling complexity is the essence of computer programming."*
+*"The art of programming is the art of organizing complexity."*
 
-— **Brian W. Kernighan**
+— **Edsger W. Dijkstra**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Monday, Jun 29 2026 · Day 180 of 365**
+**Tuesday, Jun 30 2026 · Day 181 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████░░░░░░░░░░░░░` **49.3%** — *185 days remaining*
+`█████████████░░░░░░░░░░░░░` **49.6%** — *184 days remaining*
 
 ---
 
-🌌 **Constellation #180**
+🌌 **Constellation #181**
 
 ```
-       ★                   ★                  
-                      ∗       ∗     ✦         
-                       ✧   ✸ ✸                
-·             ⋆             ⋆                 
+             ★           ✺             ★   ✺  
+  ∗     ✦                   ∗                 
+               ✸ ✧               ✸            
+      ⋆   ⋆               ·               ·   
 ```
 
 ---
 
-🎨 **Color of the Day · `#373DE6` · Ocean**
+🎨 **Color of the Day · `#ACE336` · Chartreuse**
 
-[![color swatch](https://img.shields.io/badge/Ocean-373DE6?style=for-the-badge&color=373DE6&labelColor=373DE6)](https://www.color-hex.com/color/373DE6)
+[![color swatch](https://img.shields.io/badge/Chartreuse-ACE336?style=for-the-badge&color=ACE336&labelColor=ACE336)](https://www.color-hex.com/color/ACE336)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Controlling complexity is the essence of computer programming."*
+*"The art of programming is the art of organizing complexity."*
 
-— **Brian W. Kernighan**
+— **Edsger W. Dijkstra**
 
 ---
 
