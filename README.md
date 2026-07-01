@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Tuesday, Jun 30 2026 · Day 181 of 365**
+**Wednesday, Jul 1 2026 · Day 182 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████░░░░░░░░░░░░░` **49.6%** — *184 days remaining*
+`█████████████░░░░░░░░░░░░░` **49.9%** — *183 days remaining*
 
 ---
 
-🌌 **Constellation #181**
+🌌 **Constellation #182**
 
 ```
-             ★           ✺             ★   ✺  
-  ∗     ✦                   ∗                 
-               ✸ ✧               ✸            
-      ⋆   ⋆               ·               ·   
+           ★                           ✺      
+        ∗ ✦             ∗                     
+               ✧                           ✸  
+        ⋆     ⋆   ·                           
 ```
 
 ---
 
-🎨 **Color of the Day · `#ACE336` · Chartreuse**
+🎨 **Color of the Day · `#C3ED37` · Chartreuse**
 
-[![color swatch](https://img.shields.io/badge/Chartreuse-ACE336?style=for-the-badge&color=ACE336&labelColor=ACE336)](https://www.color-hex.com/color/ACE336)
+[![color swatch](https://img.shields.io/badge/Chartreuse-C3ED37?style=for-the-badge&color=C3ED37&labelColor=C3ED37)](https://www.color-hex.com/color/C3ED37)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"The art of programming is the art of organizing complexity."*
+*"No one in the brief history of computing has ever written a piece of perfect software."*
 
-— **Edsger W. Dijkstra**
+— **Andy Hunt**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Tuesday, Jun 30 2026 · Day 181 of 365**
+**Wednesday, Jul 1 2026 · Day 182 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████░░░░░░░░░░░░░` **49.6%** — *184 days remaining*
+`█████████████░░░░░░░░░░░░░` **49.9%** — *183 days remaining*
 
 ---
 
-🌌 **Constellation #181**
+🌌 **Constellation #182**
 
 ```
-             ★           ✺             ★   ✺  
-  ∗     ✦                   ∗                 
-               ✸ ✧               ✸            
-      ⋆   ⋆               ·               ·   
+           ★                           ✺      
+        ∗ ✦             ∗                     
+               ✧                           ✸  
+        ⋆     ⋆   ·                           
 ```
 
 ---
 
-🎨 **Color of the Day · `#ACE336` · Chartreuse**
+🎨 **Color of the Day · `#C3ED37` · Chartreuse**
 
-[![color swatch](https://img.shields.io/badge/Chartreuse-ACE336?style=for-the-badge&color=ACE336&labelColor=ACE336)](https://www.color-hex.com/color/ACE336)
+[![color swatch](https://img.shields.io/badge/Chartreuse-C3ED37?style=for-the-badge&color=C3ED37&labelColor=C3ED37)](https://www.color-hex.com/color/C3ED37)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"The art of programming is the art of organizing complexity."*
+*"No one in the brief history of computing has ever written a piece of perfect software."*
 
-— **Edsger W. Dijkstra**
+— **Andy Hunt**
 
 ---
 
