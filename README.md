@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Wednesday, Jul 1 2026 · Day 182 of 365**
+**Thursday, Jul 2 2026 · Day 183 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████░░░░░░░░░░░░░` **49.9%** — *183 days remaining*
+`█████████████░░░░░░░░░░░░░` **50.1%** — *182 days remaining*
 
 ---
 
-🌌 **Constellation #182**
+🌌 **Constellation #183**
 
 ```
-           ★                           ✺      
-        ∗ ✦             ∗                     
-               ✧                           ✸  
-        ⋆     ⋆   ·                           
+ ★           ✺           ✺                   ★
+  ∗                                     ∗ ✦ ✦ 
+     ✧       ✸             ✧           ✸      
+  ⋆   ·               ·                       
 ```
 
 ---
 
-🎨 **Color of the Day · `#C3ED37` · Chartreuse**
+🎨 **Color of the Day · `#E0D643` · Chartreuse**
 
-[![color swatch](https://img.shields.io/badge/Chartreuse-C3ED37?style=for-the-badge&color=C3ED37&labelColor=C3ED37)](https://www.color-hex.com/color/C3ED37)
+[![color swatch](https://img.shields.io/badge/Chartreuse-E0D643?style=for-the-badge&color=E0D643&labelColor=E0D643)](https://www.color-hex.com/color/E0D643)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"No one in the brief history of computing has ever written a piece of perfect software."*
+*"All problems in computer science can be solved by another level of indirection."*
 
-— **Andy Hunt**
+— **David Wheeler**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Wednesday, Jul 1 2026 · Day 182 of 365**
+**Thursday, Jul 2 2026 · Day 183 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████░░░░░░░░░░░░░` **49.9%** — *183 days remaining*
+`█████████████░░░░░░░░░░░░░` **50.1%** — *182 days remaining*
 
 ---
 
-🌌 **Constellation #182**
+🌌 **Constellation #183**
 
 ```
-           ★                           ✺      
-        ∗ ✦             ∗                     
-               ✧                           ✸  
-        ⋆     ⋆   ·                           
+ ★           ✺           ✺                   ★
+  ∗                                     ∗ ✦ ✦ 
+     ✧       ✸             ✧           ✸      
+  ⋆   ·               ·                       
 ```
 
 ---
 
-🎨 **Color of the Day · `#C3ED37` · Chartreuse**
+🎨 **Color of the Day · `#E0D643` · Chartreuse**
 
-[![color swatch](https://img.shields.io/badge/Chartreuse-C3ED37?style=for-the-badge&color=C3ED37&labelColor=C3ED37)](https://www.color-hex.com/color/C3ED37)
+[![color swatch](https://img.shields.io/badge/Chartreuse-E0D643?style=for-the-badge&color=E0D643&labelColor=E0D643)](https://www.color-hex.com/color/E0D643)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"No one in the brief history of computing has ever written a piece of perfect software."*
+*"All problems in computer science can be solved by another level of indirection."*
 
-— **Andy Hunt**
+— **David Wheeler**
 
 ---
 
