@@ -52,30 +52,30 @@
 
 ### ⚡ THE CHRONICLE
 
-**Thursday, Jul 2 2026 · Day 183 of 365**
+**Friday, Jul 3 2026 · Day 184 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████░░░░░░░░░░░░░` **50.1%** — *182 days remaining*
+`█████████████░░░░░░░░░░░░░` **50.4%** — *181 days remaining*
 
 ---
 
-🌌 **Constellation #183**
+🌌 **Constellation #184**
 
 ```
- ★           ✺           ✺                   ★
-  ∗                                     ∗ ✦ ✦ 
-     ✧       ✸             ✧           ✸      
-  ⋆   ·               ·                       
+   ✺   ★                   ★ ✺   ★            
+✦               ∗               ✦       ∗     
+         ✧                 ✸       ✧     ✸    
+      · ·                   ⋆     ⋆           
 ```
 
 ---
 
-🎨 **Color of the Day · `#E0D643` · Chartreuse**
+🎨 **Color of the Day · `#BD1B19` · Crimson**
 
-[![color swatch](https://img.shields.io/badge/Chartreuse-E0D643?style=for-the-badge&color=E0D643&labelColor=E0D643)](https://www.color-hex.com/color/E0D643)
+[![color swatch](https://img.shields.io/badge/Crimson-BD1B19?style=for-the-badge&color=BD1B19&labelColor=BD1B19)](https://www.color-hex.com/color/BD1B19)
 
 ---
 
@@ -106,30 +106,30 @@
 
 ### ⚡ THE CHRONICLE
 
-**Thursday, Jul 2 2026 · Day 183 of 365**
+**Friday, Jul 3 2026 · Day 184 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████░░░░░░░░░░░░░` **50.1%** — *182 days remaining*
+`█████████████░░░░░░░░░░░░░` **50.4%** — *181 days remaining*
 
 ---
 
-🌌 **Constellation #183**
+🌌 **Constellation #184**
 
 ```
- ★           ✺           ✺                   ★
-  ∗                                     ∗ ✦ ✦ 
-     ✧       ✸             ✧           ✸      
-  ⋆   ·               ·                       
+   ✺   ★                   ★ ✺   ★            
+✦               ∗               ✦       ∗     
+         ✧                 ✸       ✧     ✸    
+      · ·                   ⋆     ⋆           
 ```
 
 ---
 
-🎨 **Color of the Day · `#E0D643` · Chartreuse**
+🎨 **Color of the Day · `#BD1B19` · Crimson**
 
-[![color swatch](https://img.shields.io/badge/Chartreuse-E0D643?style=for-the-badge&color=E0D643&labelColor=E0D643)](https://www.color-hex.com/color/E0D643)
+[![color swatch](https://img.shields.io/badge/Crimson-BD1B19?style=for-the-badge&color=BD1B19&labelColor=BD1B19)](https://www.color-hex.com/color/BD1B19)
 
 ---
 
