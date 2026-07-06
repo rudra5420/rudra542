@@ -52,44 +52,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Jul 5 2026 · Day 186 of 365**
+**Monday, Jul 6 2026 · Day 187 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████░░░░░░░░░░░░░` **51.0%** — *179 days remaining*
+`█████████████░░░░░░░░░░░░░` **51.2%** — *178 days remaining*
 
 ---
 
-🌌 **Constellation #186**
+🌌 **Constellation #187**
 
 ```
-       ★       ✺                         ✺    
-            ✦   ∗                     ✦       
-                       ✸   ✸         ✧        
-      ⋆   ⋆                       ·         · 
+   ✺                         ★                
+  ∗ ✦                                       ✦ 
+     ✸     ✧                           ✧      
+      ·     ⋆           ·                     
 ```
 
 ---
 
-🎨 **Color of the Day · `#1D84C4` · Sky Blue**
+🎨 **Color of the Day · `#263DBF` · Ocean**
 
-[![color swatch](https://img.shields.io/badge/Sky_Blue-1D84C4?style=for-the-badge&color=1D84C4&labelColor=1D84C4)](https://www.color-hex.com/color/1D84C4)
+[![color swatch](https://img.shields.io/badge/Ocean-263DBF?style=for-the-badge&color=263DBF&labelColor=263DBF)](https://www.color-hex.com/color/263DBF)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Sometimes it pays to stay in bed on Monday rather than spend the rest of the week debugging Monday's code."*
+*"A good programmer looks both ways before crossing a one-way street."*
 
-— **Dan Salomon**
+— **Doug Linder**
 
 ---
 
-💡 **Tip of the Week · Week 27**
+💡 **Tip of the Week · Week 28**
 
-**Learn tmux** — Terminal multiplexer: split panes, multiple windows, detachable sessions that survive SSH disconnects. It changes how you work in terminals.
+**Semantic Versioning** — MAJOR for breaking changes, MINOR for new features, PATCH for bug fixes. Communicate intent to every downstream consumer automatically.
 
 ---
 
@@ -106,44 +106,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Jul 5 2026 · Day 186 of 365**
+**Monday, Jul 6 2026 · Day 187 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████░░░░░░░░░░░░░` **51.0%** — *179 days remaining*
+`█████████████░░░░░░░░░░░░░` **51.2%** — *178 days remaining*
 
 ---
 
-🌌 **Constellation #186**
+🌌 **Constellation #187**
 
 ```
-       ★       ✺                         ✺    
-            ✦   ∗                     ✦       
-                       ✸   ✸         ✧        
-      ⋆   ⋆                       ·         · 
+   ✺                         ★                
+  ∗ ✦                                       ✦ 
+     ✸     ✧                           ✧      
+      ·     ⋆           ·                     
 ```
 
 ---
 
-🎨 **Color of the Day · `#1D84C4` · Sky Blue**
+🎨 **Color of the Day · `#263DBF` · Ocean**
 
-[![color swatch](https://img.shields.io/badge/Sky_Blue-1D84C4?style=for-the-badge&color=1D84C4&labelColor=1D84C4)](https://www.color-hex.com/color/1D84C4)
+[![color swatch](https://img.shields.io/badge/Ocean-263DBF?style=for-the-badge&color=263DBF&labelColor=263DBF)](https://www.color-hex.com/color/263DBF)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Sometimes it pays to stay in bed on Monday rather than spend the rest of the week debugging Monday's code."*
+*"A good programmer looks both ways before crossing a one-way street."*
 
-— **Dan Salomon**
+— **Doug Linder**
 
 ---
 
-💡 **Tip of the Week · Week 27**
+💡 **Tip of the Week · Week 28**
 
-**Learn tmux** — Terminal multiplexer: split panes, multiple windows, detachable sessions that survive SSH disconnects. It changes how you work in terminals.
+**Semantic Versioning** — MAJOR for breaking changes, MINOR for new features, PATCH for bug fixes. Communicate intent to every downstream consumer automatically.
 
 ---
 
