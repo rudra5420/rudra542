@@ -52,44 +52,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Jul 12 2026 · Day 193 of 365**
+**Monday, Jul 13 2026 · Day 194 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████░░░░░░░░░░░░` **52.9%** — *172 days remaining*
+`██████████████░░░░░░░░░░░░` **53.2%** — *171 days remaining*
 
 ---
 
-🌌 **Constellation #193**
+🌌 **Constellation #194**
 
 ```
-               ✺                       ★      
-    ✦                     ∗   ∗               
-               ✧     ✸                        
-                          ⋆     ⋆ ·           
+           ★             ✺   ✺                
+∗                                     ✦   ✦   
+                     ✸   ✧                    
+                          ⋆       ·     ⋆     
 ```
 
 ---
 
-🎨 **Color of the Day · `#3386DE` · Sky Blue**
+🎨 **Color of the Day · `#BED945` · Chartreuse**
 
-[![color swatch](https://img.shields.io/badge/Sky_Blue-3386DE?style=for-the-badge&color=3386DE&labelColor=3386DE)](https://www.color-hex.com/color/3386DE)
+[![color swatch](https://img.shields.io/badge/Chartreuse-BED945?style=for-the-badge&color=BED945&labelColor=BED945)](https://www.color-hex.com/color/BED945)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"The art of programming is the art of organizing complexity."*
+*"No one in the brief history of computing has ever written a piece of perfect software."*
 
-— **Edsger W. Dijkstra**
+— **Andy Hunt**
 
 ---
 
-💡 **Tip of the Week · Week 28**
+💡 **Tip of the Week · Week 29**
 
-**Semantic Versioning** — MAJOR for breaking changes, MINOR for new features, PATCH for bug fixes. Communicate intent to every downstream consumer automatically.
+**No DIY Crypto** — Never implement your own cryptography. Cryptographic mistakes are catastrophic, invisible, and usually exploited months after deployment.
 
 ---
 
@@ -106,44 +106,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Jul 12 2026 · Day 193 of 365**
+**Monday, Jul 13 2026 · Day 194 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████░░░░░░░░░░░░` **52.9%** — *172 days remaining*
+`██████████████░░░░░░░░░░░░` **53.2%** — *171 days remaining*
 
 ---
 
-🌌 **Constellation #193**
+🌌 **Constellation #194**
 
 ```
-               ✺                       ★      
-    ✦                     ∗   ∗               
-               ✧     ✸                        
-                          ⋆     ⋆ ·           
+           ★             ✺   ✺                
+∗                                     ✦   ✦   
+                     ✸   ✧                    
+                          ⋆       ·     ⋆     
 ```
 
 ---
 
-🎨 **Color of the Day · `#3386DE` · Sky Blue**
+🎨 **Color of the Day · `#BED945` · Chartreuse**
 
-[![color swatch](https://img.shields.io/badge/Sky_Blue-3386DE?style=for-the-badge&color=3386DE&labelColor=3386DE)](https://www.color-hex.com/color/3386DE)
+[![color swatch](https://img.shields.io/badge/Chartreuse-BED945?style=for-the-badge&color=BED945&labelColor=BED945)](https://www.color-hex.com/color/BED945)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"The art of programming is the art of organizing complexity."*
+*"No one in the brief history of computing has ever written a piece of perfect software."*
 
-— **Edsger W. Dijkstra**
+— **Andy Hunt**
 
 ---
 
-💡 **Tip of the Week · Week 28**
+💡 **Tip of the Week · Week 29**
 
-**Semantic Versioning** — MAJOR for breaking changes, MINOR for new features, PATCH for bug fixes. Communicate intent to every downstream consumer automatically.
+**No DIY Crypto** — Never implement your own cryptography. Cryptographic mistakes are catastrophic, invisible, and usually exploited months after deployment.
 
 ---
 
