@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Monday, Jul 13 2026 · Day 194 of 365**
+**Tuesday, Jul 14 2026 · Day 195 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████░░░░░░░░░░░░` **53.2%** — *171 days remaining*
+`██████████████░░░░░░░░░░░░` **53.4%** — *170 days remaining*
 
 ---
 
-🌌 **Constellation #194**
+🌌 **Constellation #195**
 
 ```
-           ★             ✺   ✺                
-∗                                     ✦   ✦   
-                     ✸   ✧                    
-                          ⋆       ·     ⋆     
+ ✺                 ✺   ★         ★            
+    ∗                 ✦   ✦                   
+ ✧           ✸               ✧                
+                      ·       ·             ⋆ 
 ```
 
 ---
 
-🎨 **Color of the Day · `#BED945` · Chartreuse**
+🎨 **Color of the Day · `#27DB42` · Emerald**
 
-[![color swatch](https://img.shields.io/badge/Chartreuse-BED945?style=for-the-badge&color=BED945&labelColor=BED945)](https://www.color-hex.com/color/BED945)
+[![color swatch](https://img.shields.io/badge/Emerald-27DB42?style=for-the-badge&color=27DB42&labelColor=27DB42)](https://www.color-hex.com/color/27DB42)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"No one in the brief history of computing has ever written a piece of perfect software."*
+*"Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live."*
 
-— **Andy Hunt**
+— **John F. Woods**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Monday, Jul 13 2026 · Day 194 of 365**
+**Tuesday, Jul 14 2026 · Day 195 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████░░░░░░░░░░░░` **53.2%** — *171 days remaining*
+`██████████████░░░░░░░░░░░░` **53.4%** — *170 days remaining*
 
 ---
 
-🌌 **Constellation #194**
+🌌 **Constellation #195**
 
 ```
-           ★             ✺   ✺                
-∗                                     ✦   ✦   
-                     ✸   ✧                    
-                          ⋆       ·     ⋆     
+ ✺                 ✺   ★         ★            
+    ∗                 ✦   ✦                   
+ ✧           ✸               ✧                
+                      ·       ·             ⋆ 
 ```
 
 ---
 
-🎨 **Color of the Day · `#BED945` · Chartreuse**
+🎨 **Color of the Day · `#27DB42` · Emerald**
 
-[![color swatch](https://img.shields.io/badge/Chartreuse-BED945?style=for-the-badge&color=BED945&labelColor=BED945)](https://www.color-hex.com/color/BED945)
+[![color swatch](https://img.shields.io/badge/Emerald-27DB42?style=for-the-badge&color=27DB42&labelColor=27DB42)](https://www.color-hex.com/color/27DB42)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"No one in the brief history of computing has ever written a piece of perfect software."*
+*"Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live."*
 
-— **Andy Hunt**
+— **John F. Woods**
 
 ---
 
