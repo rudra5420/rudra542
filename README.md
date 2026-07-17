@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Thursday, Jul 16 2026 · Day 197 of 365**
+**Friday, Jul 17 2026 · Day 198 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████░░░░░░░░░░░░` **54.0%** — *168 days remaining*
+`██████████████░░░░░░░░░░░░` **54.2%** — *167 days remaining*
 
 ---
 
-🌌 **Constellation #197**
+🌌 **Constellation #198**
 
 ```
-                 ★               ★         ✺  
-  ✦       ∗           ∗                       
-       ✸                       ✸   ✧          
-·   ⋆                 ⋆     ·           ·     
+         ✺   ★ ✺         ★                    
+        ✦   ✦                   ∗             
+           ✸         ✸         ✧              
+        ·         ⋆ ⋆                     ·   
 ```
 
 ---
 
-🎨 **Color of the Day · `#8826D4` · Violet**
+🎨 **Color of the Day · `#2767E6` · Ocean**
 
-[![color swatch](https://img.shields.io/badge/Violet-8826D4?style=for-the-badge&color=8826D4&labelColor=8826D4)](https://www.color-hex.com/color/8826D4)
+[![color swatch](https://img.shields.io/badge/Ocean-2767E6?style=for-the-badge&color=2767E6&labelColor=2767E6)](https://www.color-hex.com/color/2767E6)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"The best code is no code at all."*
+*"Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."*
 
-— **Jeff Atwood**
+— **Brian W. Kernighan**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Thursday, Jul 16 2026 · Day 197 of 365**
+**Friday, Jul 17 2026 · Day 198 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████░░░░░░░░░░░░` **54.0%** — *168 days remaining*
+`██████████████░░░░░░░░░░░░` **54.2%** — *167 days remaining*
 
 ---
 
-🌌 **Constellation #197**
+🌌 **Constellation #198**
 
 ```
-                 ★               ★         ✺  
-  ✦       ∗           ∗                       
-       ✸                       ✸   ✧          
-·   ⋆                 ⋆     ·           ·     
+         ✺   ★ ✺         ★                    
+        ✦   ✦                   ∗             
+           ✸         ✸         ✧              
+        ·         ⋆ ⋆                     ·   
 ```
 
 ---
 
-🎨 **Color of the Day · `#8826D4` · Violet**
+🎨 **Color of the Day · `#2767E6` · Ocean**
 
-[![color swatch](https://img.shields.io/badge/Violet-8826D4?style=for-the-badge&color=8826D4&labelColor=8826D4)](https://www.color-hex.com/color/8826D4)
+[![color swatch](https://img.shields.io/badge/Ocean-2767E6?style=for-the-badge&color=2767E6&labelColor=2767E6)](https://www.color-hex.com/color/2767E6)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"The best code is no code at all."*
+*"Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."*
 
-— **Jeff Atwood**
+— **Brian W. Kernighan**
 
 ---
 
