@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Friday, Jul 17 2026 · Day 198 of 365**
+**Saturday, Jul 18 2026 · Day 199 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████░░░░░░░░░░░░` **54.2%** — *167 days remaining*
+`██████████████░░░░░░░░░░░░` **54.5%** — *166 days remaining*
 
 ---
 
-🌌 **Constellation #198**
+🌌 **Constellation #199**
 
 ```
-         ✺   ★ ✺         ★                    
-        ✦   ✦                   ∗             
-           ✸         ✸         ✧              
-        ·         ⋆ ⋆                     ·   
+ ★           ✺                             ★  
+                          ✦             ∗ ∗   
+     ✧             ✸   ✸                      
+  ·                       ·             ⋆     
 ```
 
 ---
 
-🎨 **Color of the Day · `#2767E6` · Ocean**
+🎨 **Color of the Day · `#4176BA` · Sky Blue**
 
-[![color swatch](https://img.shields.io/badge/Ocean-2767E6?style=for-the-badge&color=2767E6&labelColor=2767E6)](https://www.color-hex.com/color/2767E6)
+[![color swatch](https://img.shields.io/badge/Sky_Blue-4176BA?style=for-the-badge&color=4176BA&labelColor=4176BA)](https://www.color-hex.com/color/4176BA)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."*
+*"No one in the brief history of computing has ever written a piece of perfect software."*
 
-— **Brian W. Kernighan**
+— **Andy Hunt**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Friday, Jul 17 2026 · Day 198 of 365**
+**Saturday, Jul 18 2026 · Day 199 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████░░░░░░░░░░░░` **54.2%** — *167 days remaining*
+`██████████████░░░░░░░░░░░░` **54.5%** — *166 days remaining*
 
 ---
 
-🌌 **Constellation #198**
+🌌 **Constellation #199**
 
 ```
-         ✺   ★ ✺         ★                    
-        ✦   ✦                   ∗             
-           ✸         ✸         ✧              
-        ·         ⋆ ⋆                     ·   
+ ★           ✺                             ★  
+                          ✦             ∗ ∗   
+     ✧             ✸   ✸                      
+  ·                       ·             ⋆     
 ```
 
 ---
 
-🎨 **Color of the Day · `#2767E6` · Ocean**
+🎨 **Color of the Day · `#4176BA` · Sky Blue**
 
-[![color swatch](https://img.shields.io/badge/Ocean-2767E6?style=for-the-badge&color=2767E6&labelColor=2767E6)](https://www.color-hex.com/color/2767E6)
+[![color swatch](https://img.shields.io/badge/Sky_Blue-4176BA?style=for-the-badge&color=4176BA&labelColor=4176BA)](https://www.color-hex.com/color/4176BA)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."*
+*"No one in the brief history of computing has ever written a piece of perfect software."*
 
-— **Brian W. Kernighan**
+— **Andy Hunt**
 
 ---
 
