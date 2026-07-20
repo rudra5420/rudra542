@@ -52,44 +52,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Jul 19 2026 · Day 200 of 365**
+**Monday, Jul 20 2026 · Day 201 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████░░░░░░░░░░░░` **54.8%** — *165 days remaining*
+`██████████████░░░░░░░░░░░░` **55.1%** — *164 days remaining*
 
 ---
 
-🌌 **Constellation #200**
+🌌 **Constellation #201**
 
 ```
-                     ★                 ✺     ✺
-∗             ∗       ✦ ✦                     
-           ✸             ✸                   ✧
-              ⋆         · ⋆   ·               
+               ✺ ★                         ★  
+                  ∗                 ✦         
+       ✧     ✧ ✸                              
+                · ·     ⋆                     
 ```
 
 ---
 
-🎨 **Color of the Day · `#ED349A` · Rose**
+🎨 **Color of the Day · `#D64B75` · Coral**
 
-[![color swatch](https://img.shields.io/badge/Rose-ED349A?style=for-the-badge&color=ED349A&labelColor=ED349A)](https://www.color-hex.com/color/ED349A)
+[![color swatch](https://img.shields.io/badge/Coral-D64B75?style=for-the-badge&color=D64B75&labelColor=D64B75)](https://www.color-hex.com/color/D64B75)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Write code every day."*
+*"The function of good software is to make the complex appear to be simple."*
 
-— **John Resig**
+— **Grady Booch**
 
 ---
 
-💡 **Tip of the Week · Week 29**
+💡 **Tip of the Week · Week 30**
 
-**No DIY Crypto** — Never implement your own cryptography. Cryptographic mistakes are catastrophic, invisible, and usually exploited months after deployment.
+**Immutable Config** — Use `Object.freeze()` or TypeScript's `as const` on config objects. Prevents accidental mutation that produces state bugs that are hard to trace.
 
 ---
 
@@ -106,44 +106,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Jul 19 2026 · Day 200 of 365**
+**Monday, Jul 20 2026 · Day 201 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████░░░░░░░░░░░░` **54.8%** — *165 days remaining*
+`██████████████░░░░░░░░░░░░` **55.1%** — *164 days remaining*
 
 ---
 
-🌌 **Constellation #200**
+🌌 **Constellation #201**
 
 ```
-                     ★                 ✺     ✺
-∗             ∗       ✦ ✦                     
-           ✸             ✸                   ✧
-              ⋆         · ⋆   ·               
+               ✺ ★                         ★  
+                  ∗                 ✦         
+       ✧     ✧ ✸                              
+                · ·     ⋆                     
 ```
 
 ---
 
-🎨 **Color of the Day · `#ED349A` · Rose**
+🎨 **Color of the Day · `#D64B75` · Coral**
 
-[![color swatch](https://img.shields.io/badge/Rose-ED349A?style=for-the-badge&color=ED349A&labelColor=ED349A)](https://www.color-hex.com/color/ED349A)
+[![color swatch](https://img.shields.io/badge/Coral-D64B75?style=for-the-badge&color=D64B75&labelColor=D64B75)](https://www.color-hex.com/color/D64B75)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Write code every day."*
+*"The function of good software is to make the complex appear to be simple."*
 
-— **John Resig**
+— **Grady Booch**
 
 ---
 
-💡 **Tip of the Week · Week 29**
+💡 **Tip of the Week · Week 30**
 
-**No DIY Crypto** — Never implement your own cryptography. Cryptographic mistakes are catastrophic, invisible, and usually exploited months after deployment.
+**Immutable Config** — Use `Object.freeze()` or TypeScript's `as const` on config objects. Prevents accidental mutation that produces state bugs that are hard to trace.
 
 ---
 
