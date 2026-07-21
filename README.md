@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Monday, Jul 20 2026 · Day 201 of 365**
+**Tuesday, Jul 21 2026 · Day 202 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████░░░░░░░░░░░░` **55.1%** — *164 days remaining*
+`██████████████░░░░░░░░░░░░` **55.3%** — *163 days remaining*
 
 ---
 
-🌌 **Constellation #201**
+🌌 **Constellation #202**
 
 ```
-               ✺ ★                         ★  
-                  ∗                 ✦         
-       ✧     ✧ ✸                              
-                · ·     ⋆                     
+   ★     ★                   ✺                
+          ∗         ∗         ✦   ✦           
+ ✧   ✸ ✧                                      
+    ⋆                   ⋆   ·                 
 ```
 
 ---
 
-🎨 **Color of the Day · `#D64B75` · Coral**
+🎨 **Color of the Day · `#C74720` · Crimson**
 
-[![color swatch](https://img.shields.io/badge/Coral-D64B75?style=for-the-badge&color=D64B75&labelColor=D64B75)](https://www.color-hex.com/color/D64B75)
+[![color swatch](https://img.shields.io/badge/Crimson-C74720?style=for-the-badge&color=C74720&labelColor=C74720)](https://www.color-hex.com/color/C74720)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"The function of good software is to make the complex appear to be simple."*
+*"Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live."*
 
-— **Grady Booch**
+— **John F. Woods**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Monday, Jul 20 2026 · Day 201 of 365**
+**Tuesday, Jul 21 2026 · Day 202 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████░░░░░░░░░░░░` **55.1%** — *164 days remaining*
+`██████████████░░░░░░░░░░░░` **55.3%** — *163 days remaining*
 
 ---
 
-🌌 **Constellation #201**
+🌌 **Constellation #202**
 
 ```
-               ✺ ★                         ★  
-                  ∗                 ✦         
-       ✧     ✧ ✸                              
-                · ·     ⋆                     
+   ★     ★                   ✺                
+          ∗         ∗         ✦   ✦           
+ ✧   ✸ ✧                                      
+    ⋆                   ⋆   ·                 
 ```
 
 ---
 
-🎨 **Color of the Day · `#D64B75` · Coral**
+🎨 **Color of the Day · `#C74720` · Crimson**
 
-[![color swatch](https://img.shields.io/badge/Coral-D64B75?style=for-the-badge&color=D64B75&labelColor=D64B75)](https://www.color-hex.com/color/D64B75)
+[![color swatch](https://img.shields.io/badge/Crimson-C74720?style=for-the-badge&color=C74720&labelColor=C74720)](https://www.color-hex.com/color/C74720)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"The function of good software is to make the complex appear to be simple."*
+*"Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live."*
 
-— **Grady Booch**
+— **John F. Woods**
 
 ---
 
