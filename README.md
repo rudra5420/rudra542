@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Saturday, Jul 25 2026 · Day 206 of 365**
+**Sunday, Jul 26 2026 · Day 207 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████░░░░░░░░░░░` **56.4%** — *159 days remaining*
+`███████████████░░░░░░░░░░░` **56.7%** — *158 days remaining*
 
 ---
 
-🌌 **Constellation #206**
+🌌 **Constellation #207**
 
 ```
-   ★           ✺                           ★ ✺
-    ∗       ✦                 ∗               
-     ✧         ✧       ✸             ✸        
-⋆   ·                             ⋆           
+ ★         ✺                                 ★
+                    ∗         ∗ ✦             
+ ✧                         ✸             ✸    
+          ·                               · ⋆ 
 ```
 
 ---
 
-🎨 **Color of the Day · `#6A24D4` · Violet**
+🎨 **Color of the Day · `#BA3827` · Crimson**
 
-[![color swatch](https://img.shields.io/badge/Violet-6A24D4?style=for-the-badge&color=6A24D4&labelColor=6A24D4)](https://www.color-hex.com/color/6A24D4)
+[![color swatch](https://img.shields.io/badge/Crimson-BA3827?style=for-the-badge&color=BA3827&labelColor=BA3827)](https://www.color-hex.com/color/BA3827)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Truth can only be found in one place: the code."*
+*"Sometimes it pays to stay in bed on Monday rather than spend the rest of the week debugging Monday's code."*
 
-— **Robert C. Martin**
+— **Dan Salomon**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Saturday, Jul 25 2026 · Day 206 of 365**
+**Sunday, Jul 26 2026 · Day 207 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████░░░░░░░░░░░` **56.4%** — *159 days remaining*
+`███████████████░░░░░░░░░░░` **56.7%** — *158 days remaining*
 
 ---
 
-🌌 **Constellation #206**
+🌌 **Constellation #207**
 
 ```
-   ★           ✺                           ★ ✺
-    ∗       ✦                 ∗               
-     ✧         ✧       ✸             ✸        
-⋆   ·                             ⋆           
+ ★         ✺                                 ★
+                    ∗         ∗ ✦             
+ ✧                         ✸             ✸    
+          ·                               · ⋆ 
 ```
 
 ---
 
-🎨 **Color of the Day · `#6A24D4` · Violet**
+🎨 **Color of the Day · `#BA3827` · Crimson**
 
-[![color swatch](https://img.shields.io/badge/Violet-6A24D4?style=for-the-badge&color=6A24D4&labelColor=6A24D4)](https://www.color-hex.com/color/6A24D4)
+[![color swatch](https://img.shields.io/badge/Crimson-BA3827?style=for-the-badge&color=BA3827&labelColor=BA3827)](https://www.color-hex.com/color/BA3827)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Truth can only be found in one place: the code."*
+*"Sometimes it pays to stay in bed on Monday rather than spend the rest of the week debugging Monday's code."*
 
-— **Robert C. Martin**
+— **Dan Salomon**
 
 ---
 
