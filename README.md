@@ -52,44 +52,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Jul 26 2026 · Day 207 of 365**
+**Monday, Jul 27 2026 · Day 208 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████░░░░░░░░░░░` **56.7%** — *158 days remaining*
+`███████████████░░░░░░░░░░░` **57.0%** — *157 days remaining*
 
 ---
 
-🌌 **Constellation #207**
+🌌 **Constellation #208**
 
 ```
- ★         ✺                                 ★
-                    ∗         ∗ ✦             
- ✧                         ✸             ✸    
-          ·                               · ⋆ 
+               ✺                   ★          
+      ∗     ✦                 ✦               
+       ✧         ✸                   ✧        
+    ⋆             ·           ·               
 ```
 
 ---
 
-🎨 **Color of the Day · `#BA3827` · Crimson**
+🎨 **Color of the Day · `#0FBA48` · Emerald**
 
-[![color swatch](https://img.shields.io/badge/Crimson-BA3827?style=for-the-badge&color=BA3827&labelColor=BA3827)](https://www.color-hex.com/color/BA3827)
+[![color swatch](https://img.shields.io/badge/Emerald-0FBA48?style=for-the-badge&color=0FBA48&labelColor=0FBA48)](https://www.color-hex.com/color/0FBA48)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Sometimes it pays to stay in bed on Monday rather than spend the rest of the week debugging Monday's code."*
+*"No one in the brief history of computing has ever written a piece of perfect software."*
 
-— **Dan Salomon**
+— **Andy Hunt**
 
 ---
 
-💡 **Tip of the Week · Week 30**
+💡 **Tip of the Week · Week 31**
 
-**Immutable Config** — Use `Object.freeze()` or TypeScript's `as const` on config objects. Prevents accidental mutation that produces state bugs that are hard to trace.
+**Custom Error Types** — Define specific error classes instead of throwing generic `Error`. A well-named error communicates context without requiring a stack trace.
 
 ---
 
@@ -106,44 +106,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Jul 26 2026 · Day 207 of 365**
+**Monday, Jul 27 2026 · Day 208 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████░░░░░░░░░░░` **56.7%** — *158 days remaining*
+`███████████████░░░░░░░░░░░` **57.0%** — *157 days remaining*
 
 ---
 
-🌌 **Constellation #207**
+🌌 **Constellation #208**
 
 ```
- ★         ✺                                 ★
-                    ∗         ∗ ✦             
- ✧                         ✸             ✸    
-          ·                               · ⋆ 
+               ✺                   ★          
+      ∗     ✦                 ✦               
+       ✧         ✸                   ✧        
+    ⋆             ·           ·               
 ```
 
 ---
 
-🎨 **Color of the Day · `#BA3827` · Crimson**
+🎨 **Color of the Day · `#0FBA48` · Emerald**
 
-[![color swatch](https://img.shields.io/badge/Crimson-BA3827?style=for-the-badge&color=BA3827&labelColor=BA3827)](https://www.color-hex.com/color/BA3827)
+[![color swatch](https://img.shields.io/badge/Emerald-0FBA48?style=for-the-badge&color=0FBA48&labelColor=0FBA48)](https://www.color-hex.com/color/0FBA48)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Sometimes it pays to stay in bed on Monday rather than spend the rest of the week debugging Monday's code."*
+*"No one in the brief history of computing has ever written a piece of perfect software."*
 
-— **Dan Salomon**
+— **Andy Hunt**
 
 ---
 
-💡 **Tip of the Week · Week 30**
+💡 **Tip of the Week · Week 31**
 
-**Immutable Config** — Use `Object.freeze()` or TypeScript's `as const` on config objects. Prevents accidental mutation that produces state bugs that are hard to trace.
+**Custom Error Types** — Define specific error classes instead of throwing generic `Error`. A well-named error communicates context without requiring a stack trace.
 
 ---
 
