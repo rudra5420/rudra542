@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Monday, Jul 27 2026 · Day 208 of 365**
+**Tuesday, Jul 28 2026 · Day 209 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████░░░░░░░░░░░` **57.0%** — *157 days remaining*
+`███████████████░░░░░░░░░░░` **57.3%** — *156 days remaining*
 
 ---
 
-🌌 **Constellation #208**
+🌌 **Constellation #209**
 
 ```
-               ✺                   ★          
-      ∗     ✦                 ✦               
-       ✧         ✸                   ✧        
-    ⋆             ·           ·               
+         ✺                         ★          
+      ✦           ∗                   ✦       
+                   ✧     ✧               ✸    
+·                             ·             ⋆ 
 ```
 
 ---
 
-🎨 **Color of the Day · `#0FBA48` · Emerald**
+🎨 **Color of the Day · `#ED7D2D` · Vermilion**
 
-[![color swatch](https://img.shields.io/badge/Emerald-0FBA48?style=for-the-badge&color=0FBA48&labelColor=0FBA48)](https://www.color-hex.com/color/0FBA48)
+[![color swatch](https://img.shields.io/badge/Vermilion-ED7D2D?style=for-the-badge&color=ED7D2D&labelColor=ED7D2D)](https://www.color-hex.com/color/ED7D2D)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"No one in the brief history of computing has ever written a piece of perfect software."*
+*"The best programmers are not marginally better than merely good ones. They are an order of magnitude better."*
 
-— **Andy Hunt**
+— **Randall E. Stross**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Monday, Jul 27 2026 · Day 208 of 365**
+**Tuesday, Jul 28 2026 · Day 209 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████░░░░░░░░░░░` **57.0%** — *157 days remaining*
+`███████████████░░░░░░░░░░░` **57.3%** — *156 days remaining*
 
 ---
 
-🌌 **Constellation #208**
+🌌 **Constellation #209**
 
 ```
-               ✺                   ★          
-      ∗     ✦                 ✦               
-       ✧         ✸                   ✧        
-    ⋆             ·           ·               
+         ✺                         ★          
+      ✦           ∗                   ✦       
+                   ✧     ✧               ✸    
+·                             ·             ⋆ 
 ```
 
 ---
 
-🎨 **Color of the Day · `#0FBA48` · Emerald**
+🎨 **Color of the Day · `#ED7D2D` · Vermilion**
 
-[![color swatch](https://img.shields.io/badge/Emerald-0FBA48?style=for-the-badge&color=0FBA48&labelColor=0FBA48)](https://www.color-hex.com/color/0FBA48)
+[![color swatch](https://img.shields.io/badge/Vermilion-ED7D2D?style=for-the-badge&color=ED7D2D&labelColor=ED7D2D)](https://www.color-hex.com/color/ED7D2D)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"No one in the brief history of computing has ever written a piece of perfect software."*
+*"The best programmers are not marginally better than merely good ones. They are an order of magnitude better."*
 
-— **Andy Hunt**
+— **Randall E. Stross**
 
 ---
 
