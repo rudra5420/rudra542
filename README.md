@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Tuesday, Jul 28 2026 · Day 209 of 365**
+**Wednesday, Jul 29 2026 · Day 210 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████░░░░░░░░░░░` **57.3%** — *156 days remaining*
+`███████████████░░░░░░░░░░░` **57.5%** — *155 days remaining*
 
 ---
 
-🌌 **Constellation #209**
+🌌 **Constellation #210**
 
 ```
-         ✺                         ★          
-      ✦           ∗                   ✦       
-                   ✧     ✧               ✸    
-·                             ·             ⋆ 
+   ★ ✺                 ★       ✺              
+            ✦ ✦ ∗                             
+   ✧   ✸                       ✧              
+        ·     ·         ⋆         ⋆           
 ```
 
 ---
 
-🎨 **Color of the Day · `#ED7D2D` · Vermilion**
+🎨 **Color of the Day · `#D610E8` · Amethyst**
 
-[![color swatch](https://img.shields.io/badge/Vermilion-ED7D2D?style=for-the-badge&color=ED7D2D&labelColor=ED7D2D)](https://www.color-hex.com/color/ED7D2D)
+[![color swatch](https://img.shields.io/badge/Amethyst-D610E8?style=for-the-badge&color=D610E8&labelColor=D610E8)](https://www.color-hex.com/color/D610E8)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"The best programmers are not marginally better than merely good ones. They are an order of magnitude better."*
+*"Sometimes it pays to stay in bed on Monday rather than spend the rest of the week debugging Monday's code."*
 
-— **Randall E. Stross**
+— **Dan Salomon**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Tuesday, Jul 28 2026 · Day 209 of 365**
+**Wednesday, Jul 29 2026 · Day 210 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████░░░░░░░░░░░` **57.3%** — *156 days remaining*
+`███████████████░░░░░░░░░░░` **57.5%** — *155 days remaining*
 
 ---
 
-🌌 **Constellation #209**
+🌌 **Constellation #210**
 
 ```
-         ✺                         ★          
-      ✦           ∗                   ✦       
-                   ✧     ✧               ✸    
-·                             ·             ⋆ 
+   ★ ✺                 ★       ✺              
+            ✦ ✦ ∗                             
+   ✧   ✸                       ✧              
+        ·     ·         ⋆         ⋆           
 ```
 
 ---
 
-🎨 **Color of the Day · `#ED7D2D` · Vermilion**
+🎨 **Color of the Day · `#D610E8` · Amethyst**
 
-[![color swatch](https://img.shields.io/badge/Vermilion-ED7D2D?style=for-the-badge&color=ED7D2D&labelColor=ED7D2D)](https://www.color-hex.com/color/ED7D2D)
+[![color swatch](https://img.shields.io/badge/Amethyst-D610E8?style=for-the-badge&color=D610E8&labelColor=D610E8)](https://www.color-hex.com/color/D610E8)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"The best programmers are not marginally better than merely good ones. They are an order of magnitude better."*
+*"Sometimes it pays to stay in bed on Monday rather than spend the rest of the week debugging Monday's code."*
 
-— **Randall E. Stross**
+— **Dan Salomon**
 
 ---
 
