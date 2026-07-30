@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Wednesday, Jul 29 2026 · Day 210 of 365**
+**Thursday, Jul 30 2026 · Day 211 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████░░░░░░░░░░░` **57.5%** — *155 days remaining*
+`███████████████░░░░░░░░░░░` **57.8%** — *154 days remaining*
 
 ---
 
-🌌 **Constellation #210**
+🌌 **Constellation #211**
 
 ```
-   ★ ✺                 ★       ✺              
-            ✦ ✦ ∗                             
-   ✧   ✸                       ✧              
-        ·     ·         ⋆         ⋆           
+             ✺                 ★   ✺          
+                              ∗           ✦   
+ ✸     ✧           ✸                          
+    ⋆                     ·   ⋆               
 ```
 
 ---
 
-🎨 **Color of the Day · `#D610E8` · Amethyst**
+🎨 **Color of the Day · `#1929E0` · Ocean**
 
-[![color swatch](https://img.shields.io/badge/Amethyst-D610E8?style=for-the-badge&color=D610E8&labelColor=D610E8)](https://www.color-hex.com/color/D610E8)
+[![color swatch](https://img.shields.io/badge/Ocean-1929E0?style=for-the-badge&color=1929E0&labelColor=1929E0)](https://www.color-hex.com/color/1929E0)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Sometimes it pays to stay in bed on Monday rather than spend the rest of the week debugging Monday's code."*
+*"The competent programmer is fully aware of the limited size of their own skull."*
 
-— **Dan Salomon**
+— **Edsger W. Dijkstra**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Wednesday, Jul 29 2026 · Day 210 of 365**
+**Thursday, Jul 30 2026 · Day 211 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████░░░░░░░░░░░` **57.5%** — *155 days remaining*
+`███████████████░░░░░░░░░░░` **57.8%** — *154 days remaining*
 
 ---
 
-🌌 **Constellation #210**
+🌌 **Constellation #211**
 
 ```
-   ★ ✺                 ★       ✺              
-            ✦ ✦ ∗                             
-   ✧   ✸                       ✧              
-        ·     ·         ⋆         ⋆           
+             ✺                 ★   ✺          
+                              ∗           ✦   
+ ✸     ✧           ✸                          
+    ⋆                     ·   ⋆               
 ```
 
 ---
 
-🎨 **Color of the Day · `#D610E8` · Amethyst**
+🎨 **Color of the Day · `#1929E0` · Ocean**
 
-[![color swatch](https://img.shields.io/badge/Amethyst-D610E8?style=for-the-badge&color=D610E8&labelColor=D610E8)](https://www.color-hex.com/color/D610E8)
+[![color swatch](https://img.shields.io/badge/Ocean-1929E0?style=for-the-badge&color=1929E0&labelColor=1929E0)](https://www.color-hex.com/color/1929E0)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Sometimes it pays to stay in bed on Monday rather than spend the rest of the week debugging Monday's code."*
+*"The competent programmer is fully aware of the limited size of their own skull."*
 
-— **Dan Salomon**
+— **Edsger W. Dijkstra**
 
 ---
 
