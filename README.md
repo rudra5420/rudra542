@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Friday, Jul 31 2026 · Day 212 of 365**
+**Saturday, Aug 1 2026 · Day 213 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████░░░░░░░░░░░` **58.1%** — *153 days remaining*
+`███████████████░░░░░░░░░░░` **58.4%** — *152 days remaining*
 
 ---
 
-🌌 **Constellation #212**
+🌌 **Constellation #213**
 
 ```
-                   ★               ★          
-                                  ∗   ∗   ✦   
-                                           ✸  
-  ⋆                     ·     ⋆               
+ ✺             ★                              
+                  ✦ ∗           ∗             
+ ✧       ✧               ✸   ✧       ✸        
+·       ⋆   ⋆       ·                         
 ```
 
 ---
 
-🎨 **Color of the Day · `#BD1C77` · Rose**
+🎨 **Color of the Day · `#420FDB` · Indigo**
 
-[![color swatch](https://img.shields.io/badge/Rose-BD1C77?style=for-the-badge&color=BD1C77&labelColor=BD1C77)](https://www.color-hex.com/color/BD1C77)
+[![color swatch](https://img.shields.io/badge/Indigo-420FDB?style=for-the-badge&color=420FDB&labelColor=420FDB)](https://www.color-hex.com/color/420FDB)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Simplicity does not precede complexity, but follows it."*
+*"Any sufficiently advanced technology is indistinguishable from magic."*
 
-— **Alan Perlis**
+— **Arthur C. Clarke**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Friday, Jul 31 2026 · Day 212 of 365**
+**Saturday, Aug 1 2026 · Day 213 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████░░░░░░░░░░░` **58.1%** — *153 days remaining*
+`███████████████░░░░░░░░░░░` **58.4%** — *152 days remaining*
 
 ---
 
-🌌 **Constellation #212**
+🌌 **Constellation #213**
 
 ```
-                   ★               ★          
-                                  ∗   ∗   ✦   
-                                           ✸  
-  ⋆                     ·     ⋆               
+ ✺             ★                              
+                  ✦ ∗           ∗             
+ ✧       ✧               ✸   ✧       ✸        
+·       ⋆   ⋆       ·                         
 ```
 
 ---
 
-🎨 **Color of the Day · `#BD1C77` · Rose**
+🎨 **Color of the Day · `#420FDB` · Indigo**
 
-[![color swatch](https://img.shields.io/badge/Rose-BD1C77?style=for-the-badge&color=BD1C77&labelColor=BD1C77)](https://www.color-hex.com/color/BD1C77)
+[![color swatch](https://img.shields.io/badge/Indigo-420FDB?style=for-the-badge&color=420FDB&labelColor=420FDB)](https://www.color-hex.com/color/420FDB)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Simplicity does not precede complexity, but follows it."*
+*"Any sufficiently advanced technology is indistinguishable from magic."*
 
-— **Alan Perlis**
+— **Arthur C. Clarke**
 
 ---
 
