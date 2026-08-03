@@ -52,44 +52,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Aug 2 2026 · Day 214 of 365**
+**Monday, Aug 3 2026 · Day 215 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████░░░░░░░░░░░` **58.6%** — *151 days remaining*
+`███████████████░░░░░░░░░░░` **58.9%** — *150 days remaining*
 
 ---
 
-🌌 **Constellation #214**
+🌌 **Constellation #215**
 
 ```
-         ✺                 ★       ✺          
-                            ∗       ✦         
-       ✸           ✧         ✸ ✧              
-              · ⋆                         ⋆   
+   ✺     ✺                                   ★
+                        ∗ ✦             ✦     
+           ✸               ✧         ✧     ✸  
+    ·             ⋆ ⋆ ·                       
 ```
 
 ---
 
-🎨 **Color of the Day · `#CC4A12` · Vermilion**
+🎨 **Color of the Day · `#4FD11B` · Forest**
 
-[![color swatch](https://img.shields.io/badge/Vermilion-CC4A12?style=for-the-badge&color=CC4A12&labelColor=CC4A12)](https://www.color-hex.com/color/CC4A12)
+[![color swatch](https://img.shields.io/badge/Forest-4FD11B?style=for-the-badge&color=4FD11B&labelColor=4FD11B)](https://www.color-hex.com/color/4FD11B)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Simplicity does not precede complexity, but follows it."*
+*"Any sufficiently advanced technology is indistinguishable from magic."*
 
-— **Alan Perlis**
+— **Arthur C. Clarke**
 
 ---
 
-💡 **Tip of the Week · Week 31**
+💡 **Tip of the Week · Week 32**
 
-**Custom Error Types** — Define specific error classes instead of throwing generic `Error`. A well-named error communicates context without requiring a stack trace.
+**CSS Custom Properties** — Use variables for design tokens: `--color-primary`, `--spacing-md`, `--radius-sm`. Theming becomes a single-variable change.
 
 ---
 
@@ -106,44 +106,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Aug 2 2026 · Day 214 of 365**
+**Monday, Aug 3 2026 · Day 215 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████░░░░░░░░░░░` **58.6%** — *151 days remaining*
+`███████████████░░░░░░░░░░░` **58.9%** — *150 days remaining*
 
 ---
 
-🌌 **Constellation #214**
+🌌 **Constellation #215**
 
 ```
-         ✺                 ★       ✺          
-                            ∗       ✦         
-       ✸           ✧         ✸ ✧              
-              · ⋆                         ⋆   
+   ✺     ✺                                   ★
+                        ∗ ✦             ✦     
+           ✸               ✧         ✧     ✸  
+    ·             ⋆ ⋆ ·                       
 ```
 
 ---
 
-🎨 **Color of the Day · `#CC4A12` · Vermilion**
+🎨 **Color of the Day · `#4FD11B` · Forest**
 
-[![color swatch](https://img.shields.io/badge/Vermilion-CC4A12?style=for-the-badge&color=CC4A12&labelColor=CC4A12)](https://www.color-hex.com/color/CC4A12)
+[![color swatch](https://img.shields.io/badge/Forest-4FD11B?style=for-the-badge&color=4FD11B&labelColor=4FD11B)](https://www.color-hex.com/color/4FD11B)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Simplicity does not precede complexity, but follows it."*
+*"Any sufficiently advanced technology is indistinguishable from magic."*
 
-— **Alan Perlis**
+— **Arthur C. Clarke**
 
 ---
 
-💡 **Tip of the Week · Week 31**
+💡 **Tip of the Week · Week 32**
 
-**Custom Error Types** — Define specific error classes instead of throwing generic `Error`. A well-named error communicates context without requiring a stack trace.
+**CSS Custom Properties** — Use variables for design tokens: `--color-primary`, `--spacing-md`, `--radius-sm`. Theming becomes a single-variable change.
 
 ---
 
