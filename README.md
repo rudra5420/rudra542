@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Wednesday, Aug 5 2026 · Day 217 of 365**
+**Thursday, Aug 6 2026 · Day 218 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████░░░░░░░░░░░` **59.5%** — *148 days remaining*
+`████████████████░░░░░░░░░░` **59.7%** — *147 days remaining*
 
 ---
 
-🌌 **Constellation #217**
+🌌 **Constellation #218**
 
 ```
-     ★   ✺         ★     ★                    
-  ∗             ✦ ∗     ✦                     
-   ✧                 ✧                   ✸    
-  ·             ·       ⋆   ⋆                 
+                         ✺ ✺             ★ ★  
+                ✦           ∗       ∗         
+ ✧               ✸             ✸              
+          ⋆           ⋆ ·                     
 ```
 
 ---
 
-🎨 **Color of the Day · `#85D134` · Forest**
+🎨 **Color of the Day · `#8113E8` · Violet**
 
-[![color swatch](https://img.shields.io/badge/Forest-85D134?style=for-the-badge&color=85D134&labelColor=85D134)](https://www.color-hex.com/color/85D134)
+[![color swatch](https://img.shields.io/badge/Violet-8113E8?style=for-the-badge&color=8113E8&labelColor=8113E8)](https://www.color-hex.com/color/8113E8)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Simplicity does not precede complexity, but follows it."*
+*"Make it work, make it right, make it fast."*
 
-— **Alan Perlis**
+— **Kent Beck**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Wednesday, Aug 5 2026 · Day 217 of 365**
+**Thursday, Aug 6 2026 · Day 218 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████░░░░░░░░░░░` **59.5%** — *148 days remaining*
+`████████████████░░░░░░░░░░` **59.7%** — *147 days remaining*
 
 ---
 
-🌌 **Constellation #217**
+🌌 **Constellation #218**
 
 ```
-     ★   ✺         ★     ★                    
-  ∗             ✦ ∗     ✦                     
-   ✧                 ✧                   ✸    
-  ·             ·       ⋆   ⋆                 
+                         ✺ ✺             ★ ★  
+                ✦           ∗       ∗         
+ ✧               ✸             ✸              
+          ⋆           ⋆ ·                     
 ```
 
 ---
 
-🎨 **Color of the Day · `#85D134` · Forest**
+🎨 **Color of the Day · `#8113E8` · Violet**
 
-[![color swatch](https://img.shields.io/badge/Forest-85D134?style=for-the-badge&color=85D134&labelColor=85D134)](https://www.color-hex.com/color/85D134)
+[![color swatch](https://img.shields.io/badge/Violet-8113E8?style=for-the-badge&color=8113E8&labelColor=8113E8)](https://www.color-hex.com/color/8113E8)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Simplicity does not precede complexity, but follows it."*
+*"Make it work, make it right, make it fast."*
 
-— **Alan Perlis**
+— **Kent Beck**
 
 ---
 
