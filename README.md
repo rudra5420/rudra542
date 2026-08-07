@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Thursday, Aug 6 2026 · Day 218 of 365**
+**Friday, Aug 7 2026 · Day 219 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████████░░░░░░░░░░` **59.7%** — *147 days remaining*
+`████████████████░░░░░░░░░░` **60.0%** — *146 days remaining*
 
 ---
 
-🌌 **Constellation #218**
+🌌 **Constellation #219**
 
 ```
-                         ✺ ✺             ★ ★  
-                ✦           ∗       ∗         
- ✧               ✸             ✸              
-          ⋆           ⋆ ·                     
+   ✺                         ✺ ★             ★
+  ∗   ✦                       ∗       ✦       
+   ✸     ✸         ✧                   ✧      
+  ⋆           ⋆               ·               
 ```
 
 ---
 
-🎨 **Color of the Day · `#8113E8` · Violet**
+🎨 **Color of the Day · `#DB2E8D` · Rose**
 
-[![color swatch](https://img.shields.io/badge/Violet-8113E8?style=for-the-badge&color=8113E8&labelColor=8113E8)](https://www.color-hex.com/color/8113E8)
+[![color swatch](https://img.shields.io/badge/Rose-DB2E8D?style=for-the-badge&color=DB2E8D&labelColor=DB2E8D)](https://www.color-hex.com/color/DB2E8D)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Make it work, make it right, make it fast."*
+*"Every great developer got there by solving problems they were unqualified to solve — until they did."*
 
-— **Kent Beck**
+— **Patrick McKenzie**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Thursday, Aug 6 2026 · Day 218 of 365**
+**Friday, Aug 7 2026 · Day 219 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████████░░░░░░░░░░` **59.7%** — *147 days remaining*
+`████████████████░░░░░░░░░░` **60.0%** — *146 days remaining*
 
 ---
 
-🌌 **Constellation #218**
+🌌 **Constellation #219**
 
 ```
-                         ✺ ✺             ★ ★  
-                ✦           ∗       ∗         
- ✧               ✸             ✸              
-          ⋆           ⋆ ·                     
+   ✺                         ✺ ★             ★
+  ∗   ✦                       ∗       ✦       
+   ✸     ✸         ✧                   ✧      
+  ⋆           ⋆               ·               
 ```
 
 ---
 
-🎨 **Color of the Day · `#8113E8` · Violet**
+🎨 **Color of the Day · `#DB2E8D` · Rose**
 
-[![color swatch](https://img.shields.io/badge/Violet-8113E8?style=for-the-badge&color=8113E8&labelColor=8113E8)](https://www.color-hex.com/color/8113E8)
+[![color swatch](https://img.shields.io/badge/Rose-DB2E8D?style=for-the-badge&color=DB2E8D&labelColor=DB2E8D)](https://www.color-hex.com/color/DB2E8D)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Make it work, make it right, make it fast."*
+*"Every great developer got there by solving problems they were unqualified to solve — until they did."*
 
-— **Kent Beck**
+— **Patrick McKenzie**
 
 ---
 
