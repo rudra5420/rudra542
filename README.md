@@ -52,44 +52,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Aug 9 2026 · Day 221 of 365**
+**Monday, Aug 10 2026 · Day 222 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████████░░░░░░░░░░` **60.5%** — *144 days remaining*
+`████████████████░░░░░░░░░░` **60.8%** — *143 days remaining*
 
 ---
 
-🌌 **Constellation #221**
+🌌 **Constellation #222**
 
 ```
-                   ✺               ✺   ★      
-    ✦               ∗     ✦                   
-           ✧           ✸             ✸     ✧  
-  ·       ⋆     ·             ⋆               
+ ✺       ✺                   ★                
+  ✦         ∗         ✦                       
+       ✧                         ✸   ✧   ✸    
+        ⋆               ·           ⋆ ·       
 ```
 
 ---
 
-🎨 **Color of the Day · `#14AAB8` · Teal**
+🎨 **Color of the Day · `#A3E01D` · Chartreuse**
 
-[![color swatch](https://img.shields.io/badge/Teal-14AAB8?style=for-the-badge&color=14AAB8&labelColor=14AAB8)](https://www.color-hex.com/color/14AAB8)
+[![color swatch](https://img.shields.io/badge/Chartreuse-A3E01D?style=for-the-badge&color=A3E01D&labelColor=A3E01D)](https://www.color-hex.com/color/A3E01D)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"We should forget about small efficiencies: premature optimization is the root of all evil."*
+*"Talk is cheap. Show me the code."*
 
-— **Donald Knuth**
+— **Linus Torvalds**
 
 ---
 
-💡 **Tip of the Week · Week 32**
+💡 **Tip of the Week · Week 33**
 
-**CSS Custom Properties** — Use variables for design tokens: `--color-primary`, `--spacing-md`, `--radius-sm`. Theming becomes a single-variable change.
+**grep / awk / sed** — These Unix tools process gigabytes of logs in seconds. Knowing them is faster than writing a custom script for data extraction tasks.
 
 ---
 
@@ -106,44 +106,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Aug 9 2026 · Day 221 of 365**
+**Monday, Aug 10 2026 · Day 222 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████████░░░░░░░░░░` **60.5%** — *144 days remaining*
+`████████████████░░░░░░░░░░` **60.8%** — *143 days remaining*
 
 ---
 
-🌌 **Constellation #221**
+🌌 **Constellation #222**
 
 ```
-                   ✺               ✺   ★      
-    ✦               ∗     ✦                   
-           ✧           ✸             ✸     ✧  
-  ·       ⋆     ·             ⋆               
+ ✺       ✺                   ★                
+  ✦         ∗         ✦                       
+       ✧                         ✸   ✧   ✸    
+        ⋆               ·           ⋆ ·       
 ```
 
 ---
 
-🎨 **Color of the Day · `#14AAB8` · Teal**
+🎨 **Color of the Day · `#A3E01D` · Chartreuse**
 
-[![color swatch](https://img.shields.io/badge/Teal-14AAB8?style=for-the-badge&color=14AAB8&labelColor=14AAB8)](https://www.color-hex.com/color/14AAB8)
+[![color swatch](https://img.shields.io/badge/Chartreuse-A3E01D?style=for-the-badge&color=A3E01D&labelColor=A3E01D)](https://www.color-hex.com/color/A3E01D)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"We should forget about small efficiencies: premature optimization is the root of all evil."*
+*"Talk is cheap. Show me the code."*
 
-— **Donald Knuth**
+— **Linus Torvalds**
 
 ---
 
-💡 **Tip of the Week · Week 32**
+💡 **Tip of the Week · Week 33**
 
-**CSS Custom Properties** — Use variables for design tokens: `--color-primary`, `--spacing-md`, `--radius-sm`. Theming becomes a single-variable change.
+**grep / awk / sed** — These Unix tools process gigabytes of logs in seconds. Knowing them is faster than writing a custom script for data extraction tasks.
 
 ---
 
