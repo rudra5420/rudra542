@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Thursday, Aug 13 2026 · Day 225 of 365**
+**Friday, Aug 14 2026 · Day 226 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████████░░░░░░░░░░` **61.6%** — *140 days remaining*
+`████████████████░░░░░░░░░░` **61.9%** — *139 days remaining*
 
 ---
 
-🌌 **Constellation #225**
+🌌 **Constellation #226**
 
 ```
-       ★           ✺             ✺            
-✦     ✦                     ∗                 
-     ✸         ✧         ✧                 ✸  
-        · ⋆               ⋆ ·                 
+                                 ✺       ★    
+                        ∗ ✦     ∗   ✦         
+                   ✸   ✧       ✸              
+        ·     ⋆                             ⋆ 
 ```
 
 ---
 
-🎨 **Color of the Day · `#C41229` · Coral**
+🎨 **Color of the Day · `#ED2D6D` · Coral**
 
-[![color swatch](https://img.shields.io/badge/Coral-C41229?style=for-the-badge&color=C41229&labelColor=C41229)](https://www.color-hex.com/color/C41229)
+[![color swatch](https://img.shields.io/badge/Coral-ED2D6D?style=for-the-badge&color=ED2D6D&labelColor=ED2D6D)](https://www.color-hex.com/color/ED2D6D)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Before software can be reusable, it first has to be usable."*
+*"Refactoring is paying off technical debt."*
 
-— **Ralph Johnson**
+— **Martin Fowler**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Thursday, Aug 13 2026 · Day 225 of 365**
+**Friday, Aug 14 2026 · Day 226 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████████░░░░░░░░░░` **61.6%** — *140 days remaining*
+`████████████████░░░░░░░░░░` **61.9%** — *139 days remaining*
 
 ---
 
-🌌 **Constellation #225**
+🌌 **Constellation #226**
 
 ```
-       ★           ✺             ✺            
-✦     ✦                     ∗                 
-     ✸         ✧         ✧                 ✸  
-        · ⋆               ⋆ ·                 
+                                 ✺       ★    
+                        ∗ ✦     ∗   ✦         
+                   ✸   ✧       ✸              
+        ·     ⋆                             ⋆ 
 ```
 
 ---
 
-🎨 **Color of the Day · `#C41229` · Coral**
+🎨 **Color of the Day · `#ED2D6D` · Coral**
 
-[![color swatch](https://img.shields.io/badge/Coral-C41229?style=for-the-badge&color=C41229&labelColor=C41229)](https://www.color-hex.com/color/C41229)
+[![color swatch](https://img.shields.io/badge/Coral-ED2D6D?style=for-the-badge&color=ED2D6D&labelColor=ED2D6D)](https://www.color-hex.com/color/ED2D6D)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Before software can be reusable, it first has to be usable."*
+*"Refactoring is paying off technical debt."*
 
-— **Ralph Johnson**
+— **Martin Fowler**
 
 ---
 
