@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Wednesday, Aug 19 2026 · Day 231 of 365**
+**Thursday, Aug 20 2026 · Day 232 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████████░░░░░░░░░░` **63.3%** — *134 days remaining*
+`█████████████████░░░░░░░░░` **63.6%** — *133 days remaining*
 
 ---
 
-🌌 **Constellation #231**
+🌌 **Constellation #232**
 
 ```
-             ✺     ★                       ★  
-                                  ∗         ✦ 
-                     ✧ ✸     ✧                
-                              ·               
+     ★     ✺                     ★       ✺    
+          ∗                             ∗ ✦   
+                       ✸ ✸               ✧ ✧  
+    ⋆                         ·       ·   ⋆   
 ```
 
 ---
 
-🎨 **Color of the Day · `#41CC44` · Emerald**
+🎨 **Color of the Day · `#D94330` · Crimson**
 
-[![color swatch](https://img.shields.io/badge/Emerald-41CC44?style=for-the-badge&color=41CC44&labelColor=41CC44)](https://www.color-hex.com/color/41CC44)
+[![color swatch](https://img.shields.io/badge/Crimson-D94330?style=for-the-badge&color=D94330&labelColor=D94330)](https://www.color-hex.com/color/D94330)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live."*
+*"The problem with quick and dirty is that dirty remains long after quick is forgotten."*
 
-— **John F. Woods**
+— **Steve McConnell**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Wednesday, Aug 19 2026 · Day 231 of 365**
+**Thursday, Aug 20 2026 · Day 232 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████████░░░░░░░░░░` **63.3%** — *134 days remaining*
+`█████████████████░░░░░░░░░` **63.6%** — *133 days remaining*
 
 ---
 
-🌌 **Constellation #231**
+🌌 **Constellation #232**
 
 ```
-             ✺     ★                       ★  
-                                  ∗         ✦ 
-                     ✧ ✸     ✧                
-                              ·               
+     ★     ✺                     ★       ✺    
+          ∗                             ∗ ✦   
+                       ✸ ✸               ✧ ✧  
+    ⋆                         ·       ·   ⋆   
 ```
 
 ---
 
-🎨 **Color of the Day · `#41CC44` · Emerald**
+🎨 **Color of the Day · `#D94330` · Crimson**
 
-[![color swatch](https://img.shields.io/badge/Emerald-41CC44?style=for-the-badge&color=41CC44&labelColor=41CC44)](https://www.color-hex.com/color/41CC44)
+[![color swatch](https://img.shields.io/badge/Crimson-D94330?style=for-the-badge&color=D94330&labelColor=D94330)](https://www.color-hex.com/color/D94330)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live."*
+*"The problem with quick and dirty is that dirty remains long after quick is forgotten."*
 
-— **John F. Woods**
+— **Steve McConnell**
 
 ---
 
