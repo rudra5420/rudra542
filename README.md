@@ -52,44 +52,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Aug 23 2026 · Day 235 of 365**
+**Monday, Aug 24 2026 · Day 236 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████░░░░░░░░░` **64.4%** — *130 days remaining*
+`█████████████████░░░░░░░░░` **64.7%** — *129 days remaining*
 
 ---
 
-🌌 **Constellation #235**
+🌌 **Constellation #236**
 
 ```
-     ✺                   ★         ✺          
-  ✦       ✦               ∗                   
-             ✧   ✸                            
-⋆ ⋆                 ·             ·           
+                                     ✺        
+✦           ✦             ∗     ∗             
+       ✧ ✧     ✸   ✸                          
+⋆       ·       ·         ⋆                   
 ```
 
 ---
 
-🎨 **Color of the Day · `#864BDE` · Violet**
+🎨 **Color of the Day · `#E64E53` · Coral**
 
-[![color swatch](https://img.shields.io/badge/Violet-864BDE?style=for-the-badge&color=864BDE&labelColor=864BDE)](https://www.color-hex.com/color/864BDE)
+[![color swatch](https://img.shields.io/badge/Coral-E64E53?style=for-the-badge&color=E64E53&labelColor=E64E53)](https://www.color-hex.com/color/E64E53)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."*
+*"One of my most productive days was throwing away 1,000 lines of code."*
 
-— **Antoine de Saint-Exupéry**
+— **Ken Thompson**
 
 ---
 
-💡 **Tip of the Week · Week 34**
+💡 **Tip of the Week · Week 35**
 
-**Load Test Early** — Load-test before production launches. Systems fail at unexpected scale in ways that unit and integration tests never reveal.
+**Idempotent Operations** — Design operations so calling them once or a hundred times produces the same result. Retries, replays, and crash recovery become safe.
 
 ---
 
@@ -106,44 +106,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Aug 23 2026 · Day 235 of 365**
+**Monday, Aug 24 2026 · Day 236 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████░░░░░░░░░` **64.4%** — *130 days remaining*
+`█████████████████░░░░░░░░░` **64.7%** — *129 days remaining*
 
 ---
 
-🌌 **Constellation #235**
+🌌 **Constellation #236**
 
 ```
-     ✺                   ★         ✺          
-  ✦       ✦               ∗                   
-             ✧   ✸                            
-⋆ ⋆                 ·             ·           
+                                     ✺        
+✦           ✦             ∗     ∗             
+       ✧ ✧     ✸   ✸                          
+⋆       ·       ·         ⋆                   
 ```
 
 ---
 
-🎨 **Color of the Day · `#864BDE` · Violet**
+🎨 **Color of the Day · `#E64E53` · Coral**
 
-[![color swatch](https://img.shields.io/badge/Violet-864BDE?style=for-the-badge&color=864BDE&labelColor=864BDE)](https://www.color-hex.com/color/864BDE)
+[![color swatch](https://img.shields.io/badge/Coral-E64E53?style=for-the-badge&color=E64E53&labelColor=E64E53)](https://www.color-hex.com/color/E64E53)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."*
+*"One of my most productive days was throwing away 1,000 lines of code."*
 
-— **Antoine de Saint-Exupéry**
+— **Ken Thompson**
 
 ---
 
-💡 **Tip of the Week · Week 34**
+💡 **Tip of the Week · Week 35**
 
-**Load Test Early** — Load-test before production launches. Systems fail at unexpected scale in ways that unit and integration tests never reveal.
+**Idempotent Operations** — Design operations so calling them once or a hundred times produces the same result. Retries, replays, and crash recovery become safe.
 
 ---
 
