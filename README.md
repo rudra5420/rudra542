@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Monday, Aug 24 2026 · Day 236 of 365**
+**Tuesday, Aug 25 2026 · Day 237 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████░░░░░░░░░` **64.7%** — *129 days remaining*
+`█████████████████░░░░░░░░░` **64.9%** — *128 days remaining*
 
 ---
 
-🌌 **Constellation #236**
+🌌 **Constellation #237**
 
 ```
-                                     ✺        
-✦           ✦             ∗     ∗             
-       ✧ ✧     ✸   ✸                          
-⋆       ·       ·         ⋆                   
+                           ★           ★ ✺    
+                                  ∗ ✦ ∗     ✦ 
+               ✧ ✸                         ✸  
+                          ⋆         ·   ⋆     
 ```
 
 ---
 
-🎨 **Color of the Day · `#E64E53` · Coral**
+🎨 **Color of the Day · `#45D662` · Emerald**
 
-[![color swatch](https://img.shields.io/badge/Coral-E64E53?style=for-the-badge&color=E64E53&labelColor=E64E53)](https://www.color-hex.com/color/E64E53)
+[![color swatch](https://img.shields.io/badge/Emerald-45D662?style=for-the-badge&color=45D662&labelColor=45D662)](https://www.color-hex.com/color/45D662)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"One of my most productive days was throwing away 1,000 lines of code."*
+*"Controlling complexity is the essence of computer programming."*
 
-— **Ken Thompson**
+— **Brian W. Kernighan**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Monday, Aug 24 2026 · Day 236 of 365**
+**Tuesday, Aug 25 2026 · Day 237 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████░░░░░░░░░` **64.7%** — *129 days remaining*
+`█████████████████░░░░░░░░░` **64.9%** — *128 days remaining*
 
 ---
 
-🌌 **Constellation #236**
+🌌 **Constellation #237**
 
 ```
-                                     ✺        
-✦           ✦             ∗     ∗             
-       ✧ ✧     ✸   ✸                          
-⋆       ·       ·         ⋆                   
+                           ★           ★ ✺    
+                                  ∗ ✦ ∗     ✦ 
+               ✧ ✸                         ✸  
+                          ⋆         ·   ⋆     
 ```
 
 ---
 
-🎨 **Color of the Day · `#E64E53` · Coral**
+🎨 **Color of the Day · `#45D662` · Emerald**
 
-[![color swatch](https://img.shields.io/badge/Coral-E64E53?style=for-the-badge&color=E64E53&labelColor=E64E53)](https://www.color-hex.com/color/E64E53)
+[![color swatch](https://img.shields.io/badge/Emerald-45D662?style=for-the-badge&color=45D662&labelColor=45D662)](https://www.color-hex.com/color/45D662)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"One of my most productive days was throwing away 1,000 lines of code."*
+*"Controlling complexity is the essence of computer programming."*
 
-— **Ken Thompson**
+— **Brian W. Kernighan**
 
 ---
 
