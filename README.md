@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Tuesday, Sep 1 2026 · Day 244 of 365**
+**Wednesday, Sep 2 2026 · Day 245 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████░░░░░░░░░` **66.8%** — *121 days remaining*
+`█████████████████░░░░░░░░░` **67.1%** — *120 days remaining*
 
 ---
 
-🌌 **Constellation #244**
+🌌 **Constellation #245**
 
 ```
-     ✺   ★                     ✺           ★  
-✦   ∗                               ✦     ∗   
-         ✸                 ✸                  
-        ⋆       ⋆           ·       ·         
+     ★                           ✺       ★    
+    ∗         ✦           ✦       ∗           
+   ✸                     ✧         ✧          
+    ·       ·                 ⋆               
 ```
 
 ---
 
-🎨 **Color of the Day · `#E040E3` · Amethyst**
+🎨 **Color of the Day · `#D9233B` · Coral**
 
-[![color swatch](https://img.shields.io/badge/Amethyst-E040E3?style=for-the-badge&color=E040E3&labelColor=E040E3)](https://www.color-hex.com/color/E040E3)
+[![color swatch](https://img.shields.io/badge/Coral-D9233B?style=for-the-badge&color=D9233B&labelColor=D9233B)](https://www.color-hex.com/color/D9233B)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Deleted code is debugged code."*
+*"Sometimes it pays to stay in bed on Monday rather than spend the rest of the week debugging Monday's code."*
 
-— **Jeff Sickel**
+— **Dan Salomon**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Tuesday, Sep 1 2026 · Day 244 of 365**
+**Wednesday, Sep 2 2026 · Day 245 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████░░░░░░░░░` **66.8%** — *121 days remaining*
+`█████████████████░░░░░░░░░` **67.1%** — *120 days remaining*
 
 ---
 
-🌌 **Constellation #244**
+🌌 **Constellation #245**
 
 ```
-     ✺   ★                     ✺           ★  
-✦   ∗                               ✦     ∗   
-         ✸                 ✸                  
-        ⋆       ⋆           ·       ·         
+     ★                           ✺       ★    
+    ∗         ✦           ✦       ∗           
+   ✸                     ✧         ✧          
+    ·       ·                 ⋆               
 ```
 
 ---
 
-🎨 **Color of the Day · `#E040E3` · Amethyst**
+🎨 **Color of the Day · `#D9233B` · Coral**
 
-[![color swatch](https://img.shields.io/badge/Amethyst-E040E3?style=for-the-badge&color=E040E3&labelColor=E040E3)](https://www.color-hex.com/color/E040E3)
+[![color swatch](https://img.shields.io/badge/Coral-D9233B?style=for-the-badge&color=D9233B&labelColor=D9233B)](https://www.color-hex.com/color/D9233B)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Deleted code is debugged code."*
+*"Sometimes it pays to stay in bed on Monday rather than spend the rest of the week debugging Monday's code."*
 
-— **Jeff Sickel**
+— **Dan Salomon**
 
 ---
 
