@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Wednesday, Sep 2 2026 · Day 245 of 365**
+**Thursday, Sep 3 2026 · Day 246 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████░░░░░░░░░` **67.1%** — *120 days remaining*
+`██████████████████░░░░░░░░` **67.4%** — *119 days remaining*
 
 ---
 
-🌌 **Constellation #245**
+🌌 **Constellation #246**
 
 ```
-     ★                           ✺       ★    
-    ∗         ✦           ✦       ∗           
-   ✸                     ✧         ✧          
-    ·       ·                 ⋆               
+                         ✺       ✺            
+  ∗ ✦ ✦                                 ∗     
+                   ✸                 ✧        
+                                ⋆ ·           
 ```
 
 ---
 
-🎨 **Color of the Day · `#D9233B` · Coral**
+🎨 **Color of the Day · `#43E671` · Emerald**
 
-[![color swatch](https://img.shields.io/badge/Coral-D9233B?style=for-the-badge&color=D9233B&labelColor=D9233B)](https://www.color-hex.com/color/D9233B)
+[![color swatch](https://img.shields.io/badge/Emerald-43E671?style=for-the-badge&color=43E671&labelColor=43E671)](https://www.color-hex.com/color/43E671)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Sometimes it pays to stay in bed on Monday rather than spend the rest of the week debugging Monday's code."*
+*"Good code is its own best documentation."*
 
-— **Dan Salomon**
+— **Steve McConnell**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Wednesday, Sep 2 2026 · Day 245 of 365**
+**Thursday, Sep 3 2026 · Day 246 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████░░░░░░░░░` **67.1%** — *120 days remaining*
+`██████████████████░░░░░░░░` **67.4%** — *119 days remaining*
 
 ---
 
-🌌 **Constellation #245**
+🌌 **Constellation #246**
 
 ```
-     ★                           ✺       ★    
-    ∗         ✦           ✦       ∗           
-   ✸                     ✧         ✧          
-    ·       ·                 ⋆               
+                         ✺       ✺            
+  ∗ ✦ ✦                                 ∗     
+                   ✸                 ✧        
+                                ⋆ ·           
 ```
 
 ---
 
-🎨 **Color of the Day · `#D9233B` · Coral**
+🎨 **Color of the Day · `#43E671` · Emerald**
 
-[![color swatch](https://img.shields.io/badge/Coral-D9233B?style=for-the-badge&color=D9233B&labelColor=D9233B)](https://www.color-hex.com/color/D9233B)
+[![color swatch](https://img.shields.io/badge/Emerald-43E671?style=for-the-badge&color=43E671&labelColor=43E671)](https://www.color-hex.com/color/43E671)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Sometimes it pays to stay in bed on Monday rather than spend the rest of the week debugging Monday's code."*
+*"Good code is its own best documentation."*
 
-— **Dan Salomon**
+— **Steve McConnell**
 
 ---
 
