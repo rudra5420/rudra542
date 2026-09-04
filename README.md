@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Thursday, Sep 3 2026 · Day 246 of 365**
+**Friday, Sep 4 2026 · Day 247 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████░░░░░░░░` **67.4%** — *119 days remaining*
+`██████████████████░░░░░░░░` **67.7%** — *118 days remaining*
 
 ---
 
-🌌 **Constellation #246**
+🌌 **Constellation #247**
 
 ```
-                         ✺       ✺            
-  ∗ ✦ ✦                                 ∗     
-                   ✸                 ✧        
-                                ⋆ ·           
+           ★             ✺ ✺                  
+  ∗       ✦ ✦           ∗                     
+   ✸     ✸ ✧                         ✧        
+        ⋆       ⋆   ·                       · 
 ```
 
 ---
 
-🎨 **Color of the Day · `#43E671` · Emerald**
+🎨 **Color of the Day · `#4A25DB` · Indigo**
 
-[![color swatch](https://img.shields.io/badge/Emerald-43E671?style=for-the-badge&color=43E671&labelColor=43E671)](https://www.color-hex.com/color/43E671)
+[![color swatch](https://img.shields.io/badge/Indigo-4A25DB?style=for-the-badge&color=4A25DB&labelColor=4A25DB)](https://www.color-hex.com/color/4A25DB)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Good code is its own best documentation."*
+*"Controlling complexity is the essence of computer programming."*
 
-— **Steve McConnell**
+— **Brian W. Kernighan**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Thursday, Sep 3 2026 · Day 246 of 365**
+**Friday, Sep 4 2026 · Day 247 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████░░░░░░░░` **67.4%** — *119 days remaining*
+`██████████████████░░░░░░░░` **67.7%** — *118 days remaining*
 
 ---
 
-🌌 **Constellation #246**
+🌌 **Constellation #247**
 
 ```
-                         ✺       ✺            
-  ∗ ✦ ✦                                 ∗     
-                   ✸                 ✧        
-                                ⋆ ·           
+           ★             ✺ ✺                  
+  ∗       ✦ ✦           ∗                     
+   ✸     ✸ ✧                         ✧        
+        ⋆       ⋆   ·                       · 
 ```
 
 ---
 
-🎨 **Color of the Day · `#43E671` · Emerald**
+🎨 **Color of the Day · `#4A25DB` · Indigo**
 
-[![color swatch](https://img.shields.io/badge/Emerald-43E671?style=for-the-badge&color=43E671&labelColor=43E671)](https://www.color-hex.com/color/43E671)
+[![color swatch](https://img.shields.io/badge/Indigo-4A25DB?style=for-the-badge&color=4A25DB&labelColor=4A25DB)](https://www.color-hex.com/color/4A25DB)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Good code is its own best documentation."*
+*"Controlling complexity is the essence of computer programming."*
 
-— **Steve McConnell**
+— **Brian W. Kernighan**
 
 ---
 
