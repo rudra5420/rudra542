@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Friday, Sep 4 2026 · Day 247 of 365**
+**Saturday, Sep 5 2026 · Day 248 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████░░░░░░░░` **67.7%** — *118 days remaining*
+`██████████████████░░░░░░░░` **67.9%** — *117 days remaining*
 
 ---
 
-🌌 **Constellation #247**
+🌌 **Constellation #248**
 
 ```
-           ★             ✺ ✺                  
-  ∗       ✦ ✦           ∗                     
-   ✸     ✸ ✧                         ✧        
-        ⋆       ⋆   ·                       · 
+     ★ ✺                   ✺       ★          
+✦             ∗               ∗ ✦             
+ ✧           ✧                     ✸   ✸ ✸    
+  ·     ·   ⋆                 ⋆               
 ```
 
 ---
 
-🎨 **Color of the Day · `#4A25DB` · Indigo**
+🎨 **Color of the Day · `#D69B36` · Amber**
 
-[![color swatch](https://img.shields.io/badge/Indigo-4A25DB?style=for-the-badge&color=4A25DB&labelColor=4A25DB)](https://www.color-hex.com/color/4A25DB)
+[![color swatch](https://img.shields.io/badge/Amber-D69B36?style=for-the-badge&color=D69B36&labelColor=D69B36)](https://www.color-hex.com/color/D69B36)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Controlling complexity is the essence of computer programming."*
+*"We should forget about small efficiencies: premature optimization is the root of all evil."*
 
-— **Brian W. Kernighan**
+— **Donald Knuth**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Friday, Sep 4 2026 · Day 247 of 365**
+**Saturday, Sep 5 2026 · Day 248 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████░░░░░░░░` **67.7%** — *118 days remaining*
+`██████████████████░░░░░░░░` **67.9%** — *117 days remaining*
 
 ---
 
-🌌 **Constellation #247**
+🌌 **Constellation #248**
 
 ```
-           ★             ✺ ✺                  
-  ∗       ✦ ✦           ∗                     
-   ✸     ✸ ✧                         ✧        
-        ⋆       ⋆   ·                       · 
+     ★ ✺                   ✺       ★          
+✦             ∗               ∗ ✦             
+ ✧           ✧                     ✸   ✸ ✸    
+  ·     ·   ⋆                 ⋆               
 ```
 
 ---
 
-🎨 **Color of the Day · `#4A25DB` · Indigo**
+🎨 **Color of the Day · `#D69B36` · Amber**
 
-[![color swatch](https://img.shields.io/badge/Indigo-4A25DB?style=for-the-badge&color=4A25DB&labelColor=4A25DB)](https://www.color-hex.com/color/4A25DB)
+[![color swatch](https://img.shields.io/badge/Amber-D69B36?style=for-the-badge&color=D69B36&labelColor=D69B36)](https://www.color-hex.com/color/D69B36)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Controlling complexity is the essence of computer programming."*
+*"We should forget about small efficiencies: premature optimization is the root of all evil."*
 
-— **Brian W. Kernighan**
+— **Donald Knuth**
 
 ---
 
