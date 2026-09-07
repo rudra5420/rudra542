@@ -52,44 +52,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Sep 6 2026 · Day 249 of 365**
+**Monday, Sep 7 2026 · Day 250 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████░░░░░░░░` **68.2%** — *116 days remaining*
+`██████████████████░░░░░░░░` **68.5%** — *115 days remaining*
 
 ---
 
-🌌 **Constellation #249**
+🌌 **Constellation #250**
 
 ```
-                 ✺         ★           ★      
-          ∗                             ∗   ✦ 
-       ✧                     ✸           ✸    
-                    ·                 · ⋆     
+           ★   ✺             ✺                
+  ✦     ✦                     ∗ ∗             
+               ✸                   ✸   ✧      
+            ⋆             ⋆   ·               
 ```
 
 ---
 
-🎨 **Color of the Day · `#E31B61` · Rose**
+🎨 **Color of the Day · `#BF8E2A` · Amber**
 
-[![color swatch](https://img.shields.io/badge/Rose-E31B61?style=for-the-badge&color=E31B61&labelColor=E31B61)](https://www.color-hex.com/color/E31B61)
+[![color swatch](https://img.shields.io/badge/Amber-BF8E2A?style=for-the-badge&color=BF8E2A&labelColor=BF8E2A)](https://www.color-hex.com/color/BF8E2A)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Programs must be written for people to read, and only incidentally for machines to execute."*
+*"A good programmer looks both ways before crossing a one-way street."*
 
-— **Harold Abelson**
+— **Doug Linder**
 
 ---
 
-💡 **Tip of the Week · Week 36**
+💡 **Tip of the Week · Week 37**
 
-**Monorepo Benefits** — Monorepos shine for tightly coupled projects: atomic cross-project refactoring, single PR for related changes, no version coordination.
+**Feynman Technique** — Study a concept, then explain it in simple language as if teaching a beginner. Gaps in your understanding surface immediately.
 
 ---
 
@@ -106,44 +106,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Sep 6 2026 · Day 249 of 365**
+**Monday, Sep 7 2026 · Day 250 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████░░░░░░░░` **68.2%** — *116 days remaining*
+`██████████████████░░░░░░░░` **68.5%** — *115 days remaining*
 
 ---
 
-🌌 **Constellation #249**
+🌌 **Constellation #250**
 
 ```
-                 ✺         ★           ★      
-          ∗                             ∗   ✦ 
-       ✧                     ✸           ✸    
-                    ·                 · ⋆     
+           ★   ✺             ✺                
+  ✦     ✦                     ∗ ∗             
+               ✸                   ✸   ✧      
+            ⋆             ⋆   ·               
 ```
 
 ---
 
-🎨 **Color of the Day · `#E31B61` · Rose**
+🎨 **Color of the Day · `#BF8E2A` · Amber**
 
-[![color swatch](https://img.shields.io/badge/Rose-E31B61?style=for-the-badge&color=E31B61&labelColor=E31B61)](https://www.color-hex.com/color/E31B61)
+[![color swatch](https://img.shields.io/badge/Amber-BF8E2A?style=for-the-badge&color=BF8E2A&labelColor=BF8E2A)](https://www.color-hex.com/color/BF8E2A)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Programs must be written for people to read, and only incidentally for machines to execute."*
+*"A good programmer looks both ways before crossing a one-way street."*
 
-— **Harold Abelson**
+— **Doug Linder**
 
 ---
 
-💡 **Tip of the Week · Week 36**
+💡 **Tip of the Week · Week 37**
 
-**Monorepo Benefits** — Monorepos shine for tightly coupled projects: atomic cross-project refactoring, single PR for related changes, no version coordination.
+**Feynman Technique** — Study a concept, then explain it in simple language as if teaching a beginner. Gaps in your understanding surface immediately.
 
 ---
 
