@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Monday, Sep 7 2026 · Day 250 of 365**
+**Tuesday, Sep 8 2026 · Day 251 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████░░░░░░░░` **68.5%** — *115 days remaining*
+`██████████████████░░░░░░░░` **68.8%** — *114 days remaining*
 
 ---
 
-🌌 **Constellation #250**
+🌌 **Constellation #251**
 
 ```
-           ★   ✺             ✺                
-  ✦     ✦                     ∗ ∗             
-               ✸                   ✸   ✧      
-            ⋆             ⋆   ·               
+                 ★             ✺       ★   ✺  
+            ∗         ✦         ∗             
+     ✸   ✸       ✧                            
+  ⋆                                 ·   · ⋆   
 ```
 
 ---
 
-🎨 **Color of the Day · `#BF8E2A` · Amber**
+🎨 **Color of the Day · `#C9491A` · Vermilion**
 
-[![color swatch](https://img.shields.io/badge/Amber-BF8E2A?style=for-the-badge&color=BF8E2A&labelColor=BF8E2A)](https://www.color-hex.com/color/BF8E2A)
+[![color swatch](https://img.shields.io/badge/Vermilion-C9491A?style=for-the-badge&color=C9491A&labelColor=C9491A)](https://www.color-hex.com/color/C9491A)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"A good programmer looks both ways before crossing a one-way street."*
+*"The best programmers are not marginally better than merely good ones. They are an order of magnitude better."*
 
-— **Doug Linder**
+— **Randall E. Stross**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Monday, Sep 7 2026 · Day 250 of 365**
+**Tuesday, Sep 8 2026 · Day 251 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████░░░░░░░░` **68.5%** — *115 days remaining*
+`██████████████████░░░░░░░░` **68.8%** — *114 days remaining*
 
 ---
 
-🌌 **Constellation #250**
+🌌 **Constellation #251**
 
 ```
-           ★   ✺             ✺                
-  ✦     ✦                     ∗ ∗             
-               ✸                   ✸   ✧      
-            ⋆             ⋆   ·               
+                 ★             ✺       ★   ✺  
+            ∗         ✦         ∗             
+     ✸   ✸       ✧                            
+  ⋆                                 ·   · ⋆   
 ```
 
 ---
 
-🎨 **Color of the Day · `#BF8E2A` · Amber**
+🎨 **Color of the Day · `#C9491A` · Vermilion**
 
-[![color swatch](https://img.shields.io/badge/Amber-BF8E2A?style=for-the-badge&color=BF8E2A&labelColor=BF8E2A)](https://www.color-hex.com/color/BF8E2A)
+[![color swatch](https://img.shields.io/badge/Vermilion-C9491A?style=for-the-badge&color=C9491A&labelColor=C9491A)](https://www.color-hex.com/color/C9491A)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"A good programmer looks both ways before crossing a one-way street."*
+*"The best programmers are not marginally better than merely good ones. They are an order of magnitude better."*
 
-— **Doug Linder**
+— **Randall E. Stross**
 
 ---
 
