@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Wednesday, Sep 9 2026 · Day 252 of 365**
+**Thursday, Sep 10 2026 · Day 253 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████░░░░░░░░` **69.0%** — *113 days remaining*
+`██████████████████░░░░░░░░` **69.3%** — *112 days remaining*
 
 ---
 
-🌌 **Constellation #252**
+🌌 **Constellation #253**
 
 ```
-                         ✺       ★            
-              ✦ ∗                         ∗   
-                                 ✸     ✧      
-              ⋆ ⋆   ·                         
+   ✺               ★                 ★     ✺  
+        ✦   ∗         ∗                   ✦   
+     ✸           ✧         ✧ ✸                
+    ⋆       ·   ·                 ⋆           
 ```
 
 ---
 
-🎨 **Color of the Day · `#3DA3E3` · Sky Blue**
+🎨 **Color of the Day · `#50C0E6` · Teal**
 
-[![color swatch](https://img.shields.io/badge/Sky_Blue-3DA3E3?style=for-the-badge&color=3DA3E3&labelColor=3DA3E3)](https://www.color-hex.com/color/3DA3E3)
+[![color swatch](https://img.shields.io/badge/Teal-50C0E6?style=for-the-badge&color=50C0E6&labelColor=50C0E6)](https://www.color-hex.com/color/50C0E6)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"The best way to get a project done faster is to start sooner."*
+*"Don't document bad code — rewrite it."*
 
-— **Jim Highsmith**
+— **Brian W. Kernighan**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Wednesday, Sep 9 2026 · Day 252 of 365**
+**Thursday, Sep 10 2026 · Day 253 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████░░░░░░░░` **69.0%** — *113 days remaining*
+`██████████████████░░░░░░░░` **69.3%** — *112 days remaining*
 
 ---
 
-🌌 **Constellation #252**
+🌌 **Constellation #253**
 
 ```
-                         ✺       ★            
-              ✦ ∗                         ∗   
-                                 ✸     ✧      
-              ⋆ ⋆   ·                         
+   ✺               ★                 ★     ✺  
+        ✦   ∗         ∗                   ✦   
+     ✸           ✧         ✧ ✸                
+    ⋆       ·   ·                 ⋆           
 ```
 
 ---
 
-🎨 **Color of the Day · `#3DA3E3` · Sky Blue**
+🎨 **Color of the Day · `#50C0E6` · Teal**
 
-[![color swatch](https://img.shields.io/badge/Sky_Blue-3DA3E3?style=for-the-badge&color=3DA3E3&labelColor=3DA3E3)](https://www.color-hex.com/color/3DA3E3)
+[![color swatch](https://img.shields.io/badge/Teal-50C0E6?style=for-the-badge&color=50C0E6&labelColor=50C0E6)](https://www.color-hex.com/color/50C0E6)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"The best way to get a project done faster is to start sooner."*
+*"Don't document bad code — rewrite it."*
 
-— **Jim Highsmith**
+— **Brian W. Kernighan**
 
 ---
 
