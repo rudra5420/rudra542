@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Thursday, Sep 10 2026 · Day 253 of 365**
+**Friday, Sep 11 2026 · Day 254 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████░░░░░░░░` **69.3%** — *112 days remaining*
+`██████████████████░░░░░░░░` **69.6%** — *111 days remaining*
 
 ---
 
-🌌 **Constellation #253**
+🌌 **Constellation #254**
 
 ```
-   ✺               ★                 ★     ✺  
-        ✦   ∗         ∗                   ✦   
-     ✸           ✧         ✧ ✸                
-    ⋆       ·   ·                 ⋆           
+       ★     ✺     ✺               ★          
+                ✦                     ∗   ∗   
+   ✸                 ✧       ✸                
+              ⋆ ·         ·           ⋆       
 ```
 
 ---
 
-🎨 **Color of the Day · `#50C0E6` · Teal**
+🎨 **Color of the Day · `#4B14E3` · Indigo**
 
-[![color swatch](https://img.shields.io/badge/Teal-50C0E6?style=for-the-badge&color=50C0E6&labelColor=50C0E6)](https://www.color-hex.com/color/50C0E6)
+[![color swatch](https://img.shields.io/badge/Indigo-4B14E3?style=for-the-badge&color=4B14E3&labelColor=4B14E3)](https://www.color-hex.com/color/4B14E3)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Don't document bad code — rewrite it."*
+*"Truth can only be found in one place: the code."*
 
-— **Brian W. Kernighan**
+— **Robert C. Martin**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Thursday, Sep 10 2026 · Day 253 of 365**
+**Friday, Sep 11 2026 · Day 254 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████░░░░░░░░` **69.3%** — *112 days remaining*
+`██████████████████░░░░░░░░` **69.6%** — *111 days remaining*
 
 ---
 
-🌌 **Constellation #253**
+🌌 **Constellation #254**
 
 ```
-   ✺               ★                 ★     ✺  
-        ✦   ∗         ∗                   ✦   
-     ✸           ✧         ✧ ✸                
-    ⋆       ·   ·                 ⋆           
+       ★     ✺     ✺               ★          
+                ✦                     ∗   ∗   
+   ✸                 ✧       ✸                
+              ⋆ ·         ·           ⋆       
 ```
 
 ---
 
-🎨 **Color of the Day · `#50C0E6` · Teal**
+🎨 **Color of the Day · `#4B14E3` · Indigo**
 
-[![color swatch](https://img.shields.io/badge/Teal-50C0E6?style=for-the-badge&color=50C0E6&labelColor=50C0E6)](https://www.color-hex.com/color/50C0E6)
+[![color swatch](https://img.shields.io/badge/Indigo-4B14E3?style=for-the-badge&color=4B14E3&labelColor=4B14E3)](https://www.color-hex.com/color/4B14E3)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Don't document bad code — rewrite it."*
+*"Truth can only be found in one place: the code."*
 
-— **Brian W. Kernighan**
+— **Robert C. Martin**
 
 ---
 
