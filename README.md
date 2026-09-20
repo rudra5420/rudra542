@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Saturday, Sep 19 2026 · Day 262 of 365**
+**Sunday, Sep 20 2026 · Day 263 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████░░░░░░░` **71.8%** — *103 days remaining*
+`███████████████████░░░░░░░` **72.1%** — *102 days remaining*
 
 ---
 
-🌌 **Constellation #262**
+🌌 **Constellation #263**
 
 ```
-     ★           ★       ✺               ✺ ✺  
-  ✦                   ∗     ✦             ∗   
-         ✸           ✧       ✸               ✧
-    ⋆         ·                     ⋆ ·       
+     ★                 ★         ✺            
+                          ∗         ✦         
+ ✧   ✧             ✸         ✸                
+·     ⋆                   ·           ⋆       
 ```
 
 ---
 
-🎨 **Color of the Day · `#78EB3B` · Forest**
+🎨 **Color of the Day · `#B9EB2F` · Chartreuse**
 
-[![color swatch](https://img.shields.io/badge/Forest-78EB3B?style=for-the-badge&color=78EB3B&labelColor=78EB3B)](https://www.color-hex.com/color/78EB3B)
+[![color swatch](https://img.shields.io/badge/Chartreuse-B9EB2F?style=for-the-badge&color=B9EB2F&labelColor=B9EB2F)](https://www.color-hex.com/color/B9EB2F)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Good code is its own best documentation."*
+*"One of my most productive days was throwing away 1,000 lines of code."*
 
-— **Steve McConnell**
+— **Ken Thompson**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Saturday, Sep 19 2026 · Day 262 of 365**
+**Sunday, Sep 20 2026 · Day 263 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████░░░░░░░` **71.8%** — *103 days remaining*
+`███████████████████░░░░░░░` **72.1%** — *102 days remaining*
 
 ---
 
-🌌 **Constellation #262**
+🌌 **Constellation #263**
 
 ```
-     ★           ★       ✺               ✺ ✺  
-  ✦                   ∗     ✦             ∗   
-         ✸           ✧       ✸               ✧
-    ⋆         ·                     ⋆ ·       
+     ★                 ★         ✺            
+                          ∗         ✦         
+ ✧   ✧             ✸         ✸                
+·     ⋆                   ·           ⋆       
 ```
 
 ---
 
-🎨 **Color of the Day · `#78EB3B` · Forest**
+🎨 **Color of the Day · `#B9EB2F` · Chartreuse**
 
-[![color swatch](https://img.shields.io/badge/Forest-78EB3B?style=for-the-badge&color=78EB3B&labelColor=78EB3B)](https://www.color-hex.com/color/78EB3B)
+[![color swatch](https://img.shields.io/badge/Chartreuse-B9EB2F?style=for-the-badge&color=B9EB2F&labelColor=B9EB2F)](https://www.color-hex.com/color/B9EB2F)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Good code is its own best documentation."*
+*"One of my most productive days was throwing away 1,000 lines of code."*
 
-— **Steve McConnell**
+— **Ken Thompson**
 
 ---
 
