@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Monday, Sep 21 2026 · Day 264 of 365**
+**Tuesday, Sep 22 2026 · Day 265 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████░░░░░░░` **72.3%** — *101 days remaining*
+`███████████████████░░░░░░░` **72.6%** — *100 days remaining*
 
 ---
 
-🌌 **Constellation #264**
+🌌 **Constellation #265**
 
 ```
- ★                           ✺ ★     ✺        
-            ✦                   ∗       ✦     
-                             ✸     ✧ ✧     ✸  
-                    ⋆       · ·     ⋆         
+           ★   ✺             ✺ ★              
+∗                                 ✦       ∗ ✦ 
+     ✸           ✸       ✧ ✧                  
+⋆   ·                   ⋆         ·           
 ```
 
 ---
 
-🎨 **Color of the Day · `#9117E3` · Violet**
+🎨 **Color of the Day · `#D97025` · Vermilion**
 
-[![color swatch](https://img.shields.io/badge/Violet-9117E3?style=for-the-badge&color=9117E3&labelColor=9117E3)](https://www.color-hex.com/color/9117E3)
+[![color swatch](https://img.shields.io/badge/Vermilion-D97025?style=for-the-badge&color=D97025&labelColor=D97025)](https://www.color-hex.com/color/D97025)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Before software can be reusable, it first has to be usable."*
+*"The best programmers are not marginally better than merely good ones. They are an order of magnitude better."*
 
-— **Ralph Johnson**
+— **Randall E. Stross**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Monday, Sep 21 2026 · Day 264 of 365**
+**Tuesday, Sep 22 2026 · Day 265 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████░░░░░░░` **72.3%** — *101 days remaining*
+`███████████████████░░░░░░░` **72.6%** — *100 days remaining*
 
 ---
 
-🌌 **Constellation #264**
+🌌 **Constellation #265**
 
 ```
- ★                           ✺ ★     ✺        
-            ✦                   ∗       ✦     
-                             ✸     ✧ ✧     ✸  
-                    ⋆       · ·     ⋆         
+           ★   ✺             ✺ ★              
+∗                                 ✦       ∗ ✦ 
+     ✸           ✸       ✧ ✧                  
+⋆   ·                   ⋆         ·           
 ```
 
 ---
 
-🎨 **Color of the Day · `#9117E3` · Violet**
+🎨 **Color of the Day · `#D97025` · Vermilion**
 
-[![color swatch](https://img.shields.io/badge/Violet-9117E3?style=for-the-badge&color=9117E3&labelColor=9117E3)](https://www.color-hex.com/color/9117E3)
+[![color swatch](https://img.shields.io/badge/Vermilion-D97025?style=for-the-badge&color=D97025&labelColor=D97025)](https://www.color-hex.com/color/D97025)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Before software can be reusable, it first has to be usable."*
+*"The best programmers are not marginally better than merely good ones. They are an order of magnitude better."*
 
-— **Ralph Johnson**
+— **Randall E. Stross**
 
 ---
 
