@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Tuesday, Sep 22 2026 · Day 265 of 365**
+**Wednesday, Sep 23 2026 · Day 266 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████░░░░░░░` **72.6%** — *100 days remaining*
+`███████████████████░░░░░░░` **72.9%** — *99 days remaining*
 
 ---
 
-🌌 **Constellation #265**
+🌌 **Constellation #266**
 
 ```
-           ★   ✺             ✺ ★              
-∗                                 ✦       ∗ ✦ 
-     ✸           ✸       ✧ ✧                  
-⋆   ·                   ⋆         ·           
+     ★                         ★   ✺          
+      ✦               ∗ ∗                     
+         ✧   ✸                                
+    ⋆           ·             ·               
 ```
 
 ---
 
-🎨 **Color of the Day · `#D97025` · Vermilion**
+🎨 **Color of the Day · `#C96736` · Vermilion**
 
-[![color swatch](https://img.shields.io/badge/Vermilion-D97025?style=for-the-badge&color=D97025&labelColor=D97025)](https://www.color-hex.com/color/D97025)
+[![color swatch](https://img.shields.io/badge/Vermilion-C96736?style=for-the-badge&color=C96736&labelColor=C96736)](https://www.color-hex.com/color/C96736)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"The best programmers are not marginally better than merely good ones. They are an order of magnitude better."*
+*"Refactoring is paying off technical debt."*
 
-— **Randall E. Stross**
+— **Martin Fowler**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Tuesday, Sep 22 2026 · Day 265 of 365**
+**Wednesday, Sep 23 2026 · Day 266 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████░░░░░░░` **72.6%** — *100 days remaining*
+`███████████████████░░░░░░░` **72.9%** — *99 days remaining*
 
 ---
 
-🌌 **Constellation #265**
+🌌 **Constellation #266**
 
 ```
-           ★   ✺             ✺ ★              
-∗                                 ✦       ∗ ✦ 
-     ✸           ✸       ✧ ✧                  
-⋆   ·                   ⋆         ·           
+     ★                         ★   ✺          
+      ✦               ∗ ∗                     
+         ✧   ✸                                
+    ⋆           ·             ·               
 ```
 
 ---
 
-🎨 **Color of the Day · `#D97025` · Vermilion**
+🎨 **Color of the Day · `#C96736` · Vermilion**
 
-[![color swatch](https://img.shields.io/badge/Vermilion-D97025?style=for-the-badge&color=D97025&labelColor=D97025)](https://www.color-hex.com/color/D97025)
+[![color swatch](https://img.shields.io/badge/Vermilion-C96736?style=for-the-badge&color=C96736&labelColor=C96736)](https://www.color-hex.com/color/C96736)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"The best programmers are not marginally better than merely good ones. They are an order of magnitude better."*
+*"Refactoring is paying off technical debt."*
 
-— **Randall E. Stross**
+— **Martin Fowler**
 
 ---
 
