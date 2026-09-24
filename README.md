@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Wednesday, Sep 23 2026 · Day 266 of 365**
+**Thursday, Sep 24 2026 · Day 267 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████░░░░░░░` **72.9%** — *99 days remaining*
+`███████████████████░░░░░░░` **73.2%** — *98 days remaining*
 
 ---
 
-🌌 **Constellation #266**
+🌌 **Constellation #267**
 
 ```
-     ★                         ★   ✺          
-      ✦               ∗ ∗                     
-         ✧   ✸                                
-    ⋆           ·             ·               
+                 ✺   ✺         ★             ★
+            ∗           ✦                   ∗ 
+ ✸                           ✧           ✸    
+        ·       ⋆                   ·   ⋆     
 ```
 
 ---
 
-🎨 **Color of the Day · `#C96736` · Vermilion**
+🎨 **Color of the Day · `#18BCD9` · Teal**
 
-[![color swatch](https://img.shields.io/badge/Vermilion-C96736?style=for-the-badge&color=C96736&labelColor=C96736)](https://www.color-hex.com/color/C96736)
+[![color swatch](https://img.shields.io/badge/Teal-18BCD9?style=for-the-badge&color=18BCD9&labelColor=18BCD9)](https://www.color-hex.com/color/18BCD9)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Refactoring is paying off technical debt."*
+*"Sometimes it pays to stay in bed on Monday rather than spend the rest of the week debugging Monday's code."*
 
-— **Martin Fowler**
+— **Dan Salomon**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Wednesday, Sep 23 2026 · Day 266 of 365**
+**Thursday, Sep 24 2026 · Day 267 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████░░░░░░░` **72.9%** — *99 days remaining*
+`███████████████████░░░░░░░` **73.2%** — *98 days remaining*
 
 ---
 
-🌌 **Constellation #266**
+🌌 **Constellation #267**
 
 ```
-     ★                         ★   ✺          
-      ✦               ∗ ∗                     
-         ✧   ✸                                
-    ⋆           ·             ·               
+                 ✺   ✺         ★             ★
+            ∗           ✦                   ∗ 
+ ✸                           ✧           ✸    
+        ·       ⋆                   ·   ⋆     
 ```
 
 ---
 
-🎨 **Color of the Day · `#C96736` · Vermilion**
+🎨 **Color of the Day · `#18BCD9` · Teal**
 
-[![color swatch](https://img.shields.io/badge/Vermilion-C96736?style=for-the-badge&color=C96736&labelColor=C96736)](https://www.color-hex.com/color/C96736)
+[![color swatch](https://img.shields.io/badge/Teal-18BCD9?style=for-the-badge&color=18BCD9&labelColor=18BCD9)](https://www.color-hex.com/color/18BCD9)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Refactoring is paying off technical debt."*
+*"Sometimes it pays to stay in bed on Monday rather than spend the rest of the week debugging Monday's code."*
 
-— **Martin Fowler**
+— **Dan Salomon**
 
 ---
 
