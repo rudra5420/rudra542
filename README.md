@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Thursday, Sep 24 2026 · Day 267 of 365**
+**Friday, Sep 25 2026 · Day 268 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████░░░░░░░` **73.2%** — *98 days remaining*
+`███████████████████░░░░░░░` **73.4%** — *97 days remaining*
 
 ---
 
-🌌 **Constellation #267**
+🌌 **Constellation #268**
 
 ```
-                 ✺   ✺         ★             ★
-            ∗           ✦                   ∗ 
- ✸                           ✧           ✸    
-        ·       ⋆                   ·   ⋆     
+   ★                             ✺     ★ ✺    
+  ✦     ✦             ∗                 ∗     
+ ✸     ✧           ✸             ✧            
+        ⋆       ·   ·                         
 ```
 
 ---
 
-🎨 **Color of the Day · `#18BCD9` · Teal**
+🎨 **Color of the Day · `#58BD26` · Forest**
 
-[![color swatch](https://img.shields.io/badge/Teal-18BCD9?style=for-the-badge&color=18BCD9&labelColor=18BCD9)](https://www.color-hex.com/color/18BCD9)
+[![color swatch](https://img.shields.io/badge/Forest-58BD26?style=for-the-badge&color=58BD26&labelColor=58BD26)](https://www.color-hex.com/color/58BD26)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Sometimes it pays to stay in bed on Monday rather than spend the rest of the week debugging Monday's code."*
+*"A language that doesn't affect the way you think about programming is not worth knowing."*
 
-— **Dan Salomon**
+— **Alan Perlis**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Thursday, Sep 24 2026 · Day 267 of 365**
+**Friday, Sep 25 2026 · Day 268 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████░░░░░░░` **73.2%** — *98 days remaining*
+`███████████████████░░░░░░░` **73.4%** — *97 days remaining*
 
 ---
 
-🌌 **Constellation #267**
+🌌 **Constellation #268**
 
 ```
-                 ✺   ✺         ★             ★
-            ∗           ✦                   ∗ 
- ✸                           ✧           ✸    
-        ·       ⋆                   ·   ⋆     
+   ★                             ✺     ★ ✺    
+  ✦     ✦             ∗                 ∗     
+ ✸     ✧           ✸             ✧            
+        ⋆       ·   ·                         
 ```
 
 ---
 
-🎨 **Color of the Day · `#18BCD9` · Teal**
+🎨 **Color of the Day · `#58BD26` · Forest**
 
-[![color swatch](https://img.shields.io/badge/Teal-18BCD9?style=for-the-badge&color=18BCD9&labelColor=18BCD9)](https://www.color-hex.com/color/18BCD9)
+[![color swatch](https://img.shields.io/badge/Forest-58BD26?style=for-the-badge&color=58BD26&labelColor=58BD26)](https://www.color-hex.com/color/58BD26)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Sometimes it pays to stay in bed on Monday rather than spend the rest of the week debugging Monday's code."*
+*"A language that doesn't affect the way you think about programming is not worth knowing."*
 
-— **Dan Salomon**
+— **Alan Perlis**
 
 ---
 
