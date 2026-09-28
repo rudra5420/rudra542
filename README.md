@@ -52,44 +52,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Sep 27 2026 · Day 270 of 365**
+**Monday, Sep 28 2026 · Day 271 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████░░░░░░░` **74.0%** — *95 days remaining*
+`███████████████████░░░░░░░` **74.2%** — *94 days remaining*
 
 ---
 
-🌌 **Constellation #270**
+🌌 **Constellation #271**
 
 ```
-             ★     ✺ ★                        
-    ✦               ∗                     ∗   
-     ✧     ✸                           ✸      
-              ·         ⋆                   · 
+                       ✺       ★         ★    
+                              ∗ ∗         ✦   
+                             ✧               ✸
+·               ·                       ⋆     
 ```
 
 ---
 
-🎨 **Color of the Day · `#268CBF` · Sky Blue**
+🎨 **Color of the Day · `#34CBD9` · Teal**
 
-[![color swatch](https://img.shields.io/badge/Sky_Blue-268CBF?style=for-the-badge&color=268CBF&labelColor=268CBF)](https://www.color-hex.com/color/268CBF)
+[![color swatch](https://img.shields.io/badge/Teal-34CBD9?style=for-the-badge&color=34CBD9&labelColor=34CBD9)](https://www.color-hex.com/color/34CBD9)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Software is a great combination of artistry and engineering."*
+*"No one in the brief history of computing has ever written a piece of perfect software."*
 
-— **Bill Gates**
+— **Andy Hunt**
 
 ---
 
-💡 **Tip of the Week · Week 39**
+💡 **Tip of the Week · Week 40**
 
-**Type Your Contracts** — Define API contracts with OpenAPI/Swagger or GraphQL schemas. Living documentation that enables client generation and prevents drift.
+**Boy Scout Rule** — Always leave code slightly cleaner than you found it. Rename a confusing variable, extract a function, delete dead code. Entropy resists.
 
 ---
 
@@ -106,44 +106,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Sep 27 2026 · Day 270 of 365**
+**Monday, Sep 28 2026 · Day 271 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████░░░░░░░` **74.0%** — *95 days remaining*
+`███████████████████░░░░░░░` **74.2%** — *94 days remaining*
 
 ---
 
-🌌 **Constellation #270**
+🌌 **Constellation #271**
 
 ```
-             ★     ✺ ★                        
-    ✦               ∗                     ∗   
-     ✧     ✸                           ✸      
-              ·         ⋆                   · 
+                       ✺       ★         ★    
+                              ∗ ∗         ✦   
+                             ✧               ✸
+·               ·                       ⋆     
 ```
 
 ---
 
-🎨 **Color of the Day · `#268CBF` · Sky Blue**
+🎨 **Color of the Day · `#34CBD9` · Teal**
 
-[![color swatch](https://img.shields.io/badge/Sky_Blue-268CBF?style=for-the-badge&color=268CBF&labelColor=268CBF)](https://www.color-hex.com/color/268CBF)
+[![color swatch](https://img.shields.io/badge/Teal-34CBD9?style=for-the-badge&color=34CBD9&labelColor=34CBD9)](https://www.color-hex.com/color/34CBD9)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Software is a great combination of artistry and engineering."*
+*"No one in the brief history of computing has ever written a piece of perfect software."*
 
-— **Bill Gates**
+— **Andy Hunt**
 
 ---
 
-💡 **Tip of the Week · Week 39**
+💡 **Tip of the Week · Week 40**
 
-**Type Your Contracts** — Define API contracts with OpenAPI/Swagger or GraphQL schemas. Living documentation that enables client generation and prevents drift.
+**Boy Scout Rule** — Always leave code slightly cleaner than you found it. Rename a confusing variable, extract a function, delete dead code. Entropy resists.
 
 ---
 
