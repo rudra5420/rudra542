@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Tuesday, Sep 29 2026 · Day 272 of 365**
+**Wednesday, Sep 30 2026 · Day 273 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████░░░░░░░` **74.5%** — *93 days remaining*
+`███████████████████░░░░░░░` **74.8%** — *92 days remaining*
 
 ---
 
-🌌 **Constellation #272**
+🌌 **Constellation #273**
 
 ```
-   ✺                 ★                     ✺  
-      ∗           ✦             ∗ ✦           
-   ✧     ✸                     ✸         ✧    
-                          ·       ⋆     ·     
+                           ★ ✺         ✺     ★
+                    ✦             ✦   ∗       
+   ✧     ✧                 ✸               ✸  
+            ·         ⋆     ·             ⋆   
 ```
 
 ---
 
-🎨 **Color of the Day · `#D16749` · Crimson**
+🎨 **Color of the Day · `#EB2B21` · Crimson**
 
-[![color swatch](https://img.shields.io/badge/Crimson-D16749?style=for-the-badge&color=D16749&labelColor=D16749)](https://www.color-hex.com/color/D16749)
+[![color swatch](https://img.shields.io/badge/Crimson-EB2B21?style=for-the-badge&color=EB2B21&labelColor=EB2B21)](https://www.color-hex.com/color/EB2B21)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"The most important skill in software development is communication."*
+*"If it's not tested, it's broken."*
 
-— **Martin Fowler**
+— **Bruce Eckel**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Tuesday, Sep 29 2026 · Day 272 of 365**
+**Wednesday, Sep 30 2026 · Day 273 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████░░░░░░░` **74.5%** — *93 days remaining*
+`███████████████████░░░░░░░` **74.8%** — *92 days remaining*
 
 ---
 
-🌌 **Constellation #272**
+🌌 **Constellation #273**
 
 ```
-   ✺                 ★                     ✺  
-      ∗           ✦             ∗ ✦           
-   ✧     ✸                     ✸         ✧    
-                          ·       ⋆     ·     
+                           ★ ✺         ✺     ★
+                    ✦             ✦   ∗       
+   ✧     ✧                 ✸               ✸  
+            ·         ⋆     ·             ⋆   
 ```
 
 ---
 
-🎨 **Color of the Day · `#D16749` · Crimson**
+🎨 **Color of the Day · `#EB2B21` · Crimson**
 
-[![color swatch](https://img.shields.io/badge/Crimson-D16749?style=for-the-badge&color=D16749&labelColor=D16749)](https://www.color-hex.com/color/D16749)
+[![color swatch](https://img.shields.io/badge/Crimson-EB2B21?style=for-the-badge&color=EB2B21&labelColor=EB2B21)](https://www.color-hex.com/color/EB2B21)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"The most important skill in software development is communication."*
+*"If it's not tested, it's broken."*
 
-— **Martin Fowler**
+— **Bruce Eckel**
 
 ---
 
