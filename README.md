@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Thursday, Oct 1 2026 · Day 274 of 365**
+**Friday, Oct 2 2026 · Day 275 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████████████░░░░░░` **75.1%** — *91 days remaining*
+`████████████████████░░░░░░` **75.3%** — *90 days remaining*
 
 ---
 
-🌌 **Constellation #274**
+🌌 **Constellation #275**
 
 ```
-                 ✺             ★           ✺  
-        ✦           ✦ ∗                       
-             ✸     ✧   ✧                      
-  ⋆         ·                   ·             
+   ✺                                     ★   ★
+          ✦           ∗             ∗         
+   ✸   ✧                   ✧             ✸    
+            ·           · ⋆                   
 ```
 
 ---
 
-🎨 **Color of the Day · `#2CB895` · Seafoam**
+🎨 **Color of the Day · `#43CCB3` · Seafoam**
 
-[![color swatch](https://img.shields.io/badge/Seafoam-2CB895?style=for-the-badge&color=2CB895&labelColor=2CB895)](https://www.color-hex.com/color/2CB895)
+[![color swatch](https://img.shields.io/badge/Seafoam-43CCB3?style=for-the-badge&color=43CCB3&labelColor=43CCB3)](https://www.color-hex.com/color/43CCB3)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Simplicity is prerequisite for reliability."*
+*"Don't document bad code — rewrite it."*
 
-— **Edsger W. Dijkstra**
+— **Brian W. Kernighan**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Thursday, Oct 1 2026 · Day 274 of 365**
+**Friday, Oct 2 2026 · Day 275 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████████████░░░░░░` **75.1%** — *91 days remaining*
+`████████████████████░░░░░░` **75.3%** — *90 days remaining*
 
 ---
 
-🌌 **Constellation #274**
+🌌 **Constellation #275**
 
 ```
-                 ✺             ★           ✺  
-        ✦           ✦ ∗                       
-             ✸     ✧   ✧                      
-  ⋆         ·                   ·             
+   ✺                                     ★   ★
+          ✦           ∗             ∗         
+   ✸   ✧                   ✧             ✸    
+            ·           · ⋆                   
 ```
 
 ---
 
-🎨 **Color of the Day · `#2CB895` · Seafoam**
+🎨 **Color of the Day · `#43CCB3` · Seafoam**
 
-[![color swatch](https://img.shields.io/badge/Seafoam-2CB895?style=for-the-badge&color=2CB895&labelColor=2CB895)](https://www.color-hex.com/color/2CB895)
+[![color swatch](https://img.shields.io/badge/Seafoam-43CCB3?style=for-the-badge&color=43CCB3&labelColor=43CCB3)](https://www.color-hex.com/color/43CCB3)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Simplicity is prerequisite for reliability."*
+*"Don't document bad code — rewrite it."*
 
-— **Edsger W. Dijkstra**
+— **Brian W. Kernighan**
 
 ---
 
