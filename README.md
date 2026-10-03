@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Friday, Oct 2 2026 · Day 275 of 365**
+**Saturday, Oct 3 2026 · Day 276 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████████████░░░░░░` **75.3%** — *90 days remaining*
+`████████████████████░░░░░░` **75.6%** — *89 days remaining*
 
 ---
 
-🌌 **Constellation #275**
+🌌 **Constellation #276**
 
 ```
-   ✺                                     ★   ★
-          ✦           ∗             ∗         
-   ✸   ✧                   ✧             ✸    
-            ·           · ⋆                   
+   ✺             ★                 ★         ✺
+∗     ✦   ✦                             ∗     
+   ✧ ✸ ✸                 ✧         ✧          
+                      ·     ⋆   ·             
 ```
 
 ---
 
-🎨 **Color of the Day · `#43CCB3` · Seafoam**
+🎨 **Color of the Day · `#147CC7` · Sky Blue**
 
-[![color swatch](https://img.shields.io/badge/Seafoam-43CCB3?style=for-the-badge&color=43CCB3&labelColor=43CCB3)](https://www.color-hex.com/color/43CCB3)
+[![color swatch](https://img.shields.io/badge/Sky_Blue-147CC7?style=for-the-badge&color=147CC7&labelColor=147CC7)](https://www.color-hex.com/color/147CC7)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Don't document bad code — rewrite it."*
+*"One of my most productive days was throwing away 1,000 lines of code."*
 
-— **Brian W. Kernighan**
+— **Ken Thompson**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Friday, Oct 2 2026 · Day 275 of 365**
+**Saturday, Oct 3 2026 · Day 276 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████████████░░░░░░` **75.3%** — *90 days remaining*
+`████████████████████░░░░░░` **75.6%** — *89 days remaining*
 
 ---
 
-🌌 **Constellation #275**
+🌌 **Constellation #276**
 
 ```
-   ✺                                     ★   ★
-          ✦           ∗             ∗         
-   ✸   ✧                   ✧             ✸    
-            ·           · ⋆                   
+   ✺             ★                 ★         ✺
+∗     ✦   ✦                             ∗     
+   ✧ ✸ ✸                 ✧         ✧          
+                      ·     ⋆   ·             
 ```
 
 ---
 
-🎨 **Color of the Day · `#43CCB3` · Seafoam**
+🎨 **Color of the Day · `#147CC7` · Sky Blue**
 
-[![color swatch](https://img.shields.io/badge/Seafoam-43CCB3?style=for-the-badge&color=43CCB3&labelColor=43CCB3)](https://www.color-hex.com/color/43CCB3)
+[![color swatch](https://img.shields.io/badge/Sky_Blue-147CC7?style=for-the-badge&color=147CC7&labelColor=147CC7)](https://www.color-hex.com/color/147CC7)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Don't document bad code — rewrite it."*
+*"One of my most productive days was throwing away 1,000 lines of code."*
 
-— **Brian W. Kernighan**
+— **Ken Thompson**
 
 ---
 
