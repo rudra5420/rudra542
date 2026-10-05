@@ -52,44 +52,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Oct 4 2026 · Day 277 of 365**
+**Monday, Oct 5 2026 · Day 278 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████████████░░░░░░` **75.9%** — *88 days remaining*
+`████████████████████░░░░░░` **76.2%** — *87 days remaining*
 
 ---
 
-🌌 **Constellation #277**
+🌌 **Constellation #278**
 
 ```
- ★ ✺     ✺       ★                            
-                  ✦ ✦         ∗       ∗       
- ✸           ✧ ✸       ✧                   ✧  
-          ⋆         ⋆ · ·                     
+               ✺   ★   ✺         ★            
+✦         ✦               ∗                   
+       ✧               ✸       ✧              
+      ⋆           ·               ⋆         · 
 ```
 
 ---
 
-🎨 **Color of the Day · `#D015D6` · Amethyst**
+🎨 **Color of the Day · `#63E04C` · Forest**
 
-[![color swatch](https://img.shields.io/badge/Amethyst-D015D6?style=for-the-badge&color=D015D6&labelColor=D015D6)](https://www.color-hex.com/color/D015D6)
+[![color swatch](https://img.shields.io/badge/Forest-63E04C?style=for-the-badge&color=63E04C&labelColor=63E04C)](https://www.color-hex.com/color/63E04C)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Good code is its own best documentation."*
+*"Talk is cheap. Show me the code."*
 
-— **Steve McConnell**
+— **Linus Torvalds**
 
 ---
 
-💡 **Tip of the Week · Week 40**
+💡 **Tip of the Week · Week 41**
 
-**Boy Scout Rule** — Always leave code slightly cleaner than you found it. Rename a confusing variable, extract a function, delete dead code. Entropy resists.
+**Content-Addressable Cache** — If the content hash matches, the result is identical. This is how Git objects, Docker layers, and npm's lockfile integrity work.
 
 ---
 
@@ -106,44 +106,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Oct 4 2026 · Day 277 of 365**
+**Monday, Oct 5 2026 · Day 278 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████████████░░░░░░` **75.9%** — *88 days remaining*
+`████████████████████░░░░░░` **76.2%** — *87 days remaining*
 
 ---
 
-🌌 **Constellation #277**
+🌌 **Constellation #278**
 
 ```
- ★ ✺     ✺       ★                            
-                  ✦ ✦         ∗       ∗       
- ✸           ✧ ✸       ✧                   ✧  
-          ⋆         ⋆ · ·                     
+               ✺   ★   ✺         ★            
+✦         ✦               ∗                   
+       ✧               ✸       ✧              
+      ⋆           ·               ⋆         · 
 ```
 
 ---
 
-🎨 **Color of the Day · `#D015D6` · Amethyst**
+🎨 **Color of the Day · `#63E04C` · Forest**
 
-[![color swatch](https://img.shields.io/badge/Amethyst-D015D6?style=for-the-badge&color=D015D6&labelColor=D015D6)](https://www.color-hex.com/color/D015D6)
+[![color swatch](https://img.shields.io/badge/Forest-63E04C?style=for-the-badge&color=63E04C&labelColor=63E04C)](https://www.color-hex.com/color/63E04C)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Good code is its own best documentation."*
+*"Talk is cheap. Show me the code."*
 
-— **Steve McConnell**
+— **Linus Torvalds**
 
 ---
 
-💡 **Tip of the Week · Week 40**
+💡 **Tip of the Week · Week 41**
 
-**Boy Scout Rule** — Always leave code slightly cleaner than you found it. Rename a confusing variable, extract a function, delete dead code. Entropy resists.
+**Content-Addressable Cache** — If the content hash matches, the result is identical. This is how Git objects, Docker layers, and npm's lockfile integrity work.
 
 ---
 
