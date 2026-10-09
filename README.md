@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Thursday, Oct 8 2026 · Day 281 of 365**
+**Friday, Oct 9 2026 · Day 282 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████████████░░░░░░` **77.0%** — *84 days remaining*
+`████████████████████░░░░░░` **77.3%** — *83 days remaining*
 
 ---
 
-🌌 **Constellation #281**
+🌌 **Constellation #282**
 
 ```
-                                   ★     ★   ✺
-                          ∗ ∗       ✦         
-     ✧                     ✸                  
-                    ·   ⋆           ·         
+       ★             ★               ✺        
+                        ✦           ∗     ✦   
+             ✧ ✧             ✸                
+      ·                       ⋆               
 ```
 
 ---
 
-🎨 **Color of the Day · `#4833E8` · Indigo**
+🎨 **Color of the Day · `#67D132` · Forest**
 
-[![color swatch](https://img.shields.io/badge/Indigo-4833E8?style=for-the-badge&color=4833E8&labelColor=4833E8)](https://www.color-hex.com/color/4833E8)
+[![color swatch](https://img.shields.io/badge/Forest-67D132?style=for-the-badge&color=67D132&labelColor=67D132)](https://www.color-hex.com/color/67D132)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Deleted code is debugged code."*
+*"Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."*
 
-— **Jeff Sickel**
+— **Brian W. Kernighan**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Thursday, Oct 8 2026 · Day 281 of 365**
+**Friday, Oct 9 2026 · Day 282 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████████████░░░░░░` **77.0%** — *84 days remaining*
+`████████████████████░░░░░░` **77.3%** — *83 days remaining*
 
 ---
 
-🌌 **Constellation #281**
+🌌 **Constellation #282**
 
 ```
-                                   ★     ★   ✺
-                          ∗ ∗       ✦         
-     ✧                     ✸                  
-                    ·   ⋆           ·         
+       ★             ★               ✺        
+                        ✦           ∗     ✦   
+             ✧ ✧             ✸                
+      ·                       ⋆               
 ```
 
 ---
 
-🎨 **Color of the Day · `#4833E8` · Indigo**
+🎨 **Color of the Day · `#67D132` · Forest**
 
-[![color swatch](https://img.shields.io/badge/Indigo-4833E8?style=for-the-badge&color=4833E8&labelColor=4833E8)](https://www.color-hex.com/color/4833E8)
+[![color swatch](https://img.shields.io/badge/Forest-67D132?style=for-the-badge&color=67D132&labelColor=67D132)](https://www.color-hex.com/color/67D132)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Deleted code is debugged code."*
+*"Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."*
 
-— **Jeff Sickel**
+— **Brian W. Kernighan**
 
 ---
 
