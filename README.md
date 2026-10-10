@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Friday, Oct 9 2026 · Day 282 of 365**
+**Saturday, Oct 10 2026 · Day 283 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████████████░░░░░░` **77.3%** — *83 days remaining*
+`████████████████████░░░░░░` **77.5%** — *82 days remaining*
 
 ---
 
-🌌 **Constellation #282**
+🌌 **Constellation #283**
 
 ```
-       ★             ★               ✺        
-                        ✦           ∗     ✦   
-             ✧ ✧             ✸                
-      ·                       ⋆               
+ ★                 ✺     ★                    
+        ∗                         ✦           
+     ✧                   ✸                   ✧
+⋆                 ·           ·               
 ```
 
 ---
 
-🎨 **Color of the Day · `#67D132` · Forest**
+🎨 **Color of the Day · `#BD0B0E` · Coral**
 
-[![color swatch](https://img.shields.io/badge/Forest-67D132?style=for-the-badge&color=67D132&labelColor=67D132)](https://www.color-hex.com/color/67D132)
+[![color swatch](https://img.shields.io/badge/Coral-BD0B0E?style=for-the-badge&color=BD0B0E&labelColor=BD0B0E)](https://www.color-hex.com/color/BD0B0E)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."*
+*"Talk is cheap. Show me the code."*
 
-— **Brian W. Kernighan**
+— **Linus Torvalds**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Friday, Oct 9 2026 · Day 282 of 365**
+**Saturday, Oct 10 2026 · Day 283 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████████████░░░░░░` **77.3%** — *83 days remaining*
+`████████████████████░░░░░░` **77.5%** — *82 days remaining*
 
 ---
 
-🌌 **Constellation #282**
+🌌 **Constellation #283**
 
 ```
-       ★             ★               ✺        
-                        ✦           ∗     ✦   
-             ✧ ✧             ✸                
-      ·                       ⋆               
+ ★                 ✺     ★                    
+        ∗                         ✦           
+     ✧                   ✸                   ✧
+⋆                 ·           ·               
 ```
 
 ---
 
-🎨 **Color of the Day · `#67D132` · Forest**
+🎨 **Color of the Day · `#BD0B0E` · Coral**
 
-[![color swatch](https://img.shields.io/badge/Forest-67D132?style=for-the-badge&color=67D132&labelColor=67D132)](https://www.color-hex.com/color/67D132)
+[![color swatch](https://img.shields.io/badge/Coral-BD0B0E?style=for-the-badge&color=BD0B0E&labelColor=BD0B0E)](https://www.color-hex.com/color/BD0B0E)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."*
+*"Talk is cheap. Show me the code."*
 
-— **Brian W. Kernighan**
+— **Linus Torvalds**
 
 ---
 
