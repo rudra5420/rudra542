@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Saturday, Oct 10 2026 · Day 283 of 365**
+**Sunday, Oct 11 2026 · Day 284 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████████████░░░░░░` **77.5%** — *82 days remaining*
+`████████████████████░░░░░░` **77.8%** — *81 days remaining*
 
 ---
 
-🌌 **Constellation #283**
+🌌 **Constellation #284**
 
 ```
- ★                 ✺     ★                    
-        ∗                         ✦           
-     ✧                   ✸                   ✧
-⋆                 ·           ·               
+             ★           ✺         ★ ✺        
+            ✦     ∗ ∗         ✦         ∗     
+   ✧         ✸     ✧     ✸                    
+      ⋆ ⋆                         · ·         
 ```
 
 ---
 
-🎨 **Color of the Day · `#BD0B0E` · Coral**
+🎨 **Color of the Day · `#983CDE` · Violet**
 
-[![color swatch](https://img.shields.io/badge/Coral-BD0B0E?style=for-the-badge&color=BD0B0E&labelColor=BD0B0E)](https://www.color-hex.com/color/BD0B0E)
+[![color swatch](https://img.shields.io/badge/Violet-983CDE?style=for-the-badge&color=983CDE&labelColor=983CDE)](https://www.color-hex.com/color/983CDE)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Talk is cheap. Show me the code."*
+*"Write code every day."*
 
-— **Linus Torvalds**
+— **John Resig**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Saturday, Oct 10 2026 · Day 283 of 365**
+**Sunday, Oct 11 2026 · Day 284 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████████████░░░░░░` **77.5%** — *82 days remaining*
+`████████████████████░░░░░░` **77.8%** — *81 days remaining*
 
 ---
 
-🌌 **Constellation #283**
+🌌 **Constellation #284**
 
 ```
- ★                 ✺     ★                    
-        ∗                         ✦           
-     ✧                   ✸                   ✧
-⋆                 ·           ·               
+             ★           ✺         ★ ✺        
+            ✦     ∗ ∗         ✦         ∗     
+   ✧         ✸     ✧     ✸                    
+      ⋆ ⋆                         · ·         
 ```
 
 ---
 
-🎨 **Color of the Day · `#BD0B0E` · Coral**
+🎨 **Color of the Day · `#983CDE` · Violet**
 
-[![color swatch](https://img.shields.io/badge/Coral-BD0B0E?style=for-the-badge&color=BD0B0E&labelColor=BD0B0E)](https://www.color-hex.com/color/BD0B0E)
+[![color swatch](https://img.shields.io/badge/Violet-983CDE?style=for-the-badge&color=983CDE&labelColor=983CDE)](https://www.color-hex.com/color/983CDE)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Talk is cheap. Show me the code."*
+*"Write code every day."*
 
-— **Linus Torvalds**
+— **John Resig**
 
 ---
 
