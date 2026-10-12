@@ -52,44 +52,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Oct 11 2026 · Day 284 of 365**
+**Monday, Oct 12 2026 · Day 285 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████████████░░░░░░` **77.8%** — *81 days remaining*
+`████████████████████░░░░░░` **78.1%** — *80 days remaining*
 
 ---
 
-🌌 **Constellation #284**
+🌌 **Constellation #285**
 
 ```
-             ★           ✺         ★ ✺        
-            ✦     ∗ ∗         ✦         ∗     
-   ✧         ✸     ✧     ✸                    
-      ⋆ ⋆                         · ·         
+               ✺                     ★     ★  
+✦         ∗               ∗       ✦           
+       ✧               ✸               ✧     ✸
+  · ⋆                           ·             
 ```
 
 ---
 
-🎨 **Color of the Day · `#983CDE` · Violet**
+🎨 **Color of the Day · `#0FBFA8` · Seafoam**
 
-[![color swatch](https://img.shields.io/badge/Violet-983CDE?style=for-the-badge&color=983CDE&labelColor=983CDE)](https://www.color-hex.com/color/983CDE)
+[![color swatch](https://img.shields.io/badge/Seafoam-0FBFA8?style=for-the-badge&color=0FBFA8&labelColor=0FBFA8)](https://www.color-hex.com/color/0FBFA8)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Write code every day."*
+*"Truth can only be found in one place: the code."*
 
-— **John Resig**
+— **Robert C. Martin**
 
 ---
 
-💡 **Tip of the Week · Week 41**
+💡 **Tip of the Week · Week 42**
 
-**Content-Addressable Cache** — If the content hash matches, the result is identical. This is how Git objects, Docker layers, and npm's lockfile integrity work.
+**Know Your GC** — Understanding garbage collector behavior (generational collection, GC pressure, object promotion) helps diagnose mysterious latency spikes.
 
 ---
 
@@ -106,44 +106,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Oct 11 2026 · Day 284 of 365**
+**Monday, Oct 12 2026 · Day 285 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████████████░░░░░░` **77.8%** — *81 days remaining*
+`████████████████████░░░░░░` **78.1%** — *80 days remaining*
 
 ---
 
-🌌 **Constellation #284**
+🌌 **Constellation #285**
 
 ```
-             ★           ✺         ★ ✺        
-            ✦     ∗ ∗         ✦         ∗     
-   ✧         ✸     ✧     ✸                    
-      ⋆ ⋆                         · ·         
+               ✺                     ★     ★  
+✦         ∗               ∗       ✦           
+       ✧               ✸               ✧     ✸
+  · ⋆                           ·             
 ```
 
 ---
 
-🎨 **Color of the Day · `#983CDE` · Violet**
+🎨 **Color of the Day · `#0FBFA8` · Seafoam**
 
-[![color swatch](https://img.shields.io/badge/Violet-983CDE?style=for-the-badge&color=983CDE&labelColor=983CDE)](https://www.color-hex.com/color/983CDE)
+[![color swatch](https://img.shields.io/badge/Seafoam-0FBFA8?style=for-the-badge&color=0FBFA8&labelColor=0FBFA8)](https://www.color-hex.com/color/0FBFA8)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Write code every day."*
+*"Truth can only be found in one place: the code."*
 
-— **John Resig**
+— **Robert C. Martin**
 
 ---
 
-💡 **Tip of the Week · Week 41**
+💡 **Tip of the Week · Week 42**
 
-**Content-Addressable Cache** — If the content hash matches, the result is identical. This is how Git objects, Docker layers, and npm's lockfile integrity work.
+**Know Your GC** — Understanding garbage collector behavior (generational collection, GC pressure, object promotion) helps diagnose mysterious latency spikes.
 
 ---
 
