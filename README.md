@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Monday, Oct 12 2026 · Day 285 of 365**
+**Tuesday, Oct 13 2026 · Day 286 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████████████░░░░░░` **78.1%** — *80 days remaining*
+`████████████████████░░░░░░` **78.4%** — *79 days remaining*
 
 ---
 
-🌌 **Constellation #285**
+🌌 **Constellation #286**
 
 ```
-               ✺                     ★     ★  
-✦         ∗               ∗       ✦           
-       ✧               ✸               ✧     ✸
-  · ⋆                           ·             
+   ★           ★ ✺                       ✺    
+                ✦             ✦         ∗     
+   ✸                 ✧       ✧                
+                                    ·   · ⋆   
 ```
 
 ---
 
-🎨 **Color of the Day · `#0FBFA8` · Seafoam**
+🎨 **Color of the Day · `#C21613` · Crimson**
 
-[![color swatch](https://img.shields.io/badge/Seafoam-0FBFA8?style=for-the-badge&color=0FBFA8&labelColor=0FBFA8)](https://www.color-hex.com/color/0FBFA8)
+[![color swatch](https://img.shields.io/badge/Crimson-C21613?style=for-the-badge&color=C21613&labelColor=C21613)](https://www.color-hex.com/color/C21613)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Truth can only be found in one place: the code."*
+*"A language that doesn't affect the way you think about programming is not worth knowing."*
 
-— **Robert C. Martin**
+— **Alan Perlis**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Monday, Oct 12 2026 · Day 285 of 365**
+**Tuesday, Oct 13 2026 · Day 286 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████████████░░░░░░` **78.1%** — *80 days remaining*
+`████████████████████░░░░░░` **78.4%** — *79 days remaining*
 
 ---
 
-🌌 **Constellation #285**
+🌌 **Constellation #286**
 
 ```
-               ✺                     ★     ★  
-✦         ∗               ∗       ✦           
-       ✧               ✸               ✧     ✸
-  · ⋆                           ·             
+   ★           ★ ✺                       ✺    
+                ✦             ✦         ∗     
+   ✸                 ✧       ✧                
+                                    ·   · ⋆   
 ```
 
 ---
 
-🎨 **Color of the Day · `#0FBFA8` · Seafoam**
+🎨 **Color of the Day · `#C21613` · Crimson**
 
-[![color swatch](https://img.shields.io/badge/Seafoam-0FBFA8?style=for-the-badge&color=0FBFA8&labelColor=0FBFA8)](https://www.color-hex.com/color/0FBFA8)
+[![color swatch](https://img.shields.io/badge/Crimson-C21613?style=for-the-badge&color=C21613&labelColor=C21613)](https://www.color-hex.com/color/C21613)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Truth can only be found in one place: the code."*
+*"A language that doesn't affect the way you think about programming is not worth knowing."*
 
-— **Robert C. Martin**
+— **Alan Perlis**
 
 ---
 
