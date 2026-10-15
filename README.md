@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Wednesday, Oct 14 2026 · Day 287 of 365**
+**Thursday, Oct 15 2026 · Day 288 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████████████░░░░░░` **78.6%** — *78 days remaining*
+`█████████████████████░░░░░` **78.9%** — *77 days remaining*
 
 ---
 
-🌌 **Constellation #287**
+🌌 **Constellation #288**
 
 ```
- ✺                           ★   ✺            
-✦         ∗                           ∗   ✦   
-     ✧                   ✸ ✸         ✧        
-  ⋆               ⋆                       ·   
+                           ★     ★         ✺ ✺
+  ✦                         ∗         ✦       
+               ✧                         ✸ ✸ ✧
+    ·                       ⋆       ·   ⋆     
 ```
 
 ---
 
-🎨 **Color of the Day · `#58C431` · Forest**
+🎨 **Color of the Day · `#9B28D1` · Amethyst**
 
-[![color swatch](https://img.shields.io/badge/Forest-58C431?style=for-the-badge&color=58C431&labelColor=58C431)](https://www.color-hex.com/color/58C431)
+[![color swatch](https://img.shields.io/badge/Amethyst-9B28D1?style=for-the-badge&color=9B28D1&labelColor=9B28D1)](https://www.color-hex.com/color/9B28D1)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"The best code is no code at all."*
+*"Every great developer got there by solving problems they were unqualified to solve — until they did."*
 
-— **Jeff Atwood**
+— **Patrick McKenzie**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Wednesday, Oct 14 2026 · Day 287 of 365**
+**Thursday, Oct 15 2026 · Day 288 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████████████░░░░░░` **78.6%** — *78 days remaining*
+`█████████████████████░░░░░` **78.9%** — *77 days remaining*
 
 ---
 
-🌌 **Constellation #287**
+🌌 **Constellation #288**
 
 ```
- ✺                           ★   ✺            
-✦         ∗                           ∗   ✦   
-     ✧                   ✸ ✸         ✧        
-  ⋆               ⋆                       ·   
+                           ★     ★         ✺ ✺
+  ✦                         ∗         ✦       
+               ✧                         ✸ ✸ ✧
+    ·                       ⋆       ·   ⋆     
 ```
 
 ---
 
-🎨 **Color of the Day · `#58C431` · Forest**
+🎨 **Color of the Day · `#9B28D1` · Amethyst**
 
-[![color swatch](https://img.shields.io/badge/Forest-58C431?style=for-the-badge&color=58C431&labelColor=58C431)](https://www.color-hex.com/color/58C431)
+[![color swatch](https://img.shields.io/badge/Amethyst-9B28D1?style=for-the-badge&color=9B28D1&labelColor=9B28D1)](https://www.color-hex.com/color/9B28D1)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"The best code is no code at all."*
+*"Every great developer got there by solving problems they were unqualified to solve — until they did."*
 
-— **Jeff Atwood**
+— **Patrick McKenzie**
 
 ---
 
