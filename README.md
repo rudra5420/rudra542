@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Saturday, Oct 17 2026 · Day 290 of 365**
+**Sunday, Oct 18 2026 · Day 291 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████████░░░░░` **79.5%** — *75 days remaining*
+`█████████████████████░░░░░` **79.7%** — *74 days remaining*
 
 ---
 
-🌌 **Constellation #290**
+🌌 **Constellation #291**
 
 ```
-       ★             ★         ✺           ✺  
-    ∗           ∗                 ✦           
-                   ✸     ✧         ✸          
-                  ·       ⋆             ⋆     
+ ✺ ✺                 ★   ★                    
+      ∗   ✦               ∗           ✦       
+           ✧           ✸     ✧ ✸           ✧  
+    ·         ⋆ ⋆       ·                     
 ```
 
 ---
 
-🎨 **Color of the Day · `#BD21D9` · Amethyst**
+🎨 **Color of the Day · `#3BCCCC` · Teal**
 
-[![color swatch](https://img.shields.io/badge/Amethyst-BD21D9?style=for-the-badge&color=BD21D9&labelColor=BD21D9)](https://www.color-hex.com/color/BD21D9)
+[![color swatch](https://img.shields.io/badge/Teal-3BCCCC?style=for-the-badge&color=3BCCCC&labelColor=3BCCCC)](https://www.color-hex.com/color/3BCCCC)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Programs must be written for people to read, and only incidentally for machines to execute."*
+*"A language that doesn't affect the way you think about programming is not worth knowing."*
 
-— **Harold Abelson**
+— **Alan Perlis**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Saturday, Oct 17 2026 · Day 290 of 365**
+**Sunday, Oct 18 2026 · Day 291 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████████░░░░░` **79.5%** — *75 days remaining*
+`█████████████████████░░░░░` **79.7%** — *74 days remaining*
 
 ---
 
-🌌 **Constellation #290**
+🌌 **Constellation #291**
 
 ```
-       ★             ★         ✺           ✺  
-    ∗           ∗                 ✦           
-                   ✸     ✧         ✸          
-                  ·       ⋆             ⋆     
+ ✺ ✺                 ★   ★                    
+      ∗   ✦               ∗           ✦       
+           ✧           ✸     ✧ ✸           ✧  
+    ·         ⋆ ⋆       ·                     
 ```
 
 ---
 
-🎨 **Color of the Day · `#BD21D9` · Amethyst**
+🎨 **Color of the Day · `#3BCCCC` · Teal**
 
-[![color swatch](https://img.shields.io/badge/Amethyst-BD21D9?style=for-the-badge&color=BD21D9&labelColor=BD21D9)](https://www.color-hex.com/color/BD21D9)
+[![color swatch](https://img.shields.io/badge/Teal-3BCCCC?style=for-the-badge&color=3BCCCC&labelColor=3BCCCC)](https://www.color-hex.com/color/3BCCCC)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Programs must be written for people to read, and only incidentally for machines to execute."*
+*"A language that doesn't affect the way you think about programming is not worth knowing."*
 
-— **Harold Abelson**
+— **Alan Perlis**
 
 ---
 
