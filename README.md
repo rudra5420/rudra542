@@ -52,44 +52,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Oct 18 2026 · Day 291 of 365**
+**Monday, Oct 19 2026 · Day 292 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████████░░░░░` **79.7%** — *74 days remaining*
+`█████████████████████░░░░░` **80.0%** — *73 days remaining*
 
 ---
 
-🌌 **Constellation #291**
+🌌 **Constellation #292**
 
 ```
- ✺ ✺                 ★   ★                    
-      ∗   ✦               ∗           ✦       
-           ✧           ✸     ✧ ✸           ✧  
-    ·         ⋆ ⋆       ·                     
+ ★                                 ✺          
+✦             ∗   ∗                           
+ ✸                           ✧   ✸            
+            ·           ⋆               ⋆     
 ```
 
 ---
 
-🎨 **Color of the Day · `#3BCCCC` · Teal**
+🎨 **Color of the Day · `#18C471` · Emerald**
 
-[![color swatch](https://img.shields.io/badge/Teal-3BCCCC?style=for-the-badge&color=3BCCCC&labelColor=3BCCCC)](https://www.color-hex.com/color/3BCCCC)
+[![color swatch](https://img.shields.io/badge/Emerald-18C471?style=for-the-badge&color=18C471&labelColor=18C471)](https://www.color-hex.com/color/18C471)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"A language that doesn't affect the way you think about programming is not worth knowing."*
+*"Write code every day."*
 
-— **Alan Perlis**
+— **John Resig**
 
 ---
 
-💡 **Tip of the Week · Week 42**
+💡 **Tip of the Week · Week 43**
 
-**Know Your GC** — Understanding garbage collector behavior (generational collection, GC pressure, object promotion) helps diagnose mysterious latency spikes.
+**Rate Limit From Day One** — Adding rate limits to existing APIs requires coordinating with every existing client. Build them in before anyone depends on the current behavior.
 
 ---
 
@@ -106,44 +106,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Oct 18 2026 · Day 291 of 365**
+**Monday, Oct 19 2026 · Day 292 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████████░░░░░` **79.7%** — *74 days remaining*
+`█████████████████████░░░░░` **80.0%** — *73 days remaining*
 
 ---
 
-🌌 **Constellation #291**
+🌌 **Constellation #292**
 
 ```
- ✺ ✺                 ★   ★                    
-      ∗   ✦               ∗           ✦       
-           ✧           ✸     ✧ ✸           ✧  
-    ·         ⋆ ⋆       ·                     
+ ★                                 ✺          
+✦             ∗   ∗                           
+ ✸                           ✧   ✸            
+            ·           ⋆               ⋆     
 ```
 
 ---
 
-🎨 **Color of the Day · `#3BCCCC` · Teal**
+🎨 **Color of the Day · `#18C471` · Emerald**
 
-[![color swatch](https://img.shields.io/badge/Teal-3BCCCC?style=for-the-badge&color=3BCCCC&labelColor=3BCCCC)](https://www.color-hex.com/color/3BCCCC)
+[![color swatch](https://img.shields.io/badge/Emerald-18C471?style=for-the-badge&color=18C471&labelColor=18C471)](https://www.color-hex.com/color/18C471)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"A language that doesn't affect the way you think about programming is not worth knowing."*
+*"Write code every day."*
 
-— **Alan Perlis**
+— **John Resig**
 
 ---
 
-💡 **Tip of the Week · Week 42**
+💡 **Tip of the Week · Week 43**
 
-**Know Your GC** — Understanding garbage collector behavior (generational collection, GC pressure, object promotion) helps diagnose mysterious latency spikes.
+**Rate Limit From Day One** — Adding rate limits to existing APIs requires coordinating with every existing client. Build them in before anyone depends on the current behavior.
 
 ---
 
