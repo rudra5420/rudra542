@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Monday, Oct 19 2026 · Day 292 of 365**
+**Tuesday, Oct 20 2026 · Day 293 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████████░░░░░` **80.0%** — *73 days remaining*
+`█████████████████████░░░░░` **80.3%** — *72 days remaining*
 
 ---
 
-🌌 **Constellation #292**
+🌌 **Constellation #293**
 
 ```
- ★                                 ✺          
-✦             ∗   ∗                           
- ✸                           ✧   ✸            
-            ·           ⋆               ⋆     
+                 ✺             ✺           ★  
+                ✦   ∗                         
+       ✸                     ✸             ✧  
+        ·                             ⋆       
 ```
 
 ---
 
-🎨 **Color of the Day · `#18C471` · Emerald**
+🎨 **Color of the Day · `#3DC5EB` · Teal**
 
-[![color swatch](https://img.shields.io/badge/Emerald-18C471?style=for-the-badge&color=18C471&labelColor=18C471)](https://www.color-hex.com/color/18C471)
+[![color swatch](https://img.shields.io/badge/Teal-3DC5EB?style=for-the-badge&color=3DC5EB&labelColor=3DC5EB)](https://www.color-hex.com/color/3DC5EB)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Write code every day."*
+*"Beware of bugs in the above code; I have only proved it correct, not tried it."*
 
-— **John Resig**
+— **Donald Knuth**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Monday, Oct 19 2026 · Day 292 of 365**
+**Tuesday, Oct 20 2026 · Day 293 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████████░░░░░` **80.0%** — *73 days remaining*
+`█████████████████████░░░░░` **80.3%** — *72 days remaining*
 
 ---
 
-🌌 **Constellation #292**
+🌌 **Constellation #293**
 
 ```
- ★                                 ✺          
-✦             ∗   ∗                           
- ✸                           ✧   ✸            
-            ·           ⋆               ⋆     
+                 ✺             ✺           ★  
+                ✦   ∗                         
+       ✸                     ✸             ✧  
+        ·                             ⋆       
 ```
 
 ---
 
-🎨 **Color of the Day · `#18C471` · Emerald**
+🎨 **Color of the Day · `#3DC5EB` · Teal**
 
-[![color swatch](https://img.shields.io/badge/Emerald-18C471?style=for-the-badge&color=18C471&labelColor=18C471)](https://www.color-hex.com/color/18C471)
+[![color swatch](https://img.shields.io/badge/Teal-3DC5EB?style=for-the-badge&color=3DC5EB&labelColor=3DC5EB)](https://www.color-hex.com/color/3DC5EB)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Write code every day."*
+*"Beware of bugs in the above code; I have only proved it correct, not tried it."*
 
-— **John Resig**
+— **Donald Knuth**
 
 ---
 
