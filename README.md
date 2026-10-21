@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Tuesday, Oct 20 2026 · Day 293 of 365**
+**Wednesday, Oct 21 2026 · Day 294 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████████░░░░░` **80.3%** — *72 days remaining*
+`█████████████████████░░░░░` **80.5%** — *71 days remaining*
 
 ---
 
-🌌 **Constellation #293**
+🌌 **Constellation #294**
 
 ```
-                 ✺             ✺           ★  
-                ✦   ∗                         
-       ✸                     ✸             ✧  
-        ·                             ⋆       
+                 ✺                     ★ ✺    
+                  ∗   ✦ ∗             ✦       
+                   ✧       ✸             ✸   ✧
+            ⋆                         ⋆   ·   
 ```
 
 ---
 
-🎨 **Color of the Day · `#3DC5EB` · Teal**
+🎨 **Color of the Day · `#D9412E` · Crimson**
 
-[![color swatch](https://img.shields.io/badge/Teal-3DC5EB?style=for-the-badge&color=3DC5EB&labelColor=3DC5EB)](https://www.color-hex.com/color/3DC5EB)
+[![color swatch](https://img.shields.io/badge/Crimson-D9412E?style=for-the-badge&color=D9412E&labelColor=D9412E)](https://www.color-hex.com/color/D9412E)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Beware of bugs in the above code; I have only proved it correct, not tried it."*
+*"The art of programming is the art of organizing complexity."*
 
-— **Donald Knuth**
+— **Edsger W. Dijkstra**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Tuesday, Oct 20 2026 · Day 293 of 365**
+**Wednesday, Oct 21 2026 · Day 294 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████████░░░░░` **80.3%** — *72 days remaining*
+`█████████████████████░░░░░` **80.5%** — *71 days remaining*
 
 ---
 
-🌌 **Constellation #293**
+🌌 **Constellation #294**
 
 ```
-                 ✺             ✺           ★  
-                ✦   ∗                         
-       ✸                     ✸             ✧  
-        ·                             ⋆       
+                 ✺                     ★ ✺    
+                  ∗   ✦ ∗             ✦       
+                   ✧       ✸             ✸   ✧
+            ⋆                         ⋆   ·   
 ```
 
 ---
 
-🎨 **Color of the Day · `#3DC5EB` · Teal**
+🎨 **Color of the Day · `#D9412E` · Crimson**
 
-[![color swatch](https://img.shields.io/badge/Teal-3DC5EB?style=for-the-badge&color=3DC5EB&labelColor=3DC5EB)](https://www.color-hex.com/color/3DC5EB)
+[![color swatch](https://img.shields.io/badge/Crimson-D9412E?style=for-the-badge&color=D9412E&labelColor=D9412E)](https://www.color-hex.com/color/D9412E)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Beware of bugs in the above code; I have only proved it correct, not tried it."*
+*"The art of programming is the art of organizing complexity."*
 
-— **Donald Knuth**
+— **Edsger W. Dijkstra**
 
 ---
 
