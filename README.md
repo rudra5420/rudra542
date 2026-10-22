@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Wednesday, Oct 21 2026 · Day 294 of 365**
+**Thursday, Oct 22 2026 · Day 295 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████████░░░░░` **80.5%** — *71 days remaining*
+`█████████████████████░░░░░` **80.8%** — *70 days remaining*
 
 ---
 
-🌌 **Constellation #294**
+🌌 **Constellation #295**
 
 ```
-                 ✺                     ★ ✺    
-                  ∗   ✦ ∗             ✦       
-                   ✧       ✸             ✸   ✧
-            ⋆                         ⋆   ·   
+   ★       ✺ ★                           ✺    
+    ∗ ✦             ✦                   ∗     
+     ✸ ✧       ✸                   ✧          
+            ⋆         ·                     ⋆ 
 ```
 
 ---
 
-🎨 **Color of the Day · `#D9412E` · Crimson**
+🎨 **Color of the Day · `#B8B837` · Chartreuse**
 
-[![color swatch](https://img.shields.io/badge/Crimson-D9412E?style=for-the-badge&color=D9412E&labelColor=D9412E)](https://www.color-hex.com/color/D9412E)
+[![color swatch](https://img.shields.io/badge/Chartreuse-B8B837?style=for-the-badge&color=B8B837&labelColor=B8B837)](https://www.color-hex.com/color/B8B837)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"The art of programming is the art of organizing complexity."*
+*"Good judgment comes from experience, and experience comes from bad judgment."*
 
-— **Edsger W. Dijkstra**
+— **Frederick P. Brooks**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Wednesday, Oct 21 2026 · Day 294 of 365**
+**Thursday, Oct 22 2026 · Day 295 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████████░░░░░` **80.5%** — *71 days remaining*
+`█████████████████████░░░░░` **80.8%** — *70 days remaining*
 
 ---
 
-🌌 **Constellation #294**
+🌌 **Constellation #295**
 
 ```
-                 ✺                     ★ ✺    
-                  ∗   ✦ ∗             ✦       
-                   ✧       ✸             ✸   ✧
-            ⋆                         ⋆   ·   
+   ★       ✺ ★                           ✺    
+    ∗ ✦             ✦                   ∗     
+     ✸ ✧       ✸                   ✧          
+            ⋆         ·                     ⋆ 
 ```
 
 ---
 
-🎨 **Color of the Day · `#D9412E` · Crimson**
+🎨 **Color of the Day · `#B8B837` · Chartreuse**
 
-[![color swatch](https://img.shields.io/badge/Crimson-D9412E?style=for-the-badge&color=D9412E&labelColor=D9412E)](https://www.color-hex.com/color/D9412E)
+[![color swatch](https://img.shields.io/badge/Chartreuse-B8B837?style=for-the-badge&color=B8B837&labelColor=B8B837)](https://www.color-hex.com/color/B8B837)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"The art of programming is the art of organizing complexity."*
+*"Good judgment comes from experience, and experience comes from bad judgment."*
 
-— **Edsger W. Dijkstra**
+— **Frederick P. Brooks**
 
 ---
 
