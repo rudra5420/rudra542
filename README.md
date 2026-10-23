@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Thursday, Oct 22 2026 · Day 295 of 365**
+**Friday, Oct 23 2026 · Day 296 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████████░░░░░` **80.8%** — *70 days remaining*
+`█████████████████████░░░░░` **81.1%** — *69 days remaining*
 
 ---
 
-🌌 **Constellation #295**
+🌌 **Constellation #296**
 
 ```
-   ★       ✺ ★                           ✺    
-    ∗ ✦             ✦                   ∗     
-     ✸ ✧       ✸                   ✧          
-            ⋆         ·                     ⋆ 
+                 ✺           ★         ✺     ★
+    ∗                           ✦   ∗         
+     ✧                 ✧ ✸     ✸              
+    ⋆             ·     ·                 ⋆   
 ```
 
 ---
 
-🎨 **Color of the Day · `#B8B837` · Chartreuse**
+🎨 **Color of the Day · `#D64279` · Rose**
 
-[![color swatch](https://img.shields.io/badge/Chartreuse-B8B837?style=for-the-badge&color=B8B837&labelColor=B8B837)](https://www.color-hex.com/color/B8B837)
+[![color swatch](https://img.shields.io/badge/Rose-D64279?style=for-the-badge&color=D64279&labelColor=D64279)](https://www.color-hex.com/color/D64279)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Good judgment comes from experience, and experience comes from bad judgment."*
+*"Code is like humor. When you have to explain it, it's bad."*
 
-— **Frederick P. Brooks**
+— **Cory House**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Thursday, Oct 22 2026 · Day 295 of 365**
+**Friday, Oct 23 2026 · Day 296 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████████░░░░░` **80.8%** — *70 days remaining*
+`█████████████████████░░░░░` **81.1%** — *69 days remaining*
 
 ---
 
-🌌 **Constellation #295**
+🌌 **Constellation #296**
 
 ```
-   ★       ✺ ★                           ✺    
-    ∗ ✦             ✦                   ∗     
-     ✸ ✧       ✸                   ✧          
-            ⋆         ·                     ⋆ 
+                 ✺           ★         ✺     ★
+    ∗                           ✦   ∗         
+     ✧                 ✧ ✸     ✸              
+    ⋆             ·     ·                 ⋆   
 ```
 
 ---
 
-🎨 **Color of the Day · `#B8B837` · Chartreuse**
+🎨 **Color of the Day · `#D64279` · Rose**
 
-[![color swatch](https://img.shields.io/badge/Chartreuse-B8B837?style=for-the-badge&color=B8B837&labelColor=B8B837)](https://www.color-hex.com/color/B8B837)
+[![color swatch](https://img.shields.io/badge/Rose-D64279?style=for-the-badge&color=D64279&labelColor=D64279)](https://www.color-hex.com/color/D64279)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Good judgment comes from experience, and experience comes from bad judgment."*
+*"Code is like humor. When you have to explain it, it's bad."*
 
-— **Frederick P. Brooks**
+— **Cory House**
 
 ---
 
