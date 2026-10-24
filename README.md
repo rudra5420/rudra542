@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Friday, Oct 23 2026 · Day 296 of 365**
+**Saturday, Oct 24 2026 · Day 297 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████████░░░░░` **81.1%** — *69 days remaining*
+`█████████████████████░░░░░` **81.4%** — *68 days remaining*
 
 ---
 
-🌌 **Constellation #296**
+🌌 **Constellation #297**
 
 ```
-                 ✺           ★         ✺     ★
-    ∗                           ✦   ∗         
-     ✧                 ✧ ✸     ✸              
-    ⋆             ·     ·                 ⋆   
+           ★       ✺ ★         ✺              
+∗                         ✦               ∗   
+   ✸   ✧                         ✧         ✸  
+  ·                     ⋆ ⋆           ·       
 ```
 
 ---
 
-🎨 **Color of the Day · `#D64279` · Rose**
+🎨 **Color of the Day · `#14BA80` · Seafoam**
 
-[![color swatch](https://img.shields.io/badge/Rose-D64279?style=for-the-badge&color=D64279&labelColor=D64279)](https://www.color-hex.com/color/D64279)
+[![color swatch](https://img.shields.io/badge/Seafoam-14BA80?style=for-the-badge&color=14BA80&labelColor=14BA80)](https://www.color-hex.com/color/14BA80)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Code is like humor. When you have to explain it, it's bad."*
+*"The best programmers are not marginally better than merely good ones. They are an order of magnitude better."*
 
-— **Cory House**
+— **Randall E. Stross**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Friday, Oct 23 2026 · Day 296 of 365**
+**Saturday, Oct 24 2026 · Day 297 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████████░░░░░` **81.1%** — *69 days remaining*
+`█████████████████████░░░░░` **81.4%** — *68 days remaining*
 
 ---
 
-🌌 **Constellation #296**
+🌌 **Constellation #297**
 
 ```
-                 ✺           ★         ✺     ★
-    ∗                           ✦   ∗         
-     ✧                 ✧ ✸     ✸              
-    ⋆             ·     ·                 ⋆   
+           ★       ✺ ★         ✺              
+∗                         ✦               ∗   
+   ✸   ✧                         ✧         ✸  
+  ·                     ⋆ ⋆           ·       
 ```
 
 ---
 
-🎨 **Color of the Day · `#D64279` · Rose**
+🎨 **Color of the Day · `#14BA80` · Seafoam**
 
-[![color swatch](https://img.shields.io/badge/Rose-D64279?style=for-the-badge&color=D64279&labelColor=D64279)](https://www.color-hex.com/color/D64279)
+[![color swatch](https://img.shields.io/badge/Seafoam-14BA80?style=for-the-badge&color=14BA80&labelColor=14BA80)](https://www.color-hex.com/color/14BA80)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Code is like humor. When you have to explain it, it's bad."*
+*"The best programmers are not marginally better than merely good ones. They are an order of magnitude better."*
 
-— **Cory House**
+— **Randall E. Stross**
 
 ---
 
