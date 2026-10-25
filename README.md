@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Saturday, Oct 24 2026 · Day 297 of 365**
+**Sunday, Oct 25 2026 · Day 298 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████████░░░░░` **81.4%** — *68 days remaining*
+`█████████████████████░░░░░` **81.6%** — *67 days remaining*
 
 ---
 
-🌌 **Constellation #297**
+🌌 **Constellation #298**
 
 ```
-           ★       ✺ ★         ✺              
-∗                         ✦               ∗   
-   ✸   ✧                         ✧         ✸  
-  ·                     ⋆ ⋆           ·       
+                             ★   ✺     ★      
+∗         ✦             ∗ ✦                   
+         ✧                 ✸       ✸          
+          ·                         ⋆       · 
 ```
 
 ---
 
-🎨 **Color of the Day · `#14BA80` · Seafoam**
+🎨 **Color of the Day · `#476BCC` · Ocean**
 
-[![color swatch](https://img.shields.io/badge/Seafoam-14BA80?style=for-the-badge&color=14BA80&labelColor=14BA80)](https://www.color-hex.com/color/14BA80)
+[![color swatch](https://img.shields.io/badge/Ocean-476BCC?style=for-the-badge&color=476BCC&labelColor=476BCC)](https://www.color-hex.com/color/476BCC)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"The best programmers are not marginally better than merely good ones. They are an order of magnitude better."*
+*"Every great developer got there by solving problems they were unqualified to solve — until they did."*
 
-— **Randall E. Stross**
+— **Patrick McKenzie**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Saturday, Oct 24 2026 · Day 297 of 365**
+**Sunday, Oct 25 2026 · Day 298 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████████░░░░░` **81.4%** — *68 days remaining*
+`█████████████████████░░░░░` **81.6%** — *67 days remaining*
 
 ---
 
-🌌 **Constellation #297**
+🌌 **Constellation #298**
 
 ```
-           ★       ✺ ★         ✺              
-∗                         ✦               ∗   
-   ✸   ✧                         ✧         ✸  
-  ·                     ⋆ ⋆           ·       
+                             ★   ✺     ★      
+∗         ✦             ∗ ✦                   
+         ✧                 ✸       ✸          
+          ·                         ⋆       · 
 ```
 
 ---
 
-🎨 **Color of the Day · `#14BA80` · Seafoam**
+🎨 **Color of the Day · `#476BCC` · Ocean**
 
-[![color swatch](https://img.shields.io/badge/Seafoam-14BA80?style=for-the-badge&color=14BA80&labelColor=14BA80)](https://www.color-hex.com/color/14BA80)
+[![color swatch](https://img.shields.io/badge/Ocean-476BCC?style=for-the-badge&color=476BCC&labelColor=476BCC)](https://www.color-hex.com/color/476BCC)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"The best programmers are not marginally better than merely good ones. They are an order of magnitude better."*
+*"Every great developer got there by solving problems they were unqualified to solve — until they did."*
 
-— **Randall E. Stross**
+— **Patrick McKenzie**
 
 ---
 
