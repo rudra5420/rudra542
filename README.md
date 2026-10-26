@@ -52,44 +52,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Oct 25 2026 · Day 298 of 365**
+**Monday, Oct 26 2026 · Day 299 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████████░░░░░` **81.6%** — *67 days remaining*
+`█████████████████████░░░░░` **81.9%** — *66 days remaining*
 
 ---
 
-🌌 **Constellation #298**
+🌌 **Constellation #299**
 
 ```
-                             ★   ✺     ★      
-∗         ✦             ∗ ✦                   
-         ✧                 ✸       ✸          
-          ·                         ⋆       · 
+             ✺           ✺ ★                  
+          ✦       ∗     ✦                     
+                 ✸             ✸             ✧
+  ⋆         ⋆         ·                       
 ```
 
 ---
 
-🎨 **Color of the Day · `#476BCC` · Ocean**
+🎨 **Color of the Day · `#BA365B` · Coral**
 
-[![color swatch](https://img.shields.io/badge/Ocean-476BCC?style=for-the-badge&color=476BCC&labelColor=476BCC)](https://www.color-hex.com/color/476BCC)
+[![color swatch](https://img.shields.io/badge/Coral-BA365B?style=for-the-badge&color=BA365B&labelColor=BA365B)](https://www.color-hex.com/color/BA365B)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Every great developer got there by solving problems they were unqualified to solve — until they did."*
+*"I'm not a great programmer; I'm just a good programmer with great habits."*
 
-— **Patrick McKenzie**
+— **Kent Beck**
 
 ---
 
-💡 **Tip of the Week · Week 43**
+💡 **Tip of the Week · Week 44**
 
-**Rate Limit From Day One** — Adding rate limits to existing APIs requires coordinating with every existing client. Build them in before anyone depends on the current behavior.
+**Branch Naming** — `feat/user-auth`, `fix/login-redirect`, `chore/upgrade-deps`. Readable, filterable, and communicates scope without opening a PR.
 
 ---
 
@@ -106,44 +106,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Oct 25 2026 · Day 298 of 365**
+**Monday, Oct 26 2026 · Day 299 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████████░░░░░` **81.6%** — *67 days remaining*
+`█████████████████████░░░░░` **81.9%** — *66 days remaining*
 
 ---
 
-🌌 **Constellation #298**
+🌌 **Constellation #299**
 
 ```
-                             ★   ✺     ★      
-∗         ✦             ∗ ✦                   
-         ✧                 ✸       ✸          
-          ·                         ⋆       · 
+             ✺           ✺ ★                  
+          ✦       ∗     ✦                     
+                 ✸             ✸             ✧
+  ⋆         ⋆         ·                       
 ```
 
 ---
 
-🎨 **Color of the Day · `#476BCC` · Ocean**
+🎨 **Color of the Day · `#BA365B` · Coral**
 
-[![color swatch](https://img.shields.io/badge/Ocean-476BCC?style=for-the-badge&color=476BCC&labelColor=476BCC)](https://www.color-hex.com/color/476BCC)
+[![color swatch](https://img.shields.io/badge/Coral-BA365B?style=for-the-badge&color=BA365B&labelColor=BA365B)](https://www.color-hex.com/color/BA365B)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Every great developer got there by solving problems they were unqualified to solve — until they did."*
+*"I'm not a great programmer; I'm just a good programmer with great habits."*
 
-— **Patrick McKenzie**
+— **Kent Beck**
 
 ---
 
-💡 **Tip of the Week · Week 43**
+💡 **Tip of the Week · Week 44**
 
-**Rate Limit From Day One** — Adding rate limits to existing APIs requires coordinating with every existing client. Build them in before anyone depends on the current behavior.
+**Branch Naming** — `feat/user-auth`, `fix/login-redirect`, `chore/upgrade-deps`. Readable, filterable, and communicates scope without opening a PR.
 
 ---
 
