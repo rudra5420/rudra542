@@ -52,30 +52,30 @@
 
 ### ⚡ THE CHRONICLE
 
-**Monday, Oct 26 2026 · Day 299 of 365**
+**Tuesday, Oct 27 2026 · Day 300 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████████░░░░░` **81.9%** — *66 days remaining*
+`█████████████████████░░░░░` **82.2%** — *65 days remaining*
 
 ---
 
-🌌 **Constellation #299**
+🌌 **Constellation #300**
 
 ```
-             ✺           ✺ ★                  
-          ✦       ∗     ✦                     
-                 ✸             ✸             ✧
-  ⋆         ⋆         ·                       
+       ★       ✺                   ✺ ★        
+        ∗     ✦                     ✦ ✦ ∗     
+ ✸                         ✧             ✧   ✸
+    ⋆ ⋆                     ·               · 
 ```
 
 ---
 
-🎨 **Color of the Day · `#BA365B` · Coral**
+🎨 **Color of the Day · `#CA42D4` · Amethyst**
 
-[![color swatch](https://img.shields.io/badge/Coral-BA365B?style=for-the-badge&color=BA365B&labelColor=BA365B)](https://www.color-hex.com/color/BA365B)
+[![color swatch](https://img.shields.io/badge/Amethyst-CA42D4?style=for-the-badge&color=CA42D4&labelColor=CA42D4)](https://www.color-hex.com/color/CA42D4)
 
 ---
 
@@ -106,30 +106,30 @@
 
 ### ⚡ THE CHRONICLE
 
-**Monday, Oct 26 2026 · Day 299 of 365**
+**Tuesday, Oct 27 2026 · Day 300 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████████░░░░░` **81.9%** — *66 days remaining*
+`█████████████████████░░░░░` **82.2%** — *65 days remaining*
 
 ---
 
-🌌 **Constellation #299**
+🌌 **Constellation #300**
 
 ```
-             ✺           ✺ ★                  
-          ✦       ∗     ✦                     
-                 ✸             ✸             ✧
-  ⋆         ⋆         ·                       
+       ★       ✺                   ✺ ★        
+        ∗     ✦                     ✦ ✦ ∗     
+ ✸                         ✧             ✧   ✸
+    ⋆ ⋆                     ·               · 
 ```
 
 ---
 
-🎨 **Color of the Day · `#BA365B` · Coral**
+🎨 **Color of the Day · `#CA42D4` · Amethyst**
 
-[![color swatch](https://img.shields.io/badge/Coral-BA365B?style=for-the-badge&color=BA365B&labelColor=BA365B)](https://www.color-hex.com/color/BA365B)
+[![color swatch](https://img.shields.io/badge/Amethyst-CA42D4?style=for-the-badge&color=CA42D4&labelColor=CA42D4)](https://www.color-hex.com/color/CA42D4)
 
 ---
 
