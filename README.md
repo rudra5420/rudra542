@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Tuesday, Oct 27 2026 · Day 300 of 365**
+**Wednesday, Oct 28 2026 · Day 301 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████████░░░░░` **82.2%** — *65 days remaining*
+`█████████████████████░░░░░` **82.5%** — *64 days remaining*
 
 ---
 
-🌌 **Constellation #300**
+🌌 **Constellation #301**
 
 ```
-       ★       ✺                   ✺ ★        
-        ∗     ✦                     ✦ ✦ ∗     
- ✸                         ✧             ✧   ✸
-    ⋆ ⋆                     ·               · 
+                 ✺       ★           ✺ ★      
+        ∗                   ✦     ∗           
+     ✧           ✸   ✧           ✸            
+                ·         ⋆ ·                 
 ```
 
 ---
 
-🎨 **Color of the Day · `#CA42D4` · Amethyst**
+🎨 **Color of the Day · `#1FB864` · Emerald**
 
-[![color swatch](https://img.shields.io/badge/Amethyst-CA42D4?style=for-the-badge&color=CA42D4&labelColor=CA42D4)](https://www.color-hex.com/color/CA42D4)
+[![color swatch](https://img.shields.io/badge/Emerald-1FB864?style=for-the-badge&color=1FB864&labelColor=1FB864)](https://www.color-hex.com/color/1FB864)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"I'm not a great programmer; I'm just a good programmer with great habits."*
+*"An idiot admires complexity; a genius admires simplicity."*
 
-— **Kent Beck**
+— **Terry A. Davis**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Tuesday, Oct 27 2026 · Day 300 of 365**
+**Wednesday, Oct 28 2026 · Day 301 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████████░░░░░` **82.2%** — *65 days remaining*
+`█████████████████████░░░░░` **82.5%** — *64 days remaining*
 
 ---
 
-🌌 **Constellation #300**
+🌌 **Constellation #301**
 
 ```
-       ★       ✺                   ✺ ★        
-        ∗     ✦                     ✦ ✦ ∗     
- ✸                         ✧             ✧   ✸
-    ⋆ ⋆                     ·               · 
+                 ✺       ★           ✺ ★      
+        ∗                   ✦     ∗           
+     ✧           ✸   ✧           ✸            
+                ·         ⋆ ·                 
 ```
 
 ---
 
-🎨 **Color of the Day · `#CA42D4` · Amethyst**
+🎨 **Color of the Day · `#1FB864` · Emerald**
 
-[![color swatch](https://img.shields.io/badge/Amethyst-CA42D4?style=for-the-badge&color=CA42D4&labelColor=CA42D4)](https://www.color-hex.com/color/CA42D4)
+[![color swatch](https://img.shields.io/badge/Emerald-1FB864?style=for-the-badge&color=1FB864&labelColor=1FB864)](https://www.color-hex.com/color/1FB864)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"I'm not a great programmer; I'm just a good programmer with great habits."*
+*"An idiot admires complexity; a genius admires simplicity."*
 
-— **Kent Beck**
+— **Terry A. Davis**
 
 ---
 
