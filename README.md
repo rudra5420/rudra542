@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Wednesday, Oct 28 2026 · Day 301 of 365**
+**Thursday, Oct 29 2026 · Day 302 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████████░░░░░` **82.5%** — *64 days remaining*
+`██████████████████████░░░░` **82.7%** — *63 days remaining*
 
 ---
 
-🌌 **Constellation #301**
+🌌 **Constellation #302**
 
 ```
-                 ✺       ★           ✺ ★      
-        ∗                   ✦     ∗           
-     ✧           ✸   ✧           ✸            
-                ·         ⋆ ·                 
+                         ★ ★ ✺                
+              ✦ ∗                 ∗           
+ ✸ ✸             ✧                            
+·     ⋆ ·                                     
 ```
 
 ---
 
-🎨 **Color of the Day · `#1FB864` · Emerald**
+🎨 **Color of the Day · `#E8333C` · Coral**
 
-[![color swatch](https://img.shields.io/badge/Emerald-1FB864?style=for-the-badge&color=1FB864&labelColor=1FB864)](https://www.color-hex.com/color/1FB864)
+[![color swatch](https://img.shields.io/badge/Coral-E8333C?style=for-the-badge&color=E8333C&labelColor=E8333C)](https://www.color-hex.com/color/E8333C)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"An idiot admires complexity; a genius admires simplicity."*
+*"First, solve the problem. Then, write the code."*
 
-— **Terry A. Davis**
+— **John Johnson**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Wednesday, Oct 28 2026 · Day 301 of 365**
+**Thursday, Oct 29 2026 · Day 302 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`█████████████████████░░░░░` **82.5%** — *64 days remaining*
+`██████████████████████░░░░` **82.7%** — *63 days remaining*
 
 ---
 
-🌌 **Constellation #301**
+🌌 **Constellation #302**
 
 ```
-                 ✺       ★           ✺ ★      
-        ∗                   ✦     ∗           
-     ✧           ✸   ✧           ✸            
-                ·         ⋆ ·                 
+                         ★ ★ ✺                
+              ✦ ∗                 ∗           
+ ✸ ✸             ✧                            
+·     ⋆ ·                                     
 ```
 
 ---
 
-🎨 **Color of the Day · `#1FB864` · Emerald**
+🎨 **Color of the Day · `#E8333C` · Coral**
 
-[![color swatch](https://img.shields.io/badge/Emerald-1FB864?style=for-the-badge&color=1FB864&labelColor=1FB864)](https://www.color-hex.com/color/1FB864)
+[![color swatch](https://img.shields.io/badge/Coral-E8333C?style=for-the-badge&color=E8333C&labelColor=E8333C)](https://www.color-hex.com/color/E8333C)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"An idiot admires complexity; a genius admires simplicity."*
+*"First, solve the problem. Then, write the code."*
 
-— **Terry A. Davis**
+— **John Johnson**
 
 ---
 
