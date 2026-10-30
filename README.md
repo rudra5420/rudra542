@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Thursday, Oct 29 2026 · Day 302 of 365**
+**Friday, Oct 30 2026 · Day 303 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████████░░░░` **82.7%** — *63 days remaining*
+`██████████████████████░░░░` **83.0%** — *62 days remaining*
 
 ---
 
-🌌 **Constellation #302**
+🌌 **Constellation #303**
 
 ```
-                         ★ ★ ✺                
-              ✦ ∗                 ∗           
- ✸ ✸             ✧                            
-·     ⋆ ·                                     
+       ★     ✺         ★   ✺     ✺            
+                            ✦ ∗     ✦         
+         ✸           ✧           ✸ ✧          
+⋆                   · ⋆             ·         
 ```
 
 ---
 
-🎨 **Color of the Day · `#E8333C` · Coral**
+🎨 **Color of the Day · `#EBA652` · Amber**
 
-[![color swatch](https://img.shields.io/badge/Coral-E8333C?style=for-the-badge&color=E8333C&labelColor=E8333C)](https://www.color-hex.com/color/E8333C)
+[![color swatch](https://img.shields.io/badge/Amber-EBA652?style=for-the-badge&color=EBA652&labelColor=EBA652)](https://www.color-hex.com/color/EBA652)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"First, solve the problem. Then, write the code."*
+*"The competent programmer is fully aware of the limited size of their own skull."*
 
-— **John Johnson**
+— **Edsger W. Dijkstra**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Thursday, Oct 29 2026 · Day 302 of 365**
+**Friday, Oct 30 2026 · Day 303 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████████░░░░` **82.7%** — *63 days remaining*
+`██████████████████████░░░░` **83.0%** — *62 days remaining*
 
 ---
 
-🌌 **Constellation #302**
+🌌 **Constellation #303**
 
 ```
-                         ★ ★ ✺                
-              ✦ ∗                 ∗           
- ✸ ✸             ✧                            
-·     ⋆ ·                                     
+       ★     ✺         ★   ✺     ✺            
+                            ✦ ∗     ✦         
+         ✸           ✧           ✸ ✧          
+⋆                   · ⋆             ·         
 ```
 
 ---
 
-🎨 **Color of the Day · `#E8333C` · Coral**
+🎨 **Color of the Day · `#EBA652` · Amber**
 
-[![color swatch](https://img.shields.io/badge/Coral-E8333C?style=for-the-badge&color=E8333C&labelColor=E8333C)](https://www.color-hex.com/color/E8333C)
+[![color swatch](https://img.shields.io/badge/Amber-EBA652?style=for-the-badge&color=EBA652&labelColor=EBA652)](https://www.color-hex.com/color/EBA652)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"First, solve the problem. Then, write the code."*
+*"The competent programmer is fully aware of the limited size of their own skull."*
 
-— **John Johnson**
+— **Edsger W. Dijkstra**
 
 ---
 
