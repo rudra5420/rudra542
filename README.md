@@ -52,30 +52,30 @@
 
 ### ⚡ THE CHRONICLE
 
-**Friday, Oct 30 2026 · Day 303 of 365**
+**Saturday, Oct 31 2026 · Day 304 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████████░░░░` **83.0%** — *62 days remaining*
+`██████████████████████░░░░` **83.3%** — *61 days remaining*
 
 ---
 
-🌌 **Constellation #303**
+🌌 **Constellation #304**
 
 ```
-       ★     ✺         ★   ✺     ✺            
-                            ✦ ∗     ✦         
-         ✸           ✧           ✸ ✧          
-⋆                   · ⋆             ·         
+         ✺   ★               ★                
+                                            ∗ 
+             ✸   ✧   ✸                        
+  ⋆       ⋆               ·                   
 ```
 
 ---
 
-🎨 **Color of the Day · `#EBA652` · Amber**
+🎨 **Color of the Day · `#E63097` · Rose**
 
-[![color swatch](https://img.shields.io/badge/Amber-EBA652?style=for-the-badge&color=EBA652&labelColor=EBA652)](https://www.color-hex.com/color/EBA652)
+[![color swatch](https://img.shields.io/badge/Rose-E63097?style=for-the-badge&color=E63097&labelColor=E63097)](https://www.color-hex.com/color/E63097)
 
 ---
 
@@ -106,30 +106,30 @@
 
 ### ⚡ THE CHRONICLE
 
-**Friday, Oct 30 2026 · Day 303 of 365**
+**Saturday, Oct 31 2026 · Day 304 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████████░░░░` **83.0%** — *62 days remaining*
+`██████████████████████░░░░` **83.3%** — *61 days remaining*
 
 ---
 
-🌌 **Constellation #303**
+🌌 **Constellation #304**
 
 ```
-       ★     ✺         ★   ✺     ✺            
-                            ✦ ∗     ✦         
-         ✸           ✧           ✸ ✧          
-⋆                   · ⋆             ·         
+         ✺   ★               ★                
+                                            ∗ 
+             ✸   ✧   ✸                        
+  ⋆       ⋆               ·                   
 ```
 
 ---
 
-🎨 **Color of the Day · `#EBA652` · Amber**
+🎨 **Color of the Day · `#E63097` · Rose**
 
-[![color swatch](https://img.shields.io/badge/Amber-EBA652?style=for-the-badge&color=EBA652&labelColor=EBA652)](https://www.color-hex.com/color/EBA652)
+[![color swatch](https://img.shields.io/badge/Rose-E63097?style=for-the-badge&color=E63097&labelColor=E63097)](https://www.color-hex.com/color/E63097)
 
 ---
 
