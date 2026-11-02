@@ -52,44 +52,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Nov 1 2026 · Day 305 of 365**
+**Monday, Nov 2 2026 · Day 306 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████████░░░░` **83.6%** — *60 days remaining*
+`██████████████████████░░░░` **83.8%** — *59 days remaining*
 
 ---
 
-🌌 **Constellation #305**
+🌌 **Constellation #306**
 
 ```
- ★             ✺ ✺                            
-  ∗     ∗           ✦                         
- ✧ ✸                                          
-    ·                               ⋆     ⋆   
+               ✺         ✺     ★              
+∗             ✦               ✦       ∗       
+                 ✧   ✧     ✸       ✸          
+  ⋆           ·                       ·       
 ```
 
 ---
 
-🎨 **Color of the Day · `#DE45AB` · Rose**
+🎨 **Color of the Day · `#0BBD26` · Emerald**
 
-[![color swatch](https://img.shields.io/badge/Rose-DE45AB?style=for-the-badge&color=DE45AB&labelColor=DE45AB)](https://www.color-hex.com/color/DE45AB)
+[![color swatch](https://img.shields.io/badge/Emerald-0BBD26?style=for-the-badge&color=0BBD26&labelColor=0BBD26)](https://www.color-hex.com/color/0BBD26)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."*
+*"Good judgment comes from experience, and experience comes from bad judgment."*
 
-— **Bill Gates**
+— **Frederick P. Brooks**
 
 ---
 
-💡 **Tip of the Week · Week 44**
+💡 **Tip of the Week · Week 45**
 
-**Branch Naming** — `feat/user-auth`, `fix/login-redirect`, `chore/upgrade-deps`. Readable, filterable, and communicates scope without opening a PR.
+**Backpressure** — In data pipelines, let consumers pull at their own pace rather than having producers push. Prevents fast producers from overwhelming slow consumers.
 
 ---
 
@@ -106,44 +106,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Nov 1 2026 · Day 305 of 365**
+**Monday, Nov 2 2026 · Day 306 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████████░░░░` **83.6%** — *60 days remaining*
+`██████████████████████░░░░` **83.8%** — *59 days remaining*
 
 ---
 
-🌌 **Constellation #305**
+🌌 **Constellation #306**
 
 ```
- ★             ✺ ✺                            
-  ∗     ∗           ✦                         
- ✧ ✸                                          
-    ·                               ⋆     ⋆   
+               ✺         ✺     ★              
+∗             ✦               ✦       ∗       
+                 ✧   ✧     ✸       ✸          
+  ⋆           ·                       ·       
 ```
 
 ---
 
-🎨 **Color of the Day · `#DE45AB` · Rose**
+🎨 **Color of the Day · `#0BBD26` · Emerald**
 
-[![color swatch](https://img.shields.io/badge/Rose-DE45AB?style=for-the-badge&color=DE45AB&labelColor=DE45AB)](https://www.color-hex.com/color/DE45AB)
+[![color swatch](https://img.shields.io/badge/Emerald-0BBD26?style=for-the-badge&color=0BBD26&labelColor=0BBD26)](https://www.color-hex.com/color/0BBD26)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."*
+*"Good judgment comes from experience, and experience comes from bad judgment."*
 
-— **Bill Gates**
+— **Frederick P. Brooks**
 
 ---
 
-💡 **Tip of the Week · Week 44**
+💡 **Tip of the Week · Week 45**
 
-**Branch Naming** — `feat/user-auth`, `fix/login-redirect`, `chore/upgrade-deps`. Readable, filterable, and communicates scope without opening a PR.
+**Backpressure** — In data pipelines, let consumers pull at their own pace rather than having producers push. Prevents fast producers from overwhelming slow consumers.
 
 ---
 
