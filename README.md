@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Monday, Nov 2 2026 · Day 306 of 365**
+**Tuesday, Nov 3 2026 · Day 307 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████████░░░░` **83.8%** — *59 days remaining*
+`██████████████████████░░░░` **84.1%** — *58 days remaining*
 
 ---
 
-🌌 **Constellation #306**
+🌌 **Constellation #307**
 
 ```
-               ✺         ✺     ★              
-∗             ✦               ✦       ∗       
-                 ✧   ✧     ✸       ✸          
-  ⋆           ·                       ·       
+       ★       ★                 ✺         ✺  
+      ∗             ∗ ✦ ✦                     
+           ✧ ✧ ✸                              
+                          ⋆       · ⋆         
 ```
 
 ---
 
-🎨 **Color of the Day · `#0BBD26` · Emerald**
+🎨 **Color of the Day · `#3AE8A2` · Seafoam**
 
-[![color swatch](https://img.shields.io/badge/Emerald-0BBD26?style=for-the-badge&color=0BBD26&labelColor=0BBD26)](https://www.color-hex.com/color/0BBD26)
+[![color swatch](https://img.shields.io/badge/Seafoam-3AE8A2?style=for-the-badge&color=3AE8A2&labelColor=3AE8A2)](https://www.color-hex.com/color/3AE8A2)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Good judgment comes from experience, and experience comes from bad judgment."*
+*"A good programmer looks both ways before crossing a one-way street."*
 
-— **Frederick P. Brooks**
+— **Doug Linder**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Monday, Nov 2 2026 · Day 306 of 365**
+**Tuesday, Nov 3 2026 · Day 307 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████████░░░░` **83.8%** — *59 days remaining*
+`██████████████████████░░░░` **84.1%** — *58 days remaining*
 
 ---
 
-🌌 **Constellation #306**
+🌌 **Constellation #307**
 
 ```
-               ✺         ✺     ★              
-∗             ✦               ✦       ∗       
-                 ✧   ✧     ✸       ✸          
-  ⋆           ·                       ·       
+       ★       ★                 ✺         ✺  
+      ∗             ∗ ✦ ✦                     
+           ✧ ✧ ✸                              
+                          ⋆       · ⋆         
 ```
 
 ---
 
-🎨 **Color of the Day · `#0BBD26` · Emerald**
+🎨 **Color of the Day · `#3AE8A2` · Seafoam**
 
-[![color swatch](https://img.shields.io/badge/Emerald-0BBD26?style=for-the-badge&color=0BBD26&labelColor=0BBD26)](https://www.color-hex.com/color/0BBD26)
+[![color swatch](https://img.shields.io/badge/Seafoam-3AE8A2?style=for-the-badge&color=3AE8A2&labelColor=3AE8A2)](https://www.color-hex.com/color/3AE8A2)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Good judgment comes from experience, and experience comes from bad judgment."*
+*"A good programmer looks both ways before crossing a one-way street."*
 
-— **Frederick P. Brooks**
+— **Doug Linder**
 
 ---
 
