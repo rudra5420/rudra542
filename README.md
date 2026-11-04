@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Tuesday, Nov 3 2026 · Day 307 of 365**
+**Wednesday, Nov 4 2026 · Day 308 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████████░░░░` **84.1%** — *58 days remaining*
+`██████████████████████░░░░` **84.4%** — *57 days remaining*
 
 ---
 
-🌌 **Constellation #307**
+🌌 **Constellation #308**
 
 ```
-       ★       ★                 ✺         ✺  
-      ∗             ∗ ✦ ✦                     
-           ✧ ✧ ✸                              
-                          ⋆       · ⋆         
+ ✺ ★   ★               ✺                      
+          ✦     ✦ ∗     ∗                     
+           ✸         ✸                       ✧
+⋆                       ⋆               ·     
 ```
 
 ---
 
-🎨 **Color of the Day · `#3AE8A2` · Seafoam**
+🎨 **Color of the Day · `#7224D1` · Violet**
 
-[![color swatch](https://img.shields.io/badge/Seafoam-3AE8A2?style=for-the-badge&color=3AE8A2&labelColor=3AE8A2)](https://www.color-hex.com/color/3AE8A2)
+[![color swatch](https://img.shields.io/badge/Violet-7224D1?style=for-the-badge&color=7224D1&labelColor=7224D1)](https://www.color-hex.com/color/7224D1)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"A good programmer looks both ways before crossing a one-way street."*
+*"All problems in computer science can be solved by another level of indirection."*
 
-— **Doug Linder**
+— **David Wheeler**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Tuesday, Nov 3 2026 · Day 307 of 365**
+**Wednesday, Nov 4 2026 · Day 308 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████████░░░░` **84.1%** — *58 days remaining*
+`██████████████████████░░░░` **84.4%** — *57 days remaining*
 
 ---
 
-🌌 **Constellation #307**
+🌌 **Constellation #308**
 
 ```
-       ★       ★                 ✺         ✺  
-      ∗             ∗ ✦ ✦                     
-           ✧ ✧ ✸                              
-                          ⋆       · ⋆         
+ ✺ ★   ★               ✺                      
+          ✦     ✦ ∗     ∗                     
+           ✸         ✸                       ✧
+⋆                       ⋆               ·     
 ```
 
 ---
 
-🎨 **Color of the Day · `#3AE8A2` · Seafoam**
+🎨 **Color of the Day · `#7224D1` · Violet**
 
-[![color swatch](https://img.shields.io/badge/Seafoam-3AE8A2?style=for-the-badge&color=3AE8A2&labelColor=3AE8A2)](https://www.color-hex.com/color/3AE8A2)
+[![color swatch](https://img.shields.io/badge/Violet-7224D1?style=for-the-badge&color=7224D1&labelColor=7224D1)](https://www.color-hex.com/color/7224D1)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"A good programmer looks both ways before crossing a one-way street."*
+*"All problems in computer science can be solved by another level of indirection."*
 
-— **Doug Linder**
+— **David Wheeler**
 
 ---
 
