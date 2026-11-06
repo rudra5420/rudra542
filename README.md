@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Thursday, Nov 5 2026 · Day 309 of 365**
+**Friday, Nov 6 2026 · Day 310 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████████░░░░` **84.7%** — *56 days remaining*
+`██████████████████████░░░░` **84.9%** — *55 days remaining*
 
 ---
 
-🌌 **Constellation #309**
+🌌 **Constellation #310**
 
 ```
-       ★           ★ ✺       ✺                
-          ∗       ✦         ✦                 
-       ✧ ✸                                   ✧
-            ⋆                 ·         ⋆ ·   
+   ✺                         ★     ✺         ★
+    ✦             ∗               ∗     ✦     
+                     ✸         ✧           ✧  
+  ⋆ ·   ·   ⋆                                 
 ```
 
 ---
 
-🎨 **Color of the Day · `#EBD036` · Chartreuse**
+🎨 **Color of the Day · `#3CDB39` · Forest**
 
-[![color swatch](https://img.shields.io/badge/Chartreuse-EBD036?style=for-the-badge&color=EBD036&labelColor=EBD036)](https://www.color-hex.com/color/EBD036)
+[![color swatch](https://img.shields.io/badge/Forest-3CDB39?style=for-the-badge&color=3CDB39&labelColor=3CDB39)](https://www.color-hex.com/color/3CDB39)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Talk is cheap. Show me the code."*
+*"All problems in computer science can be solved by another level of indirection."*
 
-— **Linus Torvalds**
+— **David Wheeler**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Thursday, Nov 5 2026 · Day 309 of 365**
+**Friday, Nov 6 2026 · Day 310 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████████░░░░` **84.7%** — *56 days remaining*
+`██████████████████████░░░░` **84.9%** — *55 days remaining*
 
 ---
 
-🌌 **Constellation #309**
+🌌 **Constellation #310**
 
 ```
-       ★           ★ ✺       ✺                
-          ∗       ✦         ✦                 
-       ✧ ✸                                   ✧
-            ⋆                 ·         ⋆ ·   
+   ✺                         ★     ✺         ★
+    ✦             ∗               ∗     ✦     
+                     ✸         ✧           ✧  
+  ⋆ ·   ·   ⋆                                 
 ```
 
 ---
 
-🎨 **Color of the Day · `#EBD036` · Chartreuse**
+🎨 **Color of the Day · `#3CDB39` · Forest**
 
-[![color swatch](https://img.shields.io/badge/Chartreuse-EBD036?style=for-the-badge&color=EBD036&labelColor=EBD036)](https://www.color-hex.com/color/EBD036)
+[![color swatch](https://img.shields.io/badge/Forest-3CDB39?style=for-the-badge&color=3CDB39&labelColor=3CDB39)](https://www.color-hex.com/color/3CDB39)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Talk is cheap. Show me the code."*
+*"All problems in computer science can be solved by another level of indirection."*
 
-— **Linus Torvalds**
+— **David Wheeler**
 
 ---
 
