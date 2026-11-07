@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Friday, Nov 6 2026 · Day 310 of 365**
+**Saturday, Nov 7 2026 · Day 311 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████████░░░░` **84.9%** — *55 days remaining*
+`██████████████████████░░░░` **85.2%** — *54 days remaining*
 
 ---
 
-🌌 **Constellation #310**
+🌌 **Constellation #311**
 
 ```
-   ✺                         ★     ✺         ★
-    ✦             ∗               ∗     ✦     
-                     ✸         ✧           ✧  
-  ⋆ ·   ·   ⋆                                 
+                 ✺             ✺              
+                            ✦   ∗   ✦         
+       ✧   ✧ ✸                                
+    ⋆ ·                                     · 
 ```
 
 ---
 
-🎨 **Color of the Day · `#3CDB39` · Forest**
+🎨 **Color of the Day · `#C78420` · Amber**
 
-[![color swatch](https://img.shields.io/badge/Forest-3CDB39?style=for-the-badge&color=3CDB39&labelColor=3CDB39)](https://www.color-hex.com/color/3CDB39)
+[![color swatch](https://img.shields.io/badge/Amber-C78420?style=for-the-badge&color=C78420&labelColor=C78420)](https://www.color-hex.com/color/C78420)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"All problems in computer science can be solved by another level of indirection."*
+*"Simplicity is prerequisite for reliability."*
 
-— **David Wheeler**
+— **Edsger W. Dijkstra**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Friday, Nov 6 2026 · Day 310 of 365**
+**Saturday, Nov 7 2026 · Day 311 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████████░░░░` **84.9%** — *55 days remaining*
+`██████████████████████░░░░` **85.2%** — *54 days remaining*
 
 ---
 
-🌌 **Constellation #310**
+🌌 **Constellation #311**
 
 ```
-   ✺                         ★     ✺         ★
-    ✦             ∗               ∗     ✦     
-                     ✸         ✧           ✧  
-  ⋆ ·   ·   ⋆                                 
+                 ✺             ✺              
+                            ✦   ∗   ✦         
+       ✧   ✧ ✸                                
+    ⋆ ·                                     · 
 ```
 
 ---
 
-🎨 **Color of the Day · `#3CDB39` · Forest**
+🎨 **Color of the Day · `#C78420` · Amber**
 
-[![color swatch](https://img.shields.io/badge/Forest-3CDB39?style=for-the-badge&color=3CDB39&labelColor=3CDB39)](https://www.color-hex.com/color/3CDB39)
+[![color swatch](https://img.shields.io/badge/Amber-C78420?style=for-the-badge&color=C78420&labelColor=C78420)](https://www.color-hex.com/color/C78420)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"All problems in computer science can be solved by another level of indirection."*
+*"Simplicity is prerequisite for reliability."*
 
-— **David Wheeler**
+— **Edsger W. Dijkstra**
 
 ---
 
