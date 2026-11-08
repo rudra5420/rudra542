@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Saturday, Nov 7 2026 · Day 311 of 365**
+**Sunday, Nov 8 2026 · Day 312 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████████░░░░` **85.2%** — *54 days remaining*
+`██████████████████████░░░░` **85.5%** — *53 days remaining*
 
 ---
 
-🌌 **Constellation #311**
+🌌 **Constellation #312**
 
 ```
-                 ✺             ✺              
-                            ✦   ∗   ✦         
-       ✧   ✧ ✸                                
-    ⋆ ·                                     · 
+   ✺                         ✺     ★          
+        ✦ ∗       ✦   ∗                       
+ ✸     ✧       ✸                     ✧        
+⋆     ⋆                     ·       ·         
 ```
 
 ---
 
-🎨 **Color of the Day · `#C78420` · Amber**
+🎨 **Color of the Day · `#EDB553` · Amber**
 
-[![color swatch](https://img.shields.io/badge/Amber-C78420?style=for-the-badge&color=C78420&labelColor=C78420)](https://www.color-hex.com/color/C78420)
+[![color swatch](https://img.shields.io/badge/Amber-EDB553?style=for-the-badge&color=EDB553&labelColor=EDB553)](https://www.color-hex.com/color/EDB553)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Simplicity is prerequisite for reliability."*
+*"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."*
 
-— **Edsger W. Dijkstra**
+— **Antoine de Saint-Exupéry**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Saturday, Nov 7 2026 · Day 311 of 365**
+**Sunday, Nov 8 2026 · Day 312 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████████░░░░` **85.2%** — *54 days remaining*
+`██████████████████████░░░░` **85.5%** — *53 days remaining*
 
 ---
 
-🌌 **Constellation #311**
+🌌 **Constellation #312**
 
 ```
-                 ✺             ✺              
-                            ✦   ∗   ✦         
-       ✧   ✧ ✸                                
-    ⋆ ·                                     · 
+   ✺                         ✺     ★          
+        ✦ ∗       ✦   ∗                       
+ ✸     ✧       ✸                     ✧        
+⋆     ⋆                     ·       ·         
 ```
 
 ---
 
-🎨 **Color of the Day · `#C78420` · Amber**
+🎨 **Color of the Day · `#EDB553` · Amber**
 
-[![color swatch](https://img.shields.io/badge/Amber-C78420?style=for-the-badge&color=C78420&labelColor=C78420)](https://www.color-hex.com/color/C78420)
+[![color swatch](https://img.shields.io/badge/Amber-EDB553?style=for-the-badge&color=EDB553&labelColor=EDB553)](https://www.color-hex.com/color/EDB553)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Simplicity is prerequisite for reliability."*
+*"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."*
 
-— **Edsger W. Dijkstra**
+— **Antoine de Saint-Exupéry**
 
 ---
 
