@@ -52,44 +52,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Nov 8 2026 · Day 312 of 365**
+**Monday, Nov 9 2026 · Day 313 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████████░░░░` **85.5%** — *53 days remaining*
+`██████████████████████░░░░` **85.8%** — *52 days remaining*
 
 ---
 
-🌌 **Constellation #312**
+🌌 **Constellation #313**
 
 ```
-   ✺                         ✺     ★          
-        ✦ ∗       ✦   ∗                       
- ✸     ✧       ✸                     ✧        
-⋆     ⋆                     ·       ·         
+     ★               ✺             ★          
+      ∗   ∗                         ✦         
+             ✸     ✸ ✧   ✧                    
+·   ·   ⋆                     ⋆               
 ```
 
 ---
 
-🎨 **Color of the Day · `#EDB553` · Amber**
+🎨 **Color of the Day · `#8C4CE0` · Violet**
 
-[![color swatch](https://img.shields.io/badge/Amber-EDB553?style=for-the-badge&color=EDB553&labelColor=EDB553)](https://www.color-hex.com/color/EDB553)
+[![color swatch](https://img.shields.io/badge/Violet-8C4CE0?style=for-the-badge&color=8C4CE0&labelColor=8C4CE0)](https://www.color-hex.com/color/8C4CE0)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."*
+*"Simplicity is prerequisite for reliability."*
 
-— **Antoine de Saint-Exupéry**
+— **Edsger W. Dijkstra**
 
 ---
 
-💡 **Tip of the Week · Week 45**
+💡 **Tip of the Week · Week 46**
 
-**Backpressure** — In data pipelines, let consumers pull at their own pace rather than having producers push. Prevents fast producers from overwhelming slow consumers.
+**Write ADRs** — Architecture Decision Records capture *why* a decision was made. Future teammates (including you in 6 months) will be deeply grateful.
 
 ---
 
@@ -106,44 +106,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Nov 8 2026 · Day 312 of 365**
+**Monday, Nov 9 2026 · Day 313 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████████░░░░` **85.5%** — *53 days remaining*
+`██████████████████████░░░░` **85.8%** — *52 days remaining*
 
 ---
 
-🌌 **Constellation #312**
+🌌 **Constellation #313**
 
 ```
-   ✺                         ✺     ★          
-        ✦ ∗       ✦   ∗                       
- ✸     ✧       ✸                     ✧        
-⋆     ⋆                     ·       ·         
+     ★               ✺             ★          
+      ∗   ∗                         ✦         
+             ✸     ✸ ✧   ✧                    
+·   ·   ⋆                     ⋆               
 ```
 
 ---
 
-🎨 **Color of the Day · `#EDB553` · Amber**
+🎨 **Color of the Day · `#8C4CE0` · Violet**
 
-[![color swatch](https://img.shields.io/badge/Amber-EDB553?style=for-the-badge&color=EDB553&labelColor=EDB553)](https://www.color-hex.com/color/EDB553)
+[![color swatch](https://img.shields.io/badge/Violet-8C4CE0?style=for-the-badge&color=8C4CE0&labelColor=8C4CE0)](https://www.color-hex.com/color/8C4CE0)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."*
+*"Simplicity is prerequisite for reliability."*
 
-— **Antoine de Saint-Exupéry**
+— **Edsger W. Dijkstra**
 
 ---
 
-💡 **Tip of the Week · Week 45**
+💡 **Tip of the Week · Week 46**
 
-**Backpressure** — In data pipelines, let consumers pull at their own pace rather than having producers push. Prevents fast producers from overwhelming slow consumers.
+**Write ADRs** — Architecture Decision Records capture *why* a decision was made. Future teammates (including you in 6 months) will be deeply grateful.
 
 ---
 
