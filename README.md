@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Wednesday, Nov 11 2026 · Day 315 of 365**
+**Thursday, Nov 12 2026 · Day 316 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████████░░░░` **86.3%** — *50 days remaining*
+`███████████████████████░░░` **86.6%** — *49 days remaining*
 
 ---
 
-🌌 **Constellation #315**
+🌌 **Constellation #316**
 
 ```
-     ✺           ✺   ★         ★              
-    ∗ ✦   ✦     ∗                             
-   ✧           ✸                   ✧          
-        ⋆     ·   ⋆   ·                       
+             ★                 ✺   ✺       ★  
+                    ✦ ✦             ∗   ∗     
+           ✧ ✸                         ✸   ✧  
+    ·     ·     ⋆                             
 ```
 
 ---
 
-🎨 **Color of the Day · `#7012DB` · Violet**
+🎨 **Color of the Day · `#264EC7` · Ocean**
 
-[![color swatch](https://img.shields.io/badge/Violet-7012DB?style=for-the-badge&color=7012DB&labelColor=7012DB)](https://www.color-hex.com/color/7012DB)
+[![color swatch](https://img.shields.io/badge/Ocean-264EC7?style=for-the-badge&color=264EC7&labelColor=264EC7)](https://www.color-hex.com/color/264EC7)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Good code is its own best documentation."*
+*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
 
-— **Steve McConnell**
+— **Martin Fowler**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Wednesday, Nov 11 2026 · Day 315 of 365**
+**Thursday, Nov 12 2026 · Day 316 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`██████████████████████░░░░` **86.3%** — *50 days remaining*
+`███████████████████████░░░` **86.6%** — *49 days remaining*
 
 ---
 
-🌌 **Constellation #315**
+🌌 **Constellation #316**
 
 ```
-     ✺           ✺   ★         ★              
-    ∗ ✦   ✦     ∗                             
-   ✧           ✸                   ✧          
-        ⋆     ·   ⋆   ·                       
+             ★                 ✺   ✺       ★  
+                    ✦ ✦             ∗   ∗     
+           ✧ ✸                         ✸   ✧  
+    ·     ·     ⋆                             
 ```
 
 ---
 
-🎨 **Color of the Day · `#7012DB` · Violet**
+🎨 **Color of the Day · `#264EC7` · Ocean**
 
-[![color swatch](https://img.shields.io/badge/Violet-7012DB?style=for-the-badge&color=7012DB&labelColor=7012DB)](https://www.color-hex.com/color/7012DB)
+[![color swatch](https://img.shields.io/badge/Ocean-264EC7?style=for-the-badge&color=264EC7&labelColor=264EC7)](https://www.color-hex.com/color/264EC7)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Good code is its own best documentation."*
+*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
 
-— **Steve McConnell**
+— **Martin Fowler**
 
 ---
 
