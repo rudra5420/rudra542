@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Thursday, Nov 12 2026 · Day 316 of 365**
+**Friday, Nov 13 2026 · Day 317 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████████░░░` **86.6%** — *49 days remaining*
+`███████████████████████░░░` **86.8%** — *48 days remaining*
 
 ---
 
-🌌 **Constellation #316**
+🌌 **Constellation #317**
 
 ```
-             ★                 ✺   ✺       ★  
-                    ✦ ✦             ∗   ∗     
-           ✧ ✸                         ✸   ✧  
-    ·     ·     ⋆                             
+       ✺   ★                       ✺          
+∗ ✦                   ∗                       
+                   ✧                         ✧
+                    ⋆   ⋆           · ·       
 ```
 
 ---
 
-🎨 **Color of the Day · `#264EC7` · Ocean**
+🎨 **Color of the Day · `#701ED4` · Violet**
 
-[![color swatch](https://img.shields.io/badge/Ocean-264EC7?style=for-the-badge&color=264EC7&labelColor=264EC7)](https://www.color-hex.com/color/264EC7)
+[![color swatch](https://img.shields.io/badge/Violet-701ED4?style=for-the-badge&color=701ED4&labelColor=701ED4)](https://www.color-hex.com/color/701ED4)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
+*"Sometimes it pays to stay in bed on Monday rather than spend the rest of the week debugging Monday's code."*
 
-— **Martin Fowler**
+— **Dan Salomon**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Thursday, Nov 12 2026 · Day 316 of 365**
+**Friday, Nov 13 2026 · Day 317 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████████░░░` **86.6%** — *49 days remaining*
+`███████████████████████░░░` **86.8%** — *48 days remaining*
 
 ---
 
-🌌 **Constellation #316**
+🌌 **Constellation #317**
 
 ```
-             ★                 ✺   ✺       ★  
-                    ✦ ✦             ∗   ∗     
-           ✧ ✸                         ✸   ✧  
-    ·     ·     ⋆                             
+       ✺   ★                       ✺          
+∗ ✦                   ∗                       
+                   ✧                         ✧
+                    ⋆   ⋆           · ·       
 ```
 
 ---
 
-🎨 **Color of the Day · `#264EC7` · Ocean**
+🎨 **Color of the Day · `#701ED4` · Violet**
 
-[![color swatch](https://img.shields.io/badge/Ocean-264EC7?style=for-the-badge&color=264EC7&labelColor=264EC7)](https://www.color-hex.com/color/264EC7)
+[![color swatch](https://img.shields.io/badge/Violet-701ED4?style=for-the-badge&color=701ED4&labelColor=701ED4)](https://www.color-hex.com/color/701ED4)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
+*"Sometimes it pays to stay in bed on Monday rather than spend the rest of the week debugging Monday's code."*
 
-— **Martin Fowler**
+— **Dan Salomon**
 
 ---
 
