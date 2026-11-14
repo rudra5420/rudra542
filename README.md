@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Friday, Nov 13 2026 · Day 317 of 365**
+**Saturday, Nov 14 2026 · Day 318 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████████░░░` **86.8%** — *48 days remaining*
+`███████████████████████░░░` **87.1%** — *47 days remaining*
 
 ---
 
-🌌 **Constellation #317**
+🌌 **Constellation #318**
 
 ```
-       ✺   ★                       ✺          
-∗ ✦                   ∗                       
-                   ✧                         ✧
-                    ⋆   ⋆           · ·       
+             ✺ ★             ✺                
+                  ✦             ∗             
+             ✸           ✸                 ✧  
+·                           ⋆               ⋆ 
 ```
 
 ---
 
-🎨 **Color of the Day · `#701ED4` · Violet**
+🎨 **Color of the Day · `#5DCC3B` · Forest**
 
-[![color swatch](https://img.shields.io/badge/Violet-701ED4?style=for-the-badge&color=701ED4&labelColor=701ED4)](https://www.color-hex.com/color/701ED4)
+[![color swatch](https://img.shields.io/badge/Forest-5DCC3B?style=for-the-badge&color=5DCC3B&labelColor=5DCC3B)](https://www.color-hex.com/color/5DCC3B)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Sometimes it pays to stay in bed on Monday rather than spend the rest of the week debugging Monday's code."*
+*"Beware of bugs in the above code; I have only proved it correct, not tried it."*
 
-— **Dan Salomon**
+— **Donald Knuth**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Friday, Nov 13 2026 · Day 317 of 365**
+**Saturday, Nov 14 2026 · Day 318 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████████░░░` **86.8%** — *48 days remaining*
+`███████████████████████░░░` **87.1%** — *47 days remaining*
 
 ---
 
-🌌 **Constellation #317**
+🌌 **Constellation #318**
 
 ```
-       ✺   ★                       ✺          
-∗ ✦                   ∗                       
-                   ✧                         ✧
-                    ⋆   ⋆           · ·       
+             ✺ ★             ✺                
+                  ✦             ∗             
+             ✸           ✸                 ✧  
+·                           ⋆               ⋆ 
 ```
 
 ---
 
-🎨 **Color of the Day · `#701ED4` · Violet**
+🎨 **Color of the Day · `#5DCC3B` · Forest**
 
-[![color swatch](https://img.shields.io/badge/Violet-701ED4?style=for-the-badge&color=701ED4&labelColor=701ED4)](https://www.color-hex.com/color/701ED4)
+[![color swatch](https://img.shields.io/badge/Forest-5DCC3B?style=for-the-badge&color=5DCC3B&labelColor=5DCC3B)](https://www.color-hex.com/color/5DCC3B)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Sometimes it pays to stay in bed on Monday rather than spend the rest of the week debugging Monday's code."*
+*"Beware of bugs in the above code; I have only proved it correct, not tried it."*
 
-— **Dan Salomon**
+— **Donald Knuth**
 
 ---
 
