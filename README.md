@@ -52,44 +52,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Nov 15 2026 · Day 319 of 365**
+**Monday, Nov 16 2026 · Day 320 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████████░░░` **87.4%** — *46 days remaining*
+`███████████████████████░░░` **87.7%** — *45 days remaining*
 
 ---
 
-🌌 **Constellation #319**
+🌌 **Constellation #320**
 
 ```
-   ★             ✺     ✺ ★                 ✺  
-      ✦             ∗       ✦                 
-   ✧           ✸         ✧     ✸              
-  ⋆   ·             ⋆         ·               
+     ★             ★           ✺ ✺            
+    ✦               ∗                   ∗     
+                       ✸             ✧   ✸ ✧  
+      ·               · ·             ⋆ ⋆     
 ```
 
 ---
 
-🎨 **Color of the Day · `#46EB83` · Emerald**
+🎨 **Color of the Day · `#2923E8` · Indigo**
 
-[![color swatch](https://img.shields.io/badge/Emerald-46EB83?style=for-the-badge&color=46EB83&labelColor=46EB83)](https://www.color-hex.com/color/46EB83)
+[![color swatch](https://img.shields.io/badge/Indigo-2923E8?style=for-the-badge&color=2923E8&labelColor=2923E8)](https://www.color-hex.com/color/2923E8)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Simplicity is prerequisite for reliability."*
+*"Sometimes it pays to stay in bed on Monday rather than spend the rest of the week debugging Monday's code."*
 
-— **Edsger W. Dijkstra**
+— **Dan Salomon**
 
 ---
 
-💡 **Tip of the Week · Week 46**
+💡 **Tip of the Week · Week 47**
 
-**Write ADRs** — Architecture Decision Records capture *why* a decision was made. Future teammates (including you in 6 months) will be deeply grateful.
+**Paginate Everything** — Every list endpoint should paginate from day one. Returning unbounded collections is a memory exhaustion bug waiting for production data.
 
 ---
 
@@ -106,44 +106,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Nov 15 2026 · Day 319 of 365**
+**Monday, Nov 16 2026 · Day 320 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████████░░░` **87.4%** — *46 days remaining*
+`███████████████████████░░░` **87.7%** — *45 days remaining*
 
 ---
 
-🌌 **Constellation #319**
+🌌 **Constellation #320**
 
 ```
-   ★             ✺     ✺ ★                 ✺  
-      ✦             ∗       ✦                 
-   ✧           ✸         ✧     ✸              
-  ⋆   ·             ⋆         ·               
+     ★             ★           ✺ ✺            
+    ✦               ∗                   ∗     
+                       ✸             ✧   ✸ ✧  
+      ·               · ·             ⋆ ⋆     
 ```
 
 ---
 
-🎨 **Color of the Day · `#46EB83` · Emerald**
+🎨 **Color of the Day · `#2923E8` · Indigo**
 
-[![color swatch](https://img.shields.io/badge/Emerald-46EB83?style=for-the-badge&color=46EB83&labelColor=46EB83)](https://www.color-hex.com/color/46EB83)
+[![color swatch](https://img.shields.io/badge/Indigo-2923E8?style=for-the-badge&color=2923E8&labelColor=2923E8)](https://www.color-hex.com/color/2923E8)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Simplicity is prerequisite for reliability."*
+*"Sometimes it pays to stay in bed on Monday rather than spend the rest of the week debugging Monday's code."*
 
-— **Edsger W. Dijkstra**
+— **Dan Salomon**
 
 ---
 
-💡 **Tip of the Week · Week 46**
+💡 **Tip of the Week · Week 47**
 
-**Write ADRs** — Architecture Decision Records capture *why* a decision was made. Future teammates (including you in 6 months) will be deeply grateful.
+**Paginate Everything** — Every list endpoint should paginate from day one. Returning unbounded collections is a memory exhaustion bug waiting for production data.
 
 ---
 
