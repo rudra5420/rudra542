@@ -52,30 +52,30 @@
 
 ### ⚡ THE CHRONICLE
 
-**Monday, Nov 16 2026 · Day 320 of 365**
+**Tuesday, Nov 17 2026 · Day 321 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████████░░░` **87.7%** — *45 days remaining*
+`███████████████████████░░░` **87.9%** — *44 days remaining*
 
 ---
 
-🌌 **Constellation #320**
+🌌 **Constellation #321**
 
 ```
-     ★             ★           ✺ ✺            
-    ✦               ∗                   ∗     
-                       ✸             ✧   ✸ ✧  
-      ·               · ·             ⋆ ⋆     
+           ✺       ★                          
+  ∗       ✦                               ✦   
+     ✧                         ✧ ✸            
+                                  ⋆         · 
 ```
 
 ---
 
-🎨 **Color of the Day · `#2923E8` · Indigo**
+🎨 **Color of the Day · `#EDAF1F` · Amber**
 
-[![color swatch](https://img.shields.io/badge/Indigo-2923E8?style=for-the-badge&color=2923E8&labelColor=2923E8)](https://www.color-hex.com/color/2923E8)
+[![color swatch](https://img.shields.io/badge/Amber-EDAF1F?style=for-the-badge&color=EDAF1F&labelColor=EDAF1F)](https://www.color-hex.com/color/EDAF1F)
 
 ---
 
@@ -106,30 +106,30 @@
 
 ### ⚡ THE CHRONICLE
 
-**Monday, Nov 16 2026 · Day 320 of 365**
+**Tuesday, Nov 17 2026 · Day 321 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████████░░░` **87.7%** — *45 days remaining*
+`███████████████████████░░░` **87.9%** — *44 days remaining*
 
 ---
 
-🌌 **Constellation #320**
+🌌 **Constellation #321**
 
 ```
-     ★             ★           ✺ ✺            
-    ✦               ∗                   ∗     
-                       ✸             ✧   ✸ ✧  
-      ·               · ·             ⋆ ⋆     
+           ✺       ★                          
+  ∗       ✦                               ✦   
+     ✧                         ✧ ✸            
+                                  ⋆         · 
 ```
 
 ---
 
-🎨 **Color of the Day · `#2923E8` · Indigo**
+🎨 **Color of the Day · `#EDAF1F` · Amber**
 
-[![color swatch](https://img.shields.io/badge/Indigo-2923E8?style=for-the-badge&color=2923E8&labelColor=2923E8)](https://www.color-hex.com/color/2923E8)
+[![color swatch](https://img.shields.io/badge/Amber-EDAF1F?style=for-the-badge&color=EDAF1F&labelColor=EDAF1F)](https://www.color-hex.com/color/EDAF1F)
 
 ---
 
