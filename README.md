@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Tuesday, Nov 17 2026 · Day 321 of 365**
+**Wednesday, Nov 18 2026 · Day 322 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████████░░░` **87.9%** — *44 days remaining*
+`███████████████████████░░░` **88.2%** — *43 days remaining*
 
 ---
 
-🌌 **Constellation #321**
+🌌 **Constellation #322**
 
 ```
-           ✺       ★                          
-  ∗       ✦                               ✦   
-     ✧                         ✧ ✸            
-                                  ⋆         · 
+ ✺             ★       ✺                      
+            ✦                   ∗       ∗     
+ ✸       ✧                               ✸    
+                ⋆           ·     ⋆           
 ```
 
 ---
 
-🎨 **Color of the Day · `#EDAF1F` · Amber**
+🎨 **Color of the Day · `#D41574` · Rose**
 
-[![color swatch](https://img.shields.io/badge/Amber-EDAF1F?style=for-the-badge&color=EDAF1F&labelColor=EDAF1F)](https://www.color-hex.com/color/EDAF1F)
+[![color swatch](https://img.shields.io/badge/Rose-D41574?style=for-the-badge&color=D41574&labelColor=D41574)](https://www.color-hex.com/color/D41574)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Sometimes it pays to stay in bed on Monday rather than spend the rest of the week debugging Monday's code."*
+*"The best programmers are not marginally better than merely good ones. They are an order of magnitude better."*
 
-— **Dan Salomon**
+— **Randall E. Stross**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Tuesday, Nov 17 2026 · Day 321 of 365**
+**Wednesday, Nov 18 2026 · Day 322 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████████░░░` **87.9%** — *44 days remaining*
+`███████████████████████░░░` **88.2%** — *43 days remaining*
 
 ---
 
-🌌 **Constellation #321**
+🌌 **Constellation #322**
 
 ```
-           ✺       ★                          
-  ∗       ✦                               ✦   
-     ✧                         ✧ ✸            
-                                  ⋆         · 
+ ✺             ★       ✺                      
+            ✦                   ∗       ∗     
+ ✸       ✧                               ✸    
+                ⋆           ·     ⋆           
 ```
 
 ---
 
-🎨 **Color of the Day · `#EDAF1F` · Amber**
+🎨 **Color of the Day · `#D41574` · Rose**
 
-[![color swatch](https://img.shields.io/badge/Amber-EDAF1F?style=for-the-badge&color=EDAF1F&labelColor=EDAF1F)](https://www.color-hex.com/color/EDAF1F)
+[![color swatch](https://img.shields.io/badge/Rose-D41574?style=for-the-badge&color=D41574&labelColor=D41574)](https://www.color-hex.com/color/D41574)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Sometimes it pays to stay in bed on Monday rather than spend the rest of the week debugging Monday's code."*
+*"The best programmers are not marginally better than merely good ones. They are an order of magnitude better."*
 
-— **Dan Salomon**
+— **Randall E. Stross**
 
 ---
 
