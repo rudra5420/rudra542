@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Wednesday, Nov 18 2026 · Day 322 of 365**
+**Thursday, Nov 19 2026 · Day 323 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████████░░░` **88.2%** — *43 days remaining*
+`███████████████████████░░░` **88.5%** — *42 days remaining*
 
 ---
 
-🌌 **Constellation #322**
+🌌 **Constellation #323**
 
 ```
- ✺             ★       ✺                      
-            ✦                   ∗       ∗     
- ✸       ✧                               ✸    
-                ⋆           ·     ⋆           
+                 ★ ✺                         ★
+            ∗     ✦   ∗           ✦           
+             ✧               ✸   ✸            
+                  ⋆               ·     ⋆ ·   
 ```
 
 ---
 
-🎨 **Color of the Day · `#D41574` · Rose**
+🎨 **Color of the Day · `#611FCC` · Violet**
 
-[![color swatch](https://img.shields.io/badge/Rose-D41574?style=for-the-badge&color=D41574&labelColor=D41574)](https://www.color-hex.com/color/D41574)
+[![color swatch](https://img.shields.io/badge/Violet-611FCC?style=for-the-badge&color=611FCC&labelColor=611FCC)](https://www.color-hex.com/color/611FCC)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"The best programmers are not marginally better than merely good ones. They are an order of magnitude better."*
+*"A language that doesn't affect the way you think about programming is not worth knowing."*
 
-— **Randall E. Stross**
+— **Alan Perlis**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Wednesday, Nov 18 2026 · Day 322 of 365**
+**Thursday, Nov 19 2026 · Day 323 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████████░░░` **88.2%** — *43 days remaining*
+`███████████████████████░░░` **88.5%** — *42 days remaining*
 
 ---
 
-🌌 **Constellation #322**
+🌌 **Constellation #323**
 
 ```
- ✺             ★       ✺                      
-            ✦                   ∗       ∗     
- ✸       ✧                               ✸    
-                ⋆           ·     ⋆           
+                 ★ ✺                         ★
+            ∗     ✦   ∗           ✦           
+             ✧               ✸   ✸            
+                  ⋆               ·     ⋆ ·   
 ```
 
 ---
 
-🎨 **Color of the Day · `#D41574` · Rose**
+🎨 **Color of the Day · `#611FCC` · Violet**
 
-[![color swatch](https://img.shields.io/badge/Rose-D41574?style=for-the-badge&color=D41574&labelColor=D41574)](https://www.color-hex.com/color/D41574)
+[![color swatch](https://img.shields.io/badge/Violet-611FCC?style=for-the-badge&color=611FCC&labelColor=611FCC)](https://www.color-hex.com/color/611FCC)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"The best programmers are not marginally better than merely good ones. They are an order of magnitude better."*
+*"A language that doesn't affect the way you think about programming is not worth knowing."*
 
-— **Randall E. Stross**
+— **Alan Perlis**
 
 ---
 
