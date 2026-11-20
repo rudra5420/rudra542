@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Thursday, Nov 19 2026 · Day 323 of 365**
+**Friday, Nov 20 2026 · Day 324 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████████░░░` **88.5%** — *42 days remaining*
+`███████████████████████░░░` **88.8%** — *41 days remaining*
 
 ---
 
-🌌 **Constellation #323**
+🌌 **Constellation #324**
 
 ```
-                 ★ ✺                         ★
-            ∗     ✦   ∗           ✦           
-             ✧               ✸   ✸            
-                  ⋆               ·     ⋆ ·   
+                   ★   ✺                     ✺
+  ∗           ✦ ✦                   ∗         
+ ✧                         ✸               ✸  
+    ·   ⋆                               ⋆     
 ```
 
 ---
 
-🎨 **Color of the Day · `#611FCC` · Violet**
+🎨 **Color of the Day · `#DE28B6` · Magenta**
 
-[![color swatch](https://img.shields.io/badge/Violet-611FCC?style=for-the-badge&color=611FCC&labelColor=611FCC)](https://www.color-hex.com/color/611FCC)
+[![color swatch](https://img.shields.io/badge/Magenta-DE28B6?style=for-the-badge&color=DE28B6&labelColor=DE28B6)](https://www.color-hex.com/color/DE28B6)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"A language that doesn't affect the way you think about programming is not worth knowing."*
+*"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."*
 
-— **Alan Perlis**
+— **Antoine de Saint-Exupéry**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Thursday, Nov 19 2026 · Day 323 of 365**
+**Friday, Nov 20 2026 · Day 324 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████████░░░` **88.5%** — *42 days remaining*
+`███████████████████████░░░` **88.8%** — *41 days remaining*
 
 ---
 
-🌌 **Constellation #323**
+🌌 **Constellation #324**
 
 ```
-                 ★ ✺                         ★
-            ∗     ✦   ∗           ✦           
-             ✧               ✸   ✸            
-                  ⋆               ·     ⋆ ·   
+                   ★   ✺                     ✺
+  ∗           ✦ ✦                   ∗         
+ ✧                         ✸               ✸  
+    ·   ⋆                               ⋆     
 ```
 
 ---
 
-🎨 **Color of the Day · `#611FCC` · Violet**
+🎨 **Color of the Day · `#DE28B6` · Magenta**
 
-[![color swatch](https://img.shields.io/badge/Violet-611FCC?style=for-the-badge&color=611FCC&labelColor=611FCC)](https://www.color-hex.com/color/611FCC)
+[![color swatch](https://img.shields.io/badge/Magenta-DE28B6?style=for-the-badge&color=DE28B6&labelColor=DE28B6)](https://www.color-hex.com/color/DE28B6)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"A language that doesn't affect the way you think about programming is not worth knowing."*
+*"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."*
 
-— **Alan Perlis**
+— **Antoine de Saint-Exupéry**
 
 ---
 
