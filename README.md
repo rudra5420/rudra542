@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Friday, Nov 20 2026 · Day 324 of 365**
+**Saturday, Nov 21 2026 · Day 325 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████████░░░` **88.8%** — *41 days remaining*
+`███████████████████████░░░` **89.0%** — *40 days remaining*
 
 ---
 
-🌌 **Constellation #324**
+🌌 **Constellation #325**
 
 ```
-                   ★   ✺                     ✺
-  ∗           ✦ ✦                   ∗         
- ✧                         ✸               ✸  
-    ·   ⋆                               ⋆     
+ ★                             ★           ✺  
+        ✦   ∗                   ✦             
+                             ✸         ✧      
+              ·               ·     ⋆         
 ```
 
 ---
 
-🎨 **Color of the Day · `#DE28B6` · Magenta**
+🎨 **Color of the Day · `#CF5915` · Vermilion**
 
-[![color swatch](https://img.shields.io/badge/Magenta-DE28B6?style=for-the-badge&color=DE28B6&labelColor=DE28B6)](https://www.color-hex.com/color/DE28B6)
+[![color swatch](https://img.shields.io/badge/Vermilion-CF5915?style=for-the-badge&color=CF5915&labelColor=CF5915)](https://www.color-hex.com/color/CF5915)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."*
+*"No one in the brief history of computing has ever written a piece of perfect software."*
 
-— **Antoine de Saint-Exupéry**
+— **Andy Hunt**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Friday, Nov 20 2026 · Day 324 of 365**
+**Saturday, Nov 21 2026 · Day 325 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████████░░░` **88.8%** — *41 days remaining*
+`███████████████████████░░░` **89.0%** — *40 days remaining*
 
 ---
 
-🌌 **Constellation #324**
+🌌 **Constellation #325**
 
 ```
-                   ★   ✺                     ✺
-  ∗           ✦ ✦                   ∗         
- ✧                         ✸               ✸  
-    ·   ⋆                               ⋆     
+ ★                             ★           ✺  
+        ✦   ∗                   ✦             
+                             ✸         ✧      
+              ·               ·     ⋆         
 ```
 
 ---
 
-🎨 **Color of the Day · `#DE28B6` · Magenta**
+🎨 **Color of the Day · `#CF5915` · Vermilion**
 
-[![color swatch](https://img.shields.io/badge/Magenta-DE28B6?style=for-the-badge&color=DE28B6&labelColor=DE28B6)](https://www.color-hex.com/color/DE28B6)
+[![color swatch](https://img.shields.io/badge/Vermilion-CF5915?style=for-the-badge&color=CF5915&labelColor=CF5915)](https://www.color-hex.com/color/CF5915)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."*
+*"No one in the brief history of computing has ever written a piece of perfect software."*
 
-— **Antoine de Saint-Exupéry**
+— **Andy Hunt**
 
 ---
 
