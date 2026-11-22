@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Saturday, Nov 21 2026 · Day 325 of 365**
+**Sunday, Nov 22 2026 · Day 326 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████████░░░` **89.0%** — *40 days remaining*
+`███████████████████████░░░` **89.3%** — *39 days remaining*
 
 ---
 
-🌌 **Constellation #325**
+🌌 **Constellation #326**
 
 ```
- ★                             ★           ✺  
-        ✦   ∗                   ✦             
-                             ✸         ✧      
-              ·               ·     ⋆         
+     ★ ✺           ✺                   ✺      
+                          ✦       ∗ ∗ ✦       
+     ✧                           ✸           ✧
+                                    ·   ⋆ ·   
 ```
 
 ---
 
-🎨 **Color of the Day · `#CF5915` · Vermilion**
+🎨 **Color of the Day · `#47CFD1` · Teal**
 
-[![color swatch](https://img.shields.io/badge/Vermilion-CF5915?style=for-the-badge&color=CF5915&labelColor=CF5915)](https://www.color-hex.com/color/CF5915)
+[![color swatch](https://img.shields.io/badge/Teal-47CFD1?style=for-the-badge&color=47CFD1&labelColor=47CFD1)](https://www.color-hex.com/color/47CFD1)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"No one in the brief history of computing has ever written a piece of perfect software."*
+*"Fix the cause, not the symptom."*
 
-— **Andy Hunt**
+— **Steve Maguire**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Saturday, Nov 21 2026 · Day 325 of 365**
+**Sunday, Nov 22 2026 · Day 326 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████████░░░` **89.0%** — *40 days remaining*
+`███████████████████████░░░` **89.3%** — *39 days remaining*
 
 ---
 
-🌌 **Constellation #325**
+🌌 **Constellation #326**
 
 ```
- ★                             ★           ✺  
-        ✦   ∗                   ✦             
-                             ✸         ✧      
-              ·               ·     ⋆         
+     ★ ✺           ✺                   ✺      
+                          ✦       ∗ ∗ ✦       
+     ✧                           ✸           ✧
+                                    ·   ⋆ ·   
 ```
 
 ---
 
-🎨 **Color of the Day · `#CF5915` · Vermilion**
+🎨 **Color of the Day · `#47CFD1` · Teal**
 
-[![color swatch](https://img.shields.io/badge/Vermilion-CF5915?style=for-the-badge&color=CF5915&labelColor=CF5915)](https://www.color-hex.com/color/CF5915)
+[![color swatch](https://img.shields.io/badge/Teal-47CFD1?style=for-the-badge&color=47CFD1&labelColor=47CFD1)](https://www.color-hex.com/color/47CFD1)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"No one in the brief history of computing has ever written a piece of perfect software."*
+*"Fix the cause, not the symptom."*
 
-— **Andy Hunt**
+— **Steve Maguire**
 
 ---
 
