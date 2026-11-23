@@ -52,44 +52,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Nov 22 2026 · Day 326 of 365**
+**Monday, Nov 23 2026 · Day 327 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████████░░░` **89.3%** — *39 days remaining*
+`███████████████████████░░░` **89.6%** — *38 days remaining*
 
 ---
 
-🌌 **Constellation #326**
+🌌 **Constellation #327**
 
 ```
-     ★ ✺           ✺                   ✺      
-                          ✦       ∗ ∗ ✦       
-     ✧                           ✸           ✧
-                                    ·   ⋆ ·   
+ ★   ★     ✺                                 ✺
+        ✦   ∗   ✦   ∗                         
+     ✧ ✸           ✸     ✧                    
+                ·                     · ⋆ ⋆   
 ```
 
 ---
 
-🎨 **Color of the Day · `#47CFD1` · Teal**
+🎨 **Color of the Day · `#2DEBCB` · Seafoam**
 
-[![color swatch](https://img.shields.io/badge/Teal-47CFD1?style=for-the-badge&color=47CFD1&labelColor=47CFD1)](https://www.color-hex.com/color/47CFD1)
+[![color swatch](https://img.shields.io/badge/Seafoam-2DEBCB?style=for-the-badge&color=2DEBCB&labelColor=2DEBCB)](https://www.color-hex.com/color/2DEBCB)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Fix the cause, not the symptom."*
+*"One of my most productive days was throwing away 1,000 lines of code."*
 
-— **Steve Maguire**
+— **Ken Thompson**
 
 ---
 
-💡 **Tip of the Week · Week 47**
+💡 **Tip of the Week · Week 48**
 
-**Paginate Everything** — Every list endpoint should paginate from day one. Returning unbounded collections is a memory exhaustion bug waiting for production data.
+**Health Checks** — Readiness and liveness probes are mandatory in production. Without them, load balancers happily route requests to starting or crashed instances.
 
 ---
 
@@ -106,44 +106,44 @@
 
 ### ⚡ THE CHRONICLE
 
-**Sunday, Nov 22 2026 · Day 326 of 365**
+**Monday, Nov 23 2026 · Day 327 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████████░░░` **89.3%** — *39 days remaining*
+`███████████████████████░░░` **89.6%** — *38 days remaining*
 
 ---
 
-🌌 **Constellation #326**
+🌌 **Constellation #327**
 
 ```
-     ★ ✺           ✺                   ✺      
-                          ✦       ∗ ∗ ✦       
-     ✧                           ✸           ✧
-                                    ·   ⋆ ·   
+ ★   ★     ✺                                 ✺
+        ✦   ∗   ✦   ∗                         
+     ✧ ✸           ✸     ✧                    
+                ·                     · ⋆ ⋆   
 ```
 
 ---
 
-🎨 **Color of the Day · `#47CFD1` · Teal**
+🎨 **Color of the Day · `#2DEBCB` · Seafoam**
 
-[![color swatch](https://img.shields.io/badge/Teal-47CFD1?style=for-the-badge&color=47CFD1&labelColor=47CFD1)](https://www.color-hex.com/color/47CFD1)
+[![color swatch](https://img.shields.io/badge/Seafoam-2DEBCB?style=for-the-badge&color=2DEBCB&labelColor=2DEBCB)](https://www.color-hex.com/color/2DEBCB)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Fix the cause, not the symptom."*
+*"One of my most productive days was throwing away 1,000 lines of code."*
 
-— **Steve Maguire**
+— **Ken Thompson**
 
 ---
 
-💡 **Tip of the Week · Week 47**
+💡 **Tip of the Week · Week 48**
 
-**Paginate Everything** — Every list endpoint should paginate from day one. Returning unbounded collections is a memory exhaustion bug waiting for production data.
+**Health Checks** — Readiness and liveness probes are mandatory in production. Without them, load balancers happily route requests to starting or crashed instances.
 
 ---
 
