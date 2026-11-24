@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Monday, Nov 23 2026 · Day 327 of 365**
+**Tuesday, Nov 24 2026 · Day 328 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████████░░░` **89.6%** — *38 days remaining*
+`███████████████████████░░░` **89.9%** — *37 days remaining*
 
 ---
 
-🌌 **Constellation #327**
+🌌 **Constellation #328**
 
 ```
- ★   ★     ✺                                 ✺
-        ✦   ∗   ✦   ∗                         
-     ✧ ✸           ✸     ✧                    
-                ·                     · ⋆ ⋆   
+                       ✺ ✺           ★ ★      
+        ✦       ✦   ✦               ∗       ∗ 
+       ✧         ✸                 ✧       ✸  
+·         ⋆         ⋆               ·         
 ```
 
 ---
 
-🎨 **Color of the Day · `#2DEBCB` · Seafoam**
+🎨 **Color of the Day · `#7B47C9` · Violet**
 
-[![color swatch](https://img.shields.io/badge/Seafoam-2DEBCB?style=for-the-badge&color=2DEBCB&labelColor=2DEBCB)](https://www.color-hex.com/color/2DEBCB)
+[![color swatch](https://img.shields.io/badge/Violet-7B47C9?style=for-the-badge&color=7B47C9&labelColor=7B47C9)](https://www.color-hex.com/color/7B47C9)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"One of my most productive days was throwing away 1,000 lines of code."*
+*"The art of programming is the art of organizing complexity."*
 
-— **Ken Thompson**
+— **Edsger W. Dijkstra**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Monday, Nov 23 2026 · Day 327 of 365**
+**Tuesday, Nov 24 2026 · Day 328 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████████░░░` **89.6%** — *38 days remaining*
+`███████████████████████░░░` **89.9%** — *37 days remaining*
 
 ---
 
-🌌 **Constellation #327**
+🌌 **Constellation #328**
 
 ```
- ★   ★     ✺                                 ✺
-        ✦   ∗   ✦   ∗                         
-     ✧ ✸           ✸     ✧                    
-                ·                     · ⋆ ⋆   
+                       ✺ ✺           ★ ★      
+        ✦       ✦   ✦               ∗       ∗ 
+       ✧         ✸                 ✧       ✸  
+·         ⋆         ⋆               ·         
 ```
 
 ---
 
-🎨 **Color of the Day · `#2DEBCB` · Seafoam**
+🎨 **Color of the Day · `#7B47C9` · Violet**
 
-[![color swatch](https://img.shields.io/badge/Seafoam-2DEBCB?style=for-the-badge&color=2DEBCB&labelColor=2DEBCB)](https://www.color-hex.com/color/2DEBCB)
+[![color swatch](https://img.shields.io/badge/Violet-7B47C9?style=for-the-badge&color=7B47C9&labelColor=7B47C9)](https://www.color-hex.com/color/7B47C9)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"One of my most productive days was throwing away 1,000 lines of code."*
+*"The art of programming is the art of organizing complexity."*
 
-— **Ken Thompson**
+— **Edsger W. Dijkstra**
 
 ---
 
