@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Tuesday, Nov 24 2026 · Day 328 of 365**
+**Wednesday, Nov 25 2026 · Day 329 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████████░░░` **89.9%** — *37 days remaining*
+`███████████████████████░░░` **90.1%** — *36 days remaining*
 
 ---
 
-🌌 **Constellation #328**
+🌌 **Constellation #329**
 
 ```
-                       ✺ ✺           ★ ★      
-        ✦       ✦   ✦               ∗       ∗ 
-       ✧         ✸                 ✧       ✸  
-·         ⋆         ⋆               ·         
+   ★       ★       ✺                 ✺        
+                      ∗ ✦         ✦         ∗ 
+           ✧ ✸           ✸                    
+                    ⋆                 ·   ⋆   
 ```
 
 ---
 
-🎨 **Color of the Day · `#7B47C9` · Violet**
+🎨 **Color of the Day · `#ADC72A` · Chartreuse**
 
-[![color swatch](https://img.shields.io/badge/Violet-7B47C9?style=for-the-badge&color=7B47C9&labelColor=7B47C9)](https://www.color-hex.com/color/7B47C9)
+[![color swatch](https://img.shields.io/badge/Chartreuse-ADC72A?style=for-the-badge&color=ADC72A&labelColor=ADC72A)](https://www.color-hex.com/color/ADC72A)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"The art of programming is the art of organizing complexity."*
+*"Every great developer got there by solving problems they were unqualified to solve — until they did."*
 
-— **Edsger W. Dijkstra**
+— **Patrick McKenzie**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Tuesday, Nov 24 2026 · Day 328 of 365**
+**Wednesday, Nov 25 2026 · Day 329 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████████░░░` **89.9%** — *37 days remaining*
+`███████████████████████░░░` **90.1%** — *36 days remaining*
 
 ---
 
-🌌 **Constellation #328**
+🌌 **Constellation #329**
 
 ```
-                       ✺ ✺           ★ ★      
-        ✦       ✦   ✦               ∗       ∗ 
-       ✧         ✸                 ✧       ✸  
-·         ⋆         ⋆               ·         
+   ★       ★       ✺                 ✺        
+                      ∗ ✦         ✦         ∗ 
+           ✧ ✸           ✸                    
+                    ⋆                 ·   ⋆   
 ```
 
 ---
 
-🎨 **Color of the Day · `#7B47C9` · Violet**
+🎨 **Color of the Day · `#ADC72A` · Chartreuse**
 
-[![color swatch](https://img.shields.io/badge/Violet-7B47C9?style=for-the-badge&color=7B47C9&labelColor=7B47C9)](https://www.color-hex.com/color/7B47C9)
+[![color swatch](https://img.shields.io/badge/Chartreuse-ADC72A?style=for-the-badge&color=ADC72A&labelColor=ADC72A)](https://www.color-hex.com/color/ADC72A)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"The art of programming is the art of organizing complexity."*
+*"Every great developer got there by solving problems they were unqualified to solve — until they did."*
 
-— **Edsger W. Dijkstra**
+— **Patrick McKenzie**
 
 ---
 
