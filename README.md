@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Wednesday, Nov 25 2026 · Day 329 of 365**
+**Thursday, Nov 26 2026 · Day 330 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████████░░░` **90.1%** — *36 days remaining*
+`████████████████████████░░` **90.4%** — *35 days remaining*
 
 ---
 
-🌌 **Constellation #329**
+🌌 **Constellation #330**
 
 ```
-   ★       ★       ✺                 ✺        
-                      ∗ ✦         ✦         ∗ 
-           ✧ ✸           ✸                    
-                    ⋆                 ·   ⋆   
+   ✺     ★               ✺       ★            
+  ∗ ✦       ✦       ∗                         
+       ✸     ✸           ✧         ✧          
+                    ⋆     ⋆           ·       
 ```
 
 ---
 
-🎨 **Color of the Day · `#ADC72A` · Chartreuse**
+🎨 **Color of the Day · `#38ADC7` · Teal**
 
-[![color swatch](https://img.shields.io/badge/Chartreuse-ADC72A?style=for-the-badge&color=ADC72A&labelColor=ADC72A)](https://www.color-hex.com/color/ADC72A)
+[![color swatch](https://img.shields.io/badge/Teal-38ADC7?style=for-the-badge&color=38ADC7&labelColor=38ADC7)](https://www.color-hex.com/color/38ADC7)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Every great developer got there by solving problems they were unqualified to solve — until they did."*
+*"Don't document bad code — rewrite it."*
 
-— **Patrick McKenzie**
+— **Brian W. Kernighan**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Wednesday, Nov 25 2026 · Day 329 of 365**
+**Thursday, Nov 26 2026 · Day 330 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`███████████████████████░░░` **90.1%** — *36 days remaining*
+`████████████████████████░░` **90.4%** — *35 days remaining*
 
 ---
 
-🌌 **Constellation #329**
+🌌 **Constellation #330**
 
 ```
-   ★       ★       ✺                 ✺        
-                      ∗ ✦         ✦         ∗ 
-           ✧ ✸           ✸                    
-                    ⋆                 ·   ⋆   
+   ✺     ★               ✺       ★            
+  ∗ ✦       ✦       ∗                         
+       ✸     ✸           ✧         ✧          
+                    ⋆     ⋆           ·       
 ```
 
 ---
 
-🎨 **Color of the Day · `#ADC72A` · Chartreuse**
+🎨 **Color of the Day · `#38ADC7` · Teal**
 
-[![color swatch](https://img.shields.io/badge/Chartreuse-ADC72A?style=for-the-badge&color=ADC72A&labelColor=ADC72A)](https://www.color-hex.com/color/ADC72A)
+[![color swatch](https://img.shields.io/badge/Teal-38ADC7?style=for-the-badge&color=38ADC7&labelColor=38ADC7)](https://www.color-hex.com/color/38ADC7)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Every great developer got there by solving problems they were unqualified to solve — until they did."*
+*"Don't document bad code — rewrite it."*
 
-— **Patrick McKenzie**
+— **Brian W. Kernighan**
 
 ---
 
