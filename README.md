@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Thursday, Nov 26 2026 · Day 330 of 365**
+**Friday, Nov 27 2026 · Day 331 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████████████████░░` **90.4%** — *35 days remaining*
+`████████████████████████░░` **90.7%** — *34 days remaining*
 
 ---
 
-🌌 **Constellation #330**
+🌌 **Constellation #331**
 
 ```
-   ✺     ★               ✺       ★            
-  ∗ ✦       ✦       ∗                         
-       ✸     ✸           ✧         ✧          
-                    ⋆     ⋆           ·       
+ ✺                         ✺         ★       ★
+        ✦               ∗   ∗     ✦           
+                 ✸   ✸                        
+    ⋆     · ⋆                                 
 ```
 
 ---
 
-🎨 **Color of the Day · `#38ADC7` · Teal**
+🎨 **Color of the Day · `#40B89C` · Seafoam**
 
-[![color swatch](https://img.shields.io/badge/Teal-38ADC7?style=for-the-badge&color=38ADC7&labelColor=38ADC7)](https://www.color-hex.com/color/38ADC7)
+[![color swatch](https://img.shields.io/badge/Seafoam-40B89C?style=for-the-badge&color=40B89C&labelColor=40B89C)](https://www.color-hex.com/color/40B89C)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Don't document bad code — rewrite it."*
+*"Talk is cheap. Show me the code."*
 
-— **Brian W. Kernighan**
+— **Linus Torvalds**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Thursday, Nov 26 2026 · Day 330 of 365**
+**Friday, Nov 27 2026 · Day 331 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████████████████░░` **90.4%** — *35 days remaining*
+`████████████████████████░░` **90.7%** — *34 days remaining*
 
 ---
 
-🌌 **Constellation #330**
+🌌 **Constellation #331**
 
 ```
-   ✺     ★               ✺       ★            
-  ∗ ✦       ✦       ∗                         
-       ✸     ✸           ✧         ✧          
-                    ⋆     ⋆           ·       
+ ✺                         ✺         ★       ★
+        ✦               ∗   ∗     ✦           
+                 ✸   ✸                        
+    ⋆     · ⋆                                 
 ```
 
 ---
 
-🎨 **Color of the Day · `#38ADC7` · Teal**
+🎨 **Color of the Day · `#40B89C` · Seafoam**
 
-[![color swatch](https://img.shields.io/badge/Teal-38ADC7?style=for-the-badge&color=38ADC7&labelColor=38ADC7)](https://www.color-hex.com/color/38ADC7)
+[![color swatch](https://img.shields.io/badge/Seafoam-40B89C?style=for-the-badge&color=40B89C&labelColor=40B89C)](https://www.color-hex.com/color/40B89C)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Don't document bad code — rewrite it."*
+*"Talk is cheap. Show me the code."*
 
-— **Brian W. Kernighan**
+— **Linus Torvalds**
 
 ---
 
