@@ -52,38 +52,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Friday, Nov 27 2026 · Day 331 of 365**
+**Saturday, Nov 28 2026 · Day 332 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████████████████░░` **90.7%** — *34 days remaining*
+`████████████████████████░░` **91.0%** — *33 days remaining*
 
 ---
 
-🌌 **Constellation #331**
+🌌 **Constellation #332**
 
 ```
- ✺                         ✺         ★       ★
-        ✦               ∗   ∗     ✦           
-                 ✸   ✸                        
-    ⋆     · ⋆                                 
+       ★                 ✺       ★     ✺      
+              ∗     ✦       ∗     ✦           
+   ✸             ✧ ✧             ✸            
+                · ⋆           ⋆               
 ```
 
 ---
 
-🎨 **Color of the Day · `#40B89C` · Seafoam**
+🎨 **Color of the Day · `#34EB7A` · Emerald**
 
-[![color swatch](https://img.shields.io/badge/Seafoam-40B89C?style=for-the-badge&color=40B89C&labelColor=40B89C)](https://www.color-hex.com/color/40B89C)
+[![color swatch](https://img.shields.io/badge/Emerald-34EB7A?style=for-the-badge&color=34EB7A&labelColor=34EB7A)](https://www.color-hex.com/color/34EB7A)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Talk is cheap. Show me the code."*
+*"Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live."*
 
-— **Linus Torvalds**
+— **John F. Woods**
 
 ---
 
@@ -106,38 +106,38 @@
 
 ### ⚡ THE CHRONICLE
 
-**Friday, Nov 27 2026 · Day 331 of 365**
+**Saturday, Nov 28 2026 · Day 332 of 365**
 
 ---
 
 📅 **Year in Progress**
 
-`████████████████████████░░` **90.7%** — *34 days remaining*
+`████████████████████████░░` **91.0%** — *33 days remaining*
 
 ---
 
-🌌 **Constellation #331**
+🌌 **Constellation #332**
 
 ```
- ✺                         ✺         ★       ★
-        ✦               ∗   ∗     ✦           
-                 ✸   ✸                        
-    ⋆     · ⋆                                 
+       ★                 ✺       ★     ✺      
+              ∗     ✦       ∗     ✦           
+   ✸             ✧ ✧             ✸            
+                · ⋆           ⋆               
 ```
 
 ---
 
-🎨 **Color of the Day · `#40B89C` · Seafoam**
+🎨 **Color of the Day · `#34EB7A` · Emerald**
 
-[![color swatch](https://img.shields.io/badge/Seafoam-40B89C?style=for-the-badge&color=40B89C&labelColor=40B89C)](https://www.color-hex.com/color/40B89C)
+[![color swatch](https://img.shields.io/badge/Emerald-34EB7A?style=for-the-badge&color=34EB7A&labelColor=34EB7A)](https://www.color-hex.com/color/34EB7A)
 
 ---
 
 💬 **Daily Wisdom**
 
-*"Talk is cheap. Show me the code."*
+*"Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live."*
 
-— **Linus Torvalds**
+— **John F. Woods**
 
 ---
 
